@@ -17,8 +17,8 @@
 "1746620"
 ],
 "citE": [
-"2878308",
 "2871910",
+"2878308",
 "2701993",
 "2940359",
 "1862804",
@@ -89,8 +89,8 @@
 "abstract": "We establish a unified theory-to-simulation framework for self-interacting dark matter (SIDM) that integrates three components: (i) a comprehensive, self-contained treatment of its particle-physics foundations and a broad range of model classes; (ii) a systematic, quantitative mapping from microscopic dark-sector physics to structure-formation simulation inputs through explicit expressions and numerical prescriptions; and (iii) the development, implementation, and validation of a broad suite of SIDM algorithms and a dedicated DM decay module in the moving-mesh code AREPO-2. Under (i), we detail the particle content, symmetries, interactions, production mechanisms, and constraints of a broad landscape of elementary and composite SIDM models, and present representative viable benchmark models. Under (ii), the mapping specifies cosmological initial conditions, internal-state masses and populations, reaction networks, velocity- and angle-dependent cross sections, dissipative energy loss, and decay rates and recoil kinematics. We then apply this mapping to a broad range of SIDM model classes. Under (iii), we implement and validate SIDM algorithms with constant and velocity-dependent cross sections, covering isotropic and anisotropic scattering, multi-state elastic and inelastic reactions, and dissipative processes, alongside a dedicated DM decay module in AREPO-2. We validate these implementations through beam-lattice deflection experiments, thermalization and uniform-box decay tests, isolated-halo gravothermal core-collapse simulations, and cosmological box and zoom-in simulations. These tests recover analytical predictions, establish agreement across numerical schemes, and reproduce published benchmarks. Our theory-to-simulation framework serves as a cross-disciplinary reference and a practical bridge between SIDM particle physics and simulations of nonlinear structure formation.",
 "citR": [],
 "citE": [
-"3128103",
 "3070028",
+"3128103",
 "1518747",
 "2817040"
 ],
@@ -4258,6 +4258,60 @@
 [
 0.014,
 "3174071"
+]
+],
+"isme": false,
+"coauthors": [],
+"parts": [
+0.0,
+0.0,
+0.05,
+0.0
+],
+"score": 0.8
+},
+{
+"arxiv": "2608.02498",
+"section": "replacement",
+"recid": "3187139",
+"src": "INSPIRE",
+"nref": 59,
+"title": "Axion Inflation: Perturbative control in the strong backreaction regime",
+"authors": [
+"Valerie Domcke",
+"Alexandros Papageorgiou",
+"Marco Peloso",
+"Stefan Sandner"
+],
+"abstract": "We study the strong backreaction regime in axion inflation, in which the friction from Abelian gauge fields generated via the pseudo-scalar interaction $\\fracβ{4 M_p} φF {\\tilde F}$ is comparable to Hubble friction. The non-linear dynamics associated with the gauge fields render this regime phenomenologically particularly interesting, but also notoriously difficult to study with perturbative methods. Quantifying the perturbative control through the direct impact on the spectral backreaction using (i) a first-order gradient-expansion formalism including axion gradients, and (ii) a one-loop in-in calculation, we discover an extended mild backreaction regime at large couplings $β$, with a relatively large, nearly constant particle production parameter $ξ$. In passing, we point out that CMB non-Gaussianity bounds impose a general upper limit on the product of axion gauge field coupling and Hubble parameter during inflation, $βH/M_p < 1.4\\cdot 10^{-3}$, independently of the choice of the axion potential.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.019,
+"2051195"
+],
+[
+0.015,
+"1955022"
+],
+[
+0.012,
+"1892885"
 ]
 ],
 "isme": false,
