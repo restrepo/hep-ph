@@ -49,8 +49,8 @@
 "Vicente, A."
 ],
 "topics": [
-"neutrino mass",
 "lepton flavor violation",
+"neutrino mass",
 "seesaw mechanism",
 "gauge symmetry"
 ],
@@ -59,9 +59,9 @@
 0.22,
 0.66,
 0.5,
-0.69
+0.74
 ],
-"score": 44.1
+"score": 44.6
 },
 {
 "arxiv": "2605.27519",
@@ -123,9 +123,9 @@
 0.09,
 0.65,
 0.0,
-0.47
+0.49
 ],
-"score": 42.3
+"score": 42.5
 },
 {
 "arxiv": "2607.07794",
@@ -179,17 +179,17 @@
 "vector-like fermion",
 "seesaw mechanism",
 "gauge symmetry",
-"fermion mass",
-"yukawa coupling"
+"abelian gauge",
+"fermion mass"
 ],
 "parts": [
 0.48,
 0.25,
 0.24,
 0.0,
-0.76
+0.8
 ],
-"score": 35.8
+"score": 36.1
 },
 {
 "arxiv": "2610.36780",
@@ -240,76 +240,15 @@
 ],
 "isme": false,
 "coauthors": [],
-"topics": [
-"charged higgs"
-],
+"topics": [],
 "parts": [
 0.48,
 0.12,
 0.53,
 0.0,
-0.22
+0.07
 ],
-"score": 30.8
-},
-{
-"arxiv": "2610.36163",
-"section": "new",
-"recid": "3219367",
-"src": "INSPIRE",
-"nref": 88,
-"title": "A GOOFy Three Higgs Doublet Model",
-"authors": [
-"I. de Medeiros Varzielas",
-"P. M. Ferreira",
-"S. Oliveira"
-],
-"abstract": "Recent developments in two-Higgs doublet models identified regions of parameter space which are renormalization-group invariant to all orders of perturbation theory but cannot be described by any of the known symmetries of those models. These were dubbed GOOFy symmetries, as they involve scalar doublets and their complex conjugates transforming independently, and imaginary scaling of spacetime coordinates is needed to ensure invariance of kinetic terms. We build a three-Higgs doublet model with a GOOFy symmetry including extensions to the fermion sector. We prove renormalization group invariance through a direct calculation of the model's beta functions and analyse the corresponding phenomenology. The model is shown to be compatible with current LHC observations, displaying interesting features which may be probed in the near future.",
-"citR": [],
-"citE": [
-"1846048",
-"902365",
-"2817040"
-],
-"topR": [
-[
-0.032,
-"1116165"
-],
-[
-0.011,
-"1663960"
-],
-[
-0.011,
-"1402978"
-]
-],
-"topE": [
-[
-0.111,
-"2932612"
-],
-[
-0.091,
-"2815355"
-],
-[
-0.082,
-"1846048"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.51,
-0.09,
-0.32,
-0.0,
-0.1
-],
-"score": 26.3
+"score": 29.3
 },
 {
 "arxiv": "2610.37106",
@@ -370,6 +309,65 @@
 0.0
 ],
 "score": 25.7
+},
+{
+"arxiv": "2610.36163",
+"section": "new",
+"recid": "3219367",
+"src": "INSPIRE",
+"nref": 88,
+"title": "A GOOFy Three Higgs Doublet Model",
+"authors": [
+"I. de Medeiros Varzielas",
+"P. M. Ferreira",
+"S. Oliveira"
+],
+"abstract": "Recent developments in two-Higgs doublet models identified regions of parameter space which are renormalization-group invariant to all orders of perturbation theory but cannot be described by any of the known symmetries of those models. These were dubbed GOOFy symmetries, as they involve scalar doublets and their complex conjugates transforming independently, and imaginary scaling of spacetime coordinates is needed to ensure invariance of kinetic terms. We build a three-Higgs doublet model with a GOOFy symmetry including extensions to the fermion sector. We prove renormalization group invariance through a direct calculation of the model's beta functions and analyse the corresponding phenomenology. The model is shown to be compatible with current LHC observations, displaying interesting features which may be probed in the near future.",
+"citR": [],
+"citE": [
+"1846048",
+"902365",
+"2817040"
+],
+"topR": [
+[
+0.032,
+"1116165"
+],
+[
+0.011,
+"1663960"
+],
+[
+0.011,
+"1402978"
+]
+],
+"topE": [
+[
+0.111,
+"2932612"
+],
+[
+0.091,
+"2815355"
+],
+[
+0.082,
+"1846048"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.51,
+0.09,
+0.32,
+0.0,
+0.02
+],
+"score": 25.5
 },
 {
 "arxiv": "2610.37318",
@@ -435,17 +433,15 @@
 ],
 "isme": false,
 "coauthors": [],
-"topics": [
-"mixing angle"
-],
+"topics": [],
 "parts": [
 0.48,
 0.06,
 0.32,
 0.0,
-0.1
+0.0
 ],
-"score": 24.6
+"score": 23.5
 },
 {
 "arxiv": "2508.19358",
@@ -501,9 +497,9 @@
 0.04,
 0.21,
 0.0,
-0.37
+0.31
 ],
-"score": 24.0
+"score": 23.4
 },
 {
 "arxiv": "2610.36107",
@@ -724,17 +720,17 @@
 "coauthors": [],
 "topics": [
 "neutrino mass",
-"majorana neutrino",
-"seesaw mechanism"
+"seesaw mechanism",
+"majorana neutrino"
 ],
 "parts": [
 0.06,
 0.16,
 0.38,
 0.0,
-0.59
+0.61
 ],
-"score": 18.5
+"score": 18.7
 },
 {
 "arxiv": "2610.31666",
@@ -793,9 +789,9 @@
 0.11,
 0.17,
 0.5,
-0.5
+0.42
 ],
-"score": 15.9
+"score": 15.1
 },
 {
 "arxiv": "2610.36003",
@@ -845,17 +841,75 @@
 "isme": false,
 "coauthors": [],
 "topics": [
-"fermion mass",
-"dark matter model"
+"dark matter model",
+"fermion mass"
 ],
 "parts": [
 0.11,
 0.16,
 0.21,
 0.0,
-0.23
+0.31
 ],
-"score": 14.1
+"score": 15.0
+},
+{
+"arxiv": "2609.11747",
+"section": "replacement",
+"recid": "3202484",
+"src": "INSPIRE",
+"nref": 92,
+"title": "Precise bubble wall velocity in a specific phase transition pattern in the CxSM and beyond",
+"authors": [
+"Shihang Tang",
+"Fa Peng Huang",
+"Chikako Idegawa"
+],
+"abstract": "The bubble wall velocity is a key quantity in cosmological first-order phase transitions, with important implications for electroweak baryogenesis, gravitational wave signals, the dark matter relic density and primordial black holes formed during the phase transition. However, it is often treated as a free input in phenomenological studies, while a self-consistent determination remains challenging. In this work, taking the complex singlet extension of the Standard Model as an example, we investigate the bubble wall dynamics and velocity in a specific electroweak phase transition pattern where both the Higgs field and the coupled singlet scalar experience friction. The microscopic friction arising from particle interactions with the plasma is evaluated using Boltzmann transport equations, while the macroscopic plasma response is described through hydrodynamic analysis. By applying the steady state force balance condition, we numerically determine the bubble wall velocity for different model parameters. We show that the wall velocity is governed by the competition between the driving force from the effective potential and plasma friction, and that its variation can significantly affect the baryon asymmetry. Our study provides a quantitative investigation of bubble wall dynamics in this overlooked phase transition pattern and its implications for early Universe phenomenology.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.032,
+"2080612"
+],
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+]
+],
+"topE": [
+[
+0.127,
+"3157653"
+],
+[
+0.126,
+"3188391"
+],
+[
+0.077,
+"2684223"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"relic density",
+"singlet scalar"
+],
+"parts": [
+0.0,
+0.08,
+0.36,
+0.0,
+0.56
+],
+"score": 13.3
 },
 {
 "arxiv": "2610.36004",
@@ -912,67 +966,9 @@
 0.13,
 0.21,
 0.0,
-0.13
+0.19
 ],
-"score": 12.3
-},
-{
-"arxiv": "2609.11747",
-"section": "replacement",
-"recid": "3202484",
-"src": "INSPIRE",
-"nref": 92,
-"title": "Precise bubble wall velocity in a specific phase transition pattern in the CxSM and beyond",
-"authors": [
-"Shihang Tang",
-"Fa Peng Huang",
-"Chikako Idegawa"
-],
-"abstract": "The bubble wall velocity is a key quantity in cosmological first-order phase transitions, with important implications for electroweak baryogenesis, gravitational wave signals, the dark matter relic density and primordial black holes formed during the phase transition. However, it is often treated as a free input in phenomenological studies, while a self-consistent determination remains challenging. In this work, taking the complex singlet extension of the Standard Model as an example, we investigate the bubble wall dynamics and velocity in a specific electroweak phase transition pattern where both the Higgs field and the coupled singlet scalar experience friction. The microscopic friction arising from particle interactions with the plasma is evaluated using Boltzmann transport equations, while the macroscopic plasma response is described through hydrodynamic analysis. By applying the steady state force balance condition, we numerically determine the bubble wall velocity for different model parameters. We show that the wall velocity is governed by the competition between the driving force from the effective potential and plasma friction, and that its variation can significantly affect the baryon asymmetry. Our study provides a quantitative investigation of bubble wall dynamics in this overlooked phase transition pattern and its implications for early Universe phenomenology.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.032,
-"2080612"
-],
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-]
-],
-"topE": [
-[
-0.127,
-"3157653"
-],
-[
-0.126,
-"3188391"
-],
-[
-0.077,
-"2684223"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"relic density",
-"singlet scalar"
-],
-"parts": [
-0.0,
-0.08,
-0.36,
-0.0,
-0.46
-],
-"score": 12.3
+"score": 12.9
 },
 {
 "arxiv": "2610.36161",
@@ -1027,69 +1023,9 @@
 0.2,
 0.26,
 0.0,
-0.02
+0.07
 ],
-"score": 12.2
-},
-{
-"arxiv": "2610.37039",
-"section": "new",
-"recid": "3219469",
-"src": "INSPIRE",
-"nref": 25,
-"title": "Constraining New Physics by Studying Single Top Quark Production",
-"authors": [
-"Maryam Roknabadi",
-"Saeid Paktinat Mehdiabadi",
-"Seyed Mohammad Reza Tabatabaei"
-],
-"abstract": "This study introduces a beyond the Standard Model framework by adding a charged scalar particle, H_c, analogous to the charged Higgs in the Two-Higgs-Doublet Model (2HDM), but analyzed without the restrictive constraints typically applied in 2HDM scenarios. To assess the impact of H_c on single top quark production, two approaches are taken. First, variations in the production cross-section via the s- and t-channels are examined under different values of the model parameters, compared to the SM predictions. Second, spin correlations are analyzed, focusing on differences in the spin of the mediated particle between the new model and SM in the single top quark production via the s-channel. Within the framework of the simplified phenomenological model considered here, a significant fraction of the parameter space can be constrained by combining the two approaches.",
-"citR": [],
-"citE": [
-"902365",
-"2817040"
-],
-"topR": [
-[
-0.038,
-"1116165"
-],
-[
-0.036,
-"1854224"
-],
-[
-0.032,
-"2030200"
-]
-],
-"topE": [
-[
-0.05,
-"3190962"
-],
-[
-0.035,
-"1499879"
-],
-[
-0.034,
-"2665284"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"charged higgs"
-],
-"parts": [
-0.11,
-0.12,
-0.14,
-0.0,
-0.16
-],
-"score": 11.4
+"score": 12.7
 },
 {
 "arxiv": "2610.36049",
@@ -1147,9 +1083,67 @@
 0.1,
 0.17,
 0.0,
-0.52
+0.62
 ],
-"score": 10.7
+"score": 11.7
+},
+{
+"arxiv": "2610.37039",
+"section": "new",
+"recid": "3219469",
+"src": "INSPIRE",
+"nref": 25,
+"title": "Constraining New Physics by Studying Single Top Quark Production",
+"authors": [
+"Maryam Roknabadi",
+"Saeid Paktinat Mehdiabadi",
+"Seyed Mohammad Reza Tabatabaei"
+],
+"abstract": "This study introduces a beyond the Standard Model framework by adding a charged scalar particle, H_c, analogous to the charged Higgs in the Two-Higgs-Doublet Model (2HDM), but analyzed without the restrictive constraints typically applied in 2HDM scenarios. To assess the impact of H_c on single top quark production, two approaches are taken. First, variations in the production cross-section via the s- and t-channels are examined under different values of the model parameters, compared to the SM predictions. Second, spin correlations are analyzed, focusing on differences in the spin of the mediated particle between the new model and SM in the single top quark production via the s-channel. Within the framework of the simplified phenomenological model considered here, a significant fraction of the parameter space can be constrained by combining the two approaches.",
+"citR": [],
+"citE": [
+"902365",
+"2817040"
+],
+"topR": [
+[
+0.038,
+"1116165"
+],
+[
+0.036,
+"1854224"
+],
+[
+0.032,
+"2030200"
+]
+],
+"topE": [
+[
+0.05,
+"3190962"
+],
+[
+0.035,
+"1499879"
+],
+[
+0.034,
+"2665284"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.11,
+0.12,
+0.14,
+0.0,
+0.06
+],
+"score": 10.3
 },
 {
 "arxiv": "2508.12392",
@@ -1260,6 +1254,63 @@
 0.0
 ],
 "score": 8.9
+},
+{
+"arxiv": "2610.36033",
+"section": "new",
+"recid": "3219331",
+"src": "INSPIRE",
+"nref": 94,
+"title": "Can inflationary axion fluctuations dominate over misalignment?",
+"authors": [
+"Seung J. Lee",
+"Sarunas Verner",
+"Bingrong Yu"
+],
+"abstract": "The relic abundance of light stable axion dark matter is usually set by misalignment. We study whether the inflationary fluctuations of the axion can dominate instead, and we follow the modes analytically through an instantaneous transition from de Sitter expansion to radiation domination, neglecting the axion mass during inflation and keeping it afterward. Since the energy density is quadratic in the field, a fluctuation-dominated abundance carries an isocurvature perturbation even when the mean displacement vanishes. For a canonical minimally coupled axion the spectrum is scale invariant, and fluctuation-dominated dark matter exceeds the Planck isocurvature limit by about eight orders of magnitude. An inflaton-dependent kinetic function or a nonminimal coupling to the Ricci scalar tilts the spectrum blue, moving the fluctuation power from CMB scales to small scales. Imposing the Planck limit at the pivot scale, we find that fluctuation-dominated dark matter with a constant kinetic slope requires the spectral tilt $n_η-1\\gtrsim0.27$ and the axion mass $m_η \\gtrsim200 \\rm{GeV}$ at $H_I=10^{10}\\rm{GeV}$, and $n_η-1\\gtrsim0.34$ and $m_η\\gtrsim4.5\\,$keV at $H_I=10^{13}\\rm{GeV}$. A kinetic function with a running slope lowers these masses to $1.4~\\rm{GeV}$ and $0.7\\,$eV, respectively. For the QCD axion, whose oscillations start late, we estimate that any single power-law spectrum blue enough to satisfy the pivot limit gives too little fluctuation abundance, and misalignment dominates.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.024,
+"1607572"
+],
+[
+0.018,
+"2855387"
+],
+[
+0.011,
+"1755250"
+]
+],
+"topE": [
+[
+0.065,
+"1955022"
+],
+[
+0.056,
+"2703113"
+],
+[
+0.053,
+"2736974"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"relic abundance"
+],
+"parts": [
+0.0,
+0.07,
+0.19,
+0.0,
+0.28
+],
+"score": 7.8
 },
 {
 "arxiv": "2610.37308",
@@ -1486,61 +1537,61 @@
 "score": 6.6
 },
 {
-"arxiv": "2610.36033",
-"section": "new",
-"recid": "3219331",
+"arxiv": "2503.23741",
+"section": "replacement",
+"recid": "2906211",
 "src": "INSPIRE",
-"nref": 94,
-"title": "Can inflationary axion fluctuations dominate over misalignment?",
+"nref": 51,
+"title": "Classification of Modular Symmetries in Non-Supersymmetric Heterotic String theories",
 "authors": [
-"Seung J. Lee",
-"Sarunas Verner",
-"Bingrong Yu"
+"Shuta Funakoshi",
+"Yuichi Koga",
+"Hajime Otsuka"
 ],
-"abstract": "The relic abundance of light stable axion dark matter is usually set by misalignment. We study whether the inflationary fluctuations of the axion can dominate instead, and we follow the modes analytically through an instantaneous transition from de Sitter expansion to radiation domination, neglecting the axion mass during inflation and keeping it afterward. Since the energy density is quadratic in the field, a fluctuation-dominated abundance carries an isocurvature perturbation even when the mean displacement vanishes. For a canonical minimally coupled axion the spectrum is scale invariant, and fluctuation-dominated dark matter exceeds the Planck isocurvature limit by about eight orders of magnitude. An inflaton-dependent kinetic function or a nonminimal coupling to the Ricci scalar tilts the spectrum blue, moving the fluctuation power from CMB scales to small scales. Imposing the Planck limit at the pivot scale, we find that fluctuation-dominated dark matter with a constant kinetic slope requires the spectral tilt $n_η-1\\gtrsim0.27$ and the axion mass $m_η \\gtrsim200 \\rm{GeV}$ at $H_I=10^{10}\\rm{GeV}$, and $n_η-1\\gtrsim0.34$ and $m_η\\gtrsim4.5\\,$keV at $H_I=10^{13}\\rm{GeV}$. A kinetic function with a running slope lowers these masses to $1.4~\\rm{GeV}$ and $0.7\\,$eV, respectively. For the QCD axion, whose oscillations start late, we estimate that any single power-law spectrum blue enough to satisfy the pivot limit gives too little fluctuation abundance, and misalignment dominates.",
+"abstract": "We study modular symmetries in non-supersymmetric heterotic string theories on toroidal backgrounds with Wilson line modulus, constructed by stringy Scherk-Schwartz compactification. In particular, we focus on a subgroup of the T-duality group $O(D+16,D,\\mathbb{Z})$ with $D=2$ given by an outer automorphism of the Narain lattice, which can be mapped to the Siegel modular group $\\mathrm{Sp}(4,\\mathbb{Z})$. We classify the modular symmetries and a $CP$-like symmetry on $T^2$ and its orbifolds with symmetric and asymmetric orbifold twists. It turns out that the non-supersymmetric heterotic string theories only enjoy a part of modular symmetries in contrast to supersymmetric ones. Furthermore, the gauge symmetry is maximally enhanced at fixed points of modular symmetries on $T^2$ on which we analyze the vacuum structure of eight-dimensional tachyon-free vacua.",
 "citR": [],
 "citE": [],
 "topR": [
 [
-0.024,
-"1607572"
+0.0,
+"926166"
 ],
 [
-0.018,
-"2855387"
+0.0,
+"922002"
 ],
 [
-0.011,
-"1755250"
+0.0,
+"860906"
 ]
 ],
 "topE": [
 [
-0.065,
-"1955022"
+0.099,
+"1973492"
 ],
 [
-0.056,
-"2703113"
+0.086,
+"2762216"
 ],
 [
-0.053,
-"2736974"
+0.019,
+"2715897"
 ]
 ],
 "isme": false,
 "coauthors": [],
 "topics": [
-"relic abundance"
+"gauge symmetry"
 ],
 "parts": [
 0.0,
-0.07,
-0.19,
 0.0,
-0.15
+0.28,
+0.0,
+0.18
 ],
-"score": 6.5
+"score": 6.1
 },
 {
 "arxiv": "2610.37137",
@@ -1654,119 +1705,60 @@
 "score": 5.7
 },
 {
-"arxiv": "2503.23741",
-"section": "replacement",
-"recid": "2906211",
+"arxiv": "2610.27068",
+"section": "cross",
+"recid": "3216791",
 "src": "INSPIRE",
-"nref": 51,
-"title": "Classification of Modular Symmetries in Non-Supersymmetric Heterotic String theories",
+"nref": 99,
+"title": "ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching",
 "authors": [
-"Shuta Funakoshi",
-"Yuichi Koga",
-"Hajime Otsuka"
+"Ibrahim Elsharkawy",
+"David Curtin",
+"Yonatan Kahn",
+"Neal Weiner"
 ],
-"abstract": "We study modular symmetries in non-supersymmetric heterotic string theories on toroidal backgrounds with Wilson line modulus, constructed by stringy Scherk-Schwartz compactification. In particular, we focus on a subgroup of the T-duality group $O(D+16,D,\\mathbb{Z})$ with $D=2$ given by an outer automorphism of the Narain lattice, which can be mapped to the Siegel modular group $\\mathrm{Sp}(4,\\mathbb{Z})$. We classify the modular symmetries and a $CP$-like symmetry on $T^2$ and its orbifolds with symmetric and asymmetric orbifold twists. It turns out that the non-supersymmetric heterotic string theories only enjoy a part of modular symmetries in contrast to supersymmetric ones. Furthermore, the gauge symmetry is maximally enhanced at fixed points of modular symmetries on $T^2$ on which we analyze the vacuum structure of eight-dimensional tachyon-free vacua.",
+"abstract": "The microphysics of dark matter (DM) is imprinted on cosmological structure across an enormous dynamic range. Nonlinear cosmological observables are most reliably modeled with N-body and hydrodynamic simulations. However, systematic N-body scans over DM theory space are prohibitively expensive. Machine learning emulators provide a possible solution, but are currently limited by either low resolution or only the ability to emulate specific observables. We introduce Astrolabe, a flow-matching-based generative emulator designed to be free of both constraints. Astrolabe acts directly on the 6N phase-space coordinates of N individual particles. With no voxel grid in the output, there is no voxel-resolution ceiling, and in principle any observable can be measured from inference. Astrolabe is computationally tractable via a field-particle hybrid transformer in which every particle cross-attends to multiscale field tokens, so compute and memory are linear in N. Astrolabe incorporates physical flow matching by taking the prior distribution for the flow to be approximate COmoving Lagrangian Acceleration (COLA)-based coordinates rather than unphysical noise, with momentum and mass conservation enforced at all points along flow time. In the Lambda-CDM cases we test, Astrolabe produces realistic fields with accurate power spectra, halo mass functions, velocity profiles, and halo density profiles. We also observe out-of-distribution generalization, with accurate emulation of dark-acoustic oscillation initial conditions. Astrolabe is also capable of being fine-tuned to simulate very large N and we demonstrate this by emulating a TNG50-3-dark simulation at a fraction of the cost. This method represents a first step toward a general and powerful cosmology simulation surrogate, which may eventually permit the inclusion of baryonic physics and a systematic exploration of richer dark sector interactions.",
 "citR": [],
 "citE": [],
 "topR": [
 [
-0.0,
-"926166"
+0.014,
+"2859009"
 ],
 [
-0.0,
-"922002"
-],
-[
-0.0,
+0.013,
 "860906"
-]
-],
-"topE": [
-[
-0.099,
-"1973492"
-],
-[
-0.086,
-"2762216"
-],
-[
-0.019,
-"2715897"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"gauge symmetry"
-],
-"parts": [
-0.0,
-0.0,
-0.28,
-0.0,
-0.14
-],
-"score": 5.7
-},
-{
-"arxiv": "2603.22246",
-"section": "replacement",
-"recid": "3132932",
-"src": "INSPIRE",
-"nref": 35,
-"title": "Dispersion Relations of Collective Flavor Excitations in Dense Neutrino Media",
-"authors": [
-"Anson Kost",
-"Huaiyu Duan"
-],
-"abstract": "We apply the Landau damping theory to collective flavor excitations in dense neutrino media. We demonstrate explicitly that the (meta)stable modes of the collective flavor excitations in a physical dense neutrino gas are indeed weakly damped. We show that, in a neutrino medium with a continuous energy distribution, there can exist infinitely many dispersion relation branches of collective flavor excitations that extend to large wave numbers. In a neutrino gas with one or more zero crossings in the distribution of the difference of the (neutrino) lepton numbers (DLNs), the least damped resonant branches and the metastable branches can suffer from inverse Landau damping at certain wave numbers and thus become unstable. We also introduce the concept of convolved DLN distributions, which can be used to understand the physical origin of the slow and fast flavor instabilities in dense neutrino media in core-collapse supernovae and neutron star mergers.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.006,
-"2690106"
-],
-[
-0.006,
-"2855387"
-],
-[
-0.0,
-"926166"
-]
-],
-"topE": [
-[
-0.01,
-"3095799"
 ],
 [
 0.009,
-"779828"
+"926166"
+]
+],
+"topE": [
+[
+0.061,
+"2719600"
 ],
 [
-0.008,
-"3148101"
+0.017,
+"2052515"
+],
+[
+0.012,
+"3130997"
 ]
 ],
 "isme": false,
 "coauthors": [],
-"topics": [
-"lepton number"
-],
+"topics": [],
 "parts": [
-0.06,
-0.02,
-0.03,
 0.0,
-0.18
+0.04,
+0.18,
+0.0,
+0.07
 ],
-"score": 4.8
+"score": 4.7
 },
 {
 "arxiv": "2607.22102",
@@ -1824,6 +1816,64 @@
 "score": 4.7
 },
 {
+"arxiv": "2603.22246",
+"section": "replacement",
+"recid": "3132932",
+"src": "INSPIRE",
+"nref": 35,
+"title": "Dispersion Relations of Collective Flavor Excitations in Dense Neutrino Media",
+"authors": [
+"Anson Kost",
+"Huaiyu Duan"
+],
+"abstract": "We apply the Landau damping theory to collective flavor excitations in dense neutrino media. We demonstrate explicitly that the (meta)stable modes of the collective flavor excitations in a physical dense neutrino gas are indeed weakly damped. We show that, in a neutrino medium with a continuous energy distribution, there can exist infinitely many dispersion relation branches of collective flavor excitations that extend to large wave numbers. In a neutrino gas with one or more zero crossings in the distribution of the difference of the (neutrino) lepton numbers (DLNs), the least damped resonant branches and the metastable branches can suffer from inverse Landau damping at certain wave numbers and thus become unstable. We also introduce the concept of convolved DLN distributions, which can be used to understand the physical origin of the slow and fast flavor instabilities in dense neutrino media in core-collapse supernovae and neutron star mergers.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.006,
+"2690106"
+],
+[
+0.006,
+"2855387"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.01,
+"3095799"
+],
+[
+0.009,
+"779828"
+],
+[
+0.008,
+"3148101"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"lepton number"
+],
+"parts": [
+0.06,
+0.02,
+0.03,
+0.0,
+0.13
+],
+"score": 4.3
+},
+{
 "arxiv": "2610.36081",
 "section": "new",
 "recid": "3219340",
@@ -1879,62 +1929,6 @@
 "score": 4.1
 },
 {
-"arxiv": "2610.27068",
-"section": "cross",
-"recid": "3216791",
-"src": "INSPIRE",
-"nref": 99,
-"title": "ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching",
-"authors": [
-"Ibrahim Elsharkawy",
-"David Curtin",
-"Yonatan Kahn",
-"Neal Weiner"
-],
-"abstract": "The microphysics of dark matter (DM) is imprinted on cosmological structure across an enormous dynamic range. Nonlinear cosmological observables are most reliably modeled with N-body and hydrodynamic simulations. However, systematic N-body scans over DM theory space are prohibitively expensive. Machine learning emulators provide a possible solution, but are currently limited by either low resolution or only the ability to emulate specific observables. We introduce Astrolabe, a flow-matching-based generative emulator designed to be free of both constraints. Astrolabe acts directly on the 6N phase-space coordinates of N individual particles. With no voxel grid in the output, there is no voxel-resolution ceiling, and in principle any observable can be measured from inference. Astrolabe is computationally tractable via a field-particle hybrid transformer in which every particle cross-attends to multiscale field tokens, so compute and memory are linear in N. Astrolabe incorporates physical flow matching by taking the prior distribution for the flow to be approximate COmoving Lagrangian Acceleration (COLA)-based coordinates rather than unphysical noise, with momentum and mass conservation enforced at all points along flow time. In the Lambda-CDM cases we test, Astrolabe produces realistic fields with accurate power spectra, halo mass functions, velocity profiles, and halo density profiles. We also observe out-of-distribution generalization, with accurate emulation of dark-acoustic oscillation initial conditions. Astrolabe is also capable of being fine-tuned to simulate very large N and we demonstrate this by emulating a TNG50-3-dark simulation at a fraction of the cost. This method represents a first step toward a general and powerful cosmology simulation surrogate, which may eventually permit the inclusion of baryonic physics and a systematic exploration of richer dark sector interactions.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.014,
-"2859009"
-],
-[
-0.013,
-"860906"
-],
-[
-0.009,
-"926166"
-]
-],
-"topE": [
-[
-0.061,
-"2719600"
-],
-[
-0.017,
-"2052515"
-],
-[
-0.012,
-"3130997"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.04,
-0.18,
-0.0,
-0.02
-],
-"score": 4.1
-},
-{
 "arxiv": "2610.11088",
 "section": "replacement",
 "recid": "3212882",
@@ -1985,61 +1979,6 @@
 0.14,
 0.0,
 0.0
-],
-"score": 4.1
-},
-{
-"arxiv": "2607.09273",
-"section": "replacement",
-"recid": "3179631",
-"src": "INSPIRE",
-"nref": 28,
-"title": "Neutrino-induced hyperon final-state interactions as a probe of the in-medium hyperon potential",
-"authors": [
-"Jaroslaw A. Nowak"
-],
-"abstract": "Hyperon single-particle potentials U_Y(rho) govern hyperon propagation in nuclei and the appearance of hyperons in dense matter, where they soften the neutron-star equation of state (EOS) and lower the maximum mass M_max, the hyperon puzzle. Charged-current (anti)neutrino interactions on argon-40 create Lambda and Sigma hyperons inside the nucleus. The reconstructed Lambda yield and momentum and a kaon-vetoed final-state-interaction (FSI) Sigma+ tag respond to U_Lambda and U_Sigma at SBND and DUNE energies. We write the potential at low density as U_Y = U_Y(rho_0) (rho/rho_0)^gamma, plus a correction that vanishes at saturation. A detector-level Fisher forecast, with production cross sections, fluxes and efficiencies as nuisance parameters and the muon kinematics calibrating the production model, determines U_Lambda best at rho* = 0.82 rho_0, independently of gamma. The statistical precision is 1.5 MeV; with the production model profiled and the remaining systematic uncertainties added in quadrature, the total is +-31 MeV, of which the largest item, 18 MeV, is the convention by which the cascade applies the potential. The measurement is a check, with different systematics, of the hypernuclear constraint, +-3.3 MeV at rho*. U_Sigma is not constrained. In relativistic mean-field EOSs anchored to hypernuclear and Sigma-atom depths, M_max for n p Lambda Sigma- matter is 1.94 M_sun for GM1 and 2.03 M_sun for FSU2H with the phi meson; it depends on a high-density Lambda NN term c_Lambda that the neutrino data do not constrain. The calculations use the StrangeMC Monte Carlo generator.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.014,
-"2102705"
-],
-[
-0.002,
-"1688995"
-],
-[
-0.002,
-"2817040"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"neutrino data"
-],
-"parts": [
-0.0,
-0.0,
-0.04,
-0.0,
-0.35
 ],
 "score": 4.1
 },
@@ -2268,6 +2207,62 @@
 "score": 3.8
 },
 {
+"arxiv": "2610.37638",
+"section": "cross",
+"recid": "3219591",
+"src": "INSPIRE",
+"nref": 62,
+"title": "Weighing dark matter particles with gravitational waves",
+"authors": [
+"Rodrigo Vicente",
+"Francisco Duque",
+"Theophanes K. Karydas",
+"Gianfranco Bertone"
+],
+"abstract": "It is commonly assumed that the mass of dark matter particles cannot be determined from their gravitational effects when dark matter behaves as collisionless matter. Here we show that extreme-mass-ratio inspirals observable by millihertz gravitational-wave observatories such as the Laser Interferometer Space Antenna (LISA) could measure the mass of ultralight dark matter particles in sufficiently dense dark matter spikes. The separation of scales between the two black holes allows ultralight dark matter to form a collisionless density spike around the massive primary while retaining wave effects in its interaction with the stellar-mass companion. We incorporate wave-dependent accretion and dynamical friction into relativistic inspiral waveforms and jointly infer the dark matter particle mass, spike normalisation and binary parameters from simulated LISA signals. For massive black holes at the low-mass end of the LISA population ($M\\sim 10^5 M_\\odot$), our forecasts show that particle masses spanning $10^{-14}-10^{-11}\\,\\mathrm{eV}$ could be measured to within an order of magnitude.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.018,
+"2859009"
+],
+[
+0.017,
+"1119599"
+],
+[
+0.014,
+"1746620"
+]
+],
+"topE": [
+[
+0.03,
+"2719600"
+],
+[
+0.022,
+"3122101"
+],
+[
+0.02,
+"3214449"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.0,
+0.06,
+0.09,
+0.0,
+0.07
+],
+"score": 3.8
+},
+{
 "arxiv": "2610.36591",
 "section": "cross",
 "recid": "3219430",
@@ -2433,6 +2428,119 @@
 "score": 3.6
 },
 {
+"arxiv": "2606.28481",
+"section": "replacement",
+"recid": "3174484",
+"src": "INSPIRE",
+"nref": 188,
+"title": "Background-Induced Forces from Quadratically Coupled Ultralight Dark Matter",
+"authors": [
+"Thomas Bouley",
+"Xucheng Gan",
+"Hailin Xu",
+"Tien-Tien Yu"
+],
+"abstract": "Quadratically coupled ultralight scalar dark matter behaves as a coherent classical field whose interactions with matter can induce a composition-dependent force through the dark matter background. We present a complete calculation of this background-induced force beyond the spherically symmetric approximation. Using a partial-wave treatment of dark-matter scattering, we determine its angular dependence and derive an analytic description valid even when the dark-matter wavelength is much smaller than the Earth's radius. We show for the first time that Earth screening generates a characteristic frequency-band structure, splitting the signal into multiple sidebands that provide a distinctive experimental signature. We further show that the relative amplitudes of these sidebands vary annually as the satellite's Sun-synchronous orbital plane precesses in step with the Earth's revolution around the Sun, allowing us to construct a complete signal template. As an application of these results, we re-evaluate constraints from the MICROSCOPE mission, which currently provides the strongest laboratory limits on equivalence-principle violations from ultralight dark matter. We further show that proposed space-based equivalence-principle experiments, such as Galileo Galilei and STE-QUEST, can significantly enhance their sensitivity to ultralight scalar dark matter by incorporating the full frequency-band information.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.002,
+"2690106"
+],
+[
+0.002,
+"2855387"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.015,
+"2817040"
+],
+[
+0.014,
+"2969254"
+],
+[
+0.013,
+"474588"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.06,
+0.01,
+0.04,
+0.0,
+0.07
+],
+"score": 3.6
+},
+{
+"arxiv": "2508.10959",
+"section": "replacement",
+"recid": "2960949",
+"src": "INSPIRE",
+"nref": 51,
+"title": "Unification of Gravity and Standard Model: Weyl-Dirac-Born-Infeld action",
+"authors": [
+"D. M. Ghilencea"
+],
+"abstract": "We construct a unified (quantum) description, by the gauge principle, of gravity and Standard Model (SM), that generalises the Dirac-Born-Infeld action to the SM and Weyl geometry, hereafter called Weyl-Dirac-Born-Infeld action (WDBI). The theory is formulated in $d =4-2ε$ dimensions. The WDBI action is a general gauge theory of SM and Weyl group (of dilatations and Poincaré symmetry), in the Weyl gauge covariant (metric!) formulation of Weyl geometry. The theory is SM and Weyl gauge invariant in $d=4-2ε$ dimensions and there is no Weyl anomaly. The WDBI action has the unique elegant feature, not present in other gauge theories or even in string theory, that it is mathematically well-defined in $d=4-2ε$ dimensions with no need to introduce in the action a UV regulator scale or field. This action actually {\\it predicts} that gravity, through (Weyl covariant) space-time curvature $\\hat R$, acts as UV regulator of both SM and gravity in $d=4$. A series expansion of the WDBI action (in dimensionless couplings) recovers in the leading order a Weyl gauge invariant version of SM and the Weyl (gauge theory of) quadratic gravity. The SM and Einstein-Hilbert gravity are recovered in the Stueckelberg broken phase of Weyl gauge symmetry, which restores Riemannian geometry below Planck scale. Sub-leading orders are suppressed by powers of (dimensionless) gravitational coupling ($ξ$) of Weyl quadratic gravity.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.014,
+"2855387"
+],
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+]
+],
+"topE": [
+[
+0.012,
+"2693482"
+],
+[
+0.012,
+"2697223"
+],
+[
+0.01,
+"2946768"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"gauge symmetry"
+],
+"parts": [
+0.0,
+0.03,
+0.04,
+0.0,
+0.18
+],
+"score": 3.4
+},
+{
 "arxiv": "2610.36065",
 "section": "new",
 "recid": "3219365",
@@ -2487,62 +2595,6 @@
 0.0
 ],
 "score": 3.3
-},
-{
-"arxiv": "2610.37638",
-"section": "cross",
-"recid": "3219591",
-"src": "INSPIRE",
-"nref": 62,
-"title": "Weighing dark matter particles with gravitational waves",
-"authors": [
-"Rodrigo Vicente",
-"Francisco Duque",
-"Theophanes K. Karydas",
-"Gianfranco Bertone"
-],
-"abstract": "It is commonly assumed that the mass of dark matter particles cannot be determined from their gravitational effects when dark matter behaves as collisionless matter. Here we show that extreme-mass-ratio inspirals observable by millihertz gravitational-wave observatories such as the Laser Interferometer Space Antenna (LISA) could measure the mass of ultralight dark matter particles in sufficiently dense dark matter spikes. The separation of scales between the two black holes allows ultralight dark matter to form a collisionless density spike around the massive primary while retaining wave effects in its interaction with the stellar-mass companion. We incorporate wave-dependent accretion and dynamical friction into relativistic inspiral waveforms and jointly infer the dark matter particle mass, spike normalisation and binary parameters from simulated LISA signals. For massive black holes at the low-mass end of the LISA population ($M\\sim 10^5 M_\\odot$), our forecasts show that particle masses spanning $10^{-14}-10^{-11}\\,\\mathrm{eV}$ could be measured to within an order of magnitude.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.018,
-"2859009"
-],
-[
-0.017,
-"1119599"
-],
-[
-0.014,
-"1746620"
-]
-],
-"topE": [
-[
-0.03,
-"2719600"
-],
-[
-0.022,
-"3122101"
-],
-[
-0.02,
-"3214449"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.06,
-0.09,
-0.0,
-0.02
-],
-"score": 3.2
 },
 {
 "arxiv": "2509.04539",
@@ -2654,79 +2706,26 @@
 "score": 3.1
 },
 {
-"arxiv": "2606.28481",
+"arxiv": "2510.05198",
 "section": "replacement",
-"recid": "3174484",
+"recid": "3064179",
 "src": "INSPIRE",
-"nref": 188,
-"title": "Background-Induced Forces from Quadratically Coupled Ultralight Dark Matter",
+"nref": 110,
+"title": "Intrinsically Quantum Effects of Axion Dark Matter are Undetectable",
 "authors": [
-"Thomas Bouley",
-"Xucheng Gan",
-"Hailin Xu",
-"Tien-Tien Yu"
+"Yunjia Bao",
+"Dhong Yeon Cheong",
+"Nicholas L. Rodd",
+"Joey Takach",
+"Lian-Tao Wang",
+"Kevin Zhou"
 ],
-"abstract": "Quadratically coupled ultralight scalar dark matter behaves as a coherent classical field whose interactions with matter can induce a composition-dependent force through the dark matter background. We present a complete calculation of this background-induced force beyond the spherically symmetric approximation. Using a partial-wave treatment of dark-matter scattering, we determine its angular dependence and derive an analytic description valid even when the dark-matter wavelength is much smaller than the Earth's radius. We show for the first time that Earth screening generates a characteristic frequency-band structure, splitting the signal into multiple sidebands that provide a distinctive experimental signature. We further show that the relative amplitudes of these sidebands vary annually as the satellite's Sun-synchronous orbital plane precesses in step with the Earth's revolution around the Sun, allowing us to construct a complete signal template. As an application of these results, we re-evaluate constraints from the MICROSCOPE mission, which currently provides the strongest laboratory limits on equivalence-principle violations from ultralight dark matter. We further show that proposed space-based equivalence-principle experiments, such as Galileo Galilei and STE-QUEST, can significantly enhance their sensitivity to ultralight scalar dark matter by incorporating the full frequency-band information.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.002,
-"2690106"
-],
-[
-0.002,
-"2855387"
-],
-[
-0.0,
-"926166"
-]
-],
-"topE": [
-[
-0.015,
-"2817040"
-],
-[
-0.014,
-"2969254"
-],
-[
-0.013,
-"474588"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.06,
-0.01,
-0.04,
-0.0,
-0.02
-],
-"score": 3.1
-},
-{
-"arxiv": "2508.10959",
-"section": "replacement",
-"recid": "2960949",
-"src": "INSPIRE",
-"nref": 51,
-"title": "Unification of Gravity and Standard Model: Weyl-Dirac-Born-Infeld action",
-"authors": [
-"D. M. Ghilencea"
-],
-"abstract": "We construct a unified (quantum) description, by the gauge principle, of gravity and Standard Model (SM), that generalises the Dirac-Born-Infeld action to the SM and Weyl geometry, hereafter called Weyl-Dirac-Born-Infeld action (WDBI). The theory is formulated in $d =4-2ε$ dimensions. The WDBI action is a general gauge theory of SM and Weyl group (of dilatations and Poincaré symmetry), in the Weyl gauge covariant (metric!) formulation of Weyl geometry. The theory is SM and Weyl gauge invariant in $d=4-2ε$ dimensions and there is no Weyl anomaly. The WDBI action has the unique elegant feature, not present in other gauge theories or even in string theory, that it is mathematically well-defined in $d=4-2ε$ dimensions with no need to introduce in the action a UV regulator scale or field. This action actually {\\it predicts} that gravity, through (Weyl covariant) space-time curvature $\\hat R$, acts as UV regulator of both SM and gravity in $d=4$. A series expansion of the WDBI action (in dimensionless couplings) recovers in the leading order a Weyl gauge invariant version of SM and the Weyl (gauge theory of) quadratic gravity. The SM and Einstein-Hilbert gravity are recovered in the Stueckelberg broken phase of Weyl gauge symmetry, which restores Riemannian geometry below Planck scale. Sub-leading orders are suppressed by powers of (dimensionless) gravitational coupling ($ξ$) of Weyl quadratic gravity.",
+"abstract": "Is the usual treatment of axion dark matter as a classical field reliable? We show that the answer is subtle: the axion field could well be in a quantum state that has no complete classical description, but realistic detectors cannot tell the difference. To see this, we solve a fully quantum model of axion detection using quantum optics techniques. We show that intrinsically quantum effects are washed out by mode averaging or small amounts of noise, and significantly suppressed by the weakness of the axion coupling. Our work exemplifies that there should always be a classical analog for axion dark matter effects, extends to other wave (ultralight) dark-matter candidates, and gives a general method to compute the effects of exotic dark-matter states.",
 "citR": [],
 "citE": [],
 "topR": [
 [
-0.014,
+0.012,
 "2855387"
 ],
 [
@@ -2740,29 +2739,27 @@
 ],
 "topE": [
 [
-0.012,
-"2693482"
+0.034,
+"2703113"
 ],
 [
-0.012,
-"2697223"
+0.033,
+"2697191"
 ],
 [
-0.01,
-"2946768"
+0.023,
+"3088651"
 ]
 ],
 "isme": false,
 "coauthors": [],
-"topics": [
-"gauge symmetry"
-],
+"topics": [],
 "parts": [
 0.0,
 0.03,
-0.04,
+0.1,
 0.0,
-0.14
+0.07
 ],
 "score": 3.0
 },
@@ -2824,286 +2821,6 @@
 0.0
 ],
 "score": 2.9
-},
-{
-"arxiv": "2601.14939",
-"section": "replacement",
-"recid": "3109800",
-"src": "INSPIRE",
-"nref": 57,
-"title": "Gravitational form factors of the proton in the improved holographic QCD model",
-"authors": [
-"Antti Hippeläinen",
-"Niko Jokela",
-"Matti Järvinen"
-],
-"abstract": "We compute the gluonic contribution to the gravitational form factors of the proton using the improved holographic QCD model, in which the proton is described in terms of bulk Dirac fermions. Model parameters are constrained using lattice and phenomenological input, allowing us to obtain estimates for the gravitational form factors and to compare them with results from other approaches. Using the extracted form factors, we analyze mechanical properties of the proton, including pressure and shear distributions. We obtain estimates for the mechanical and mass radii of the proton, $ρ_{\\text{mech}} \\approx 0.63$ fm, $ρ_{\\text{mass}} \\approx 0.65$ fm, and compare these values with radius estimates from other nonperturbative studies.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.004,
-"2690106"
-],
-[
-0.004,
-"2855387"
-],
-[
-0.0,
-"926166"
-]
-],
-"topE": [
-[
-0.007,
-"3095799"
-],
-[
-0.006,
-"813721"
-],
-[
-0.006,
-"3148101"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.06,
-0.01,
-0.02,
-0.0,
-0.0
-],
-"score": 2.7
-},
-{
-"arxiv": "2610.37398",
-"section": "cross",
-"recid": "3219280",
-"src": "INSPIRE",
-"nref": 82,
-"title": "An end-to-end framework for uncertainty-aware validation of generative models",
-"authors": [
-"Giada Badaracco",
-"Sean Benevedes",
-"Christina Reissel",
-"Philip Harris",
-"Gaia Grosso"
-],
-"abstract": "Density estimation with generative models is a common task in the physical sciences, for example in background estimation in particle physics. Existing machine learning techniques, however, lack methods to quantify uncertainties that can be propagated into a statistical test. That limits the validation of generative models to standard goodness-of-fit tests, in which the generative model is treated as exact (point-null hypothesis). But a model fitted to a finite training set is never exact, so if its uncertainties are neglected, any sufficiently powerful goodness-of-fit test will eventually reject it once the test set is large enough to resolve this estimation error. We propose SIGMA, an end-to-end framework combining density estimation with principled uncertainty quantification. We use Gaussian mixture models, for which uncertainties are tractable, and further construct a new goodness-of-fit test in which these uncertainties are profiled as nuisance parameters to account for the statistical error of the fit, promoting the conventional point-null test to a composite one. A rejection then signals genuine mismodeling rather than a test set large enough to resolve the error of the fit, provided the propagated uncertainties faithfully cover that error. We demonstrate the framework on a controlled two-dimensional toy model and on a collider physics benchmark modeling the QCD background process. With uncertainties included, the same model can be trusted on test sets up to an order of magnitude larger than the standard test allows. Our work thus provides a statistically grounded basis for a robust use of generative models in the physical sciences.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.058,
-"3187354"
-],
-[
-0.026,
-"2850596"
-],
-[
-0.017,
-"2893828"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.17,
-0.0,
-0.0
-],
-"score": 2.5
-},
-{
-"arxiv": "2510.05198",
-"section": "replacement",
-"recid": "3064179",
-"src": "INSPIRE",
-"nref": 110,
-"title": "Intrinsically Quantum Effects of Axion Dark Matter are Undetectable",
-"authors": [
-"Yunjia Bao",
-"Dhong Yeon Cheong",
-"Nicholas L. Rodd",
-"Joey Takach",
-"Lian-Tao Wang",
-"Kevin Zhou"
-],
-"abstract": "Is the usual treatment of axion dark matter as a classical field reliable? We show that the answer is subtle: the axion field could well be in a quantum state that has no complete classical description, but realistic detectors cannot tell the difference. To see this, we solve a fully quantum model of axion detection using quantum optics techniques. We show that intrinsically quantum effects are washed out by mode averaging or small amounts of noise, and significantly suppressed by the weakness of the axion coupling. Our work exemplifies that there should always be a classical analog for axion dark matter effects, extends to other wave (ultralight) dark-matter candidates, and gives a general method to compute the effects of exotic dark-matter states.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.012,
-"2855387"
-],
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-]
-],
-"topE": [
-[
-0.034,
-"2703113"
-],
-[
-0.033,
-"2697191"
-],
-[
-0.023,
-"3088651"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.03,
-0.1,
-0.0,
-0.02
-],
-"score": 2.5
-},
-{
-"arxiv": "2610.36073",
-"section": "new",
-"recid": "3219308",
-"src": "INSPIRE",
-"nref": 45,
-"title": "Regression on high-dimensional phase space",
-"authors": [
-"Andrew J. Larkoski"
-],
-"abstract": "Machine learning tasks in particle physics are typically expressed in terms of regression, or relaxation toward some optimal solution as defined by an objective or loss function. In this paper, we introduce a large multiplicity expansion for analyzing regression tasks, which enables significant analytic understanding. For concreteness, we study regression with energy flow polynomials (EFPs), a complete linear basis of infrared and collinear safe observables on Lorentz invariant phase space. While the expectation value of any EFP scales like a constant in the large multiplicity limit, we prove that the covariance on uniform phase space of any two EFPs is highly suppressed and scales like the inverse of the squared multiplicity. This very unintuitive result relies on detailed cancellation guaranteed by the interplay of permutation invariance, momentum conservation, and rotational invariance. This scaling of the covariance with multiplicity further implies that the coefficients in an expansion of EFPs must scale quadratically in multiplicity. We present an example of regression with EFPs as applied to $e^+e^-\\to$ hadrons events, and show how the regression can be solved analytically through the complementary expansions of the large multiplicity limit and of familiar fixed-order perturbation theory of QCD.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.007,
-"1615477"
-],
-[
-0.006,
-"1627633"
-],
-[
-0.005,
-"1746620"
-]
-],
-"topE": [
-[
-0.039,
-"2829800"
-],
-[
-0.038,
-"2847985"
-],
-[
-0.026,
-"1318349"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.02,
-0.11,
-0.0,
-0.0
-],
-"score": 2.3
-},
-{
-"arxiv": "2610.37610",
-"section": "cross",
-"recid": "3219595",
-"src": "INSPIRE",
-"nref": 68,
-"title": "Stability of Axion--SU(2) Chromomagnetic Condensates with Stochastic Spin-2 Dressing",
-"authors": [
-"Sha Azyzy",
-"Azadeh Maleknejad",
-"Vahid Kamali"
-],
-"abstract": "We investigate whether a stochastic spin-2 gauge-field background can stabilize the chromomagnetic condensate of axion--SU(2) Yang--Mills theory at fixed axion Noether charge in flat spacetime. By coarse-graining the gauge field, we uncover a new class of statistically homogeneous and isotropic spin-2-dressed chromomagnetic condensates satisfying the classical background equations. We then study their fluctuations in two steps. First, at the mean-field (Hartree) level, we determine the fluctuation spectrum and the region where all modes remain positively gapped. Second, we include the leading scattering corrections from fluctuations propagating through the stochastic background. We find that gap survival is controlled by non-Gaussian correlations of the dressing. Statistical positivity constrains the otherwise undetermined higher-point contributions through model-independent consistency conditions, without fixing their detailed momentum dependence. These bounds separate the Hartree-gapped region into a part where a positive Born-level gap is ruled out and a part where stability remains possible. The results are relevant to non-Abelian gauge condensates in early-universe cosmology, including inflation, dark energy, and primordial gravitational waves, and to QCD-like gauge sectors above confinement where thermal effects are subleading.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.018,
-"1755250"
-],
-[
-0.015,
-"2030200"
-],
-[
-0.008,
-"1607572"
-]
-],
-"topE": [
-[
-0.017,
-"2940283"
-],
-[
-0.015,
-"1863157"
-],
-[
-0.012,
-"2149989"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.05,
-0.05,
-0.0,
-0.0
-],
-"score": 2.3
 },
 {
 "arxiv": "2610.29942",
@@ -3274,7 +2991,283 @@
 0.0,
 0.14,
 0.0,
-0.02
+0.07
+],
+"score": 2.8
+},
+{
+"arxiv": "2601.14939",
+"section": "replacement",
+"recid": "3109800",
+"src": "INSPIRE",
+"nref": 57,
+"title": "Gravitational form factors of the proton in the improved holographic QCD model",
+"authors": [
+"Antti Hippeläinen",
+"Niko Jokela",
+"Matti Järvinen"
+],
+"abstract": "We compute the gluonic contribution to the gravitational form factors of the proton using the improved holographic QCD model, in which the proton is described in terms of bulk Dirac fermions. Model parameters are constrained using lattice and phenomenological input, allowing us to obtain estimates for the gravitational form factors and to compare them with results from other approaches. Using the extracted form factors, we analyze mechanical properties of the proton, including pressure and shear distributions. We obtain estimates for the mechanical and mass radii of the proton, $ρ_{\\text{mech}} \\approx 0.63$ fm, $ρ_{\\text{mass}} \\approx 0.65$ fm, and compare these values with radius estimates from other nonperturbative studies.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.004,
+"2690106"
+],
+[
+0.004,
+"2855387"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.007,
+"3095799"
+],
+[
+0.006,
+"813721"
+],
+[
+0.006,
+"3148101"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.06,
+0.01,
+0.02,
+0.0,
+0.0
+],
+"score": 2.7
+},
+{
+"arxiv": "2610.37398",
+"section": "cross",
+"recid": "3219280",
+"src": "INSPIRE",
+"nref": 82,
+"title": "An end-to-end framework for uncertainty-aware validation of generative models",
+"authors": [
+"Giada Badaracco",
+"Sean Benevedes",
+"Christina Reissel",
+"Philip Harris",
+"Gaia Grosso"
+],
+"abstract": "Density estimation with generative models is a common task in the physical sciences, for example in background estimation in particle physics. Existing machine learning techniques, however, lack methods to quantify uncertainties that can be propagated into a statistical test. That limits the validation of generative models to standard goodness-of-fit tests, in which the generative model is treated as exact (point-null hypothesis). But a model fitted to a finite training set is never exact, so if its uncertainties are neglected, any sufficiently powerful goodness-of-fit test will eventually reject it once the test set is large enough to resolve this estimation error. We propose SIGMA, an end-to-end framework combining density estimation with principled uncertainty quantification. We use Gaussian mixture models, for which uncertainties are tractable, and further construct a new goodness-of-fit test in which these uncertainties are profiled as nuisance parameters to account for the statistical error of the fit, promoting the conventional point-null test to a composite one. A rejection then signals genuine mismodeling rather than a test set large enough to resolve the error of the fit, provided the propagated uncertainties faithfully cover that error. We demonstrate the framework on a controlled two-dimensional toy model and on a collider physics benchmark modeling the QCD background process. With uncertainties included, the same model can be trusted on test sets up to an order of magnitude larger than the standard test allows. Our work thus provides a statistically grounded basis for a robust use of generative models in the physical sciences.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.058,
+"3187354"
+],
+[
+0.026,
+"2850596"
+],
+[
+0.017,
+"2893828"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.0,
+0.0,
+0.17,
+0.0,
+0.0
+],
+"score": 2.5
+},
+{
+"arxiv": "2610.36044",
+"section": "new",
+"recid": "3219312",
+"src": "INSPIRE",
+"nref": 151,
+"title": "An open EFT for dark matter searches with matter-wave interferometers",
+"authors": [
+"Leonardo Badurina",
+"Kathryn M. Zurek"
+],
+"abstract": "Matter-wave interferometers (MWIs) are a genuine quantum probe of dark matter (DM), being sensitive to DM-induced phase shifts and loss of contrast. Treating the interferometer as an open quantum system and the dark sector as its environment, we derive an open EFT to study these signatures using the Schwinger-Keldysh formalism. Starting from a microscopic theory, we derive the interferometer's effective action, which we then project onto the many-body worldline sectors relevant for atom interferometers and MWIs employing mesoscopic objects, i.e., composite-particle interferometers (CPIs). This construction clarifies the heavy-probe limit and organizes phase shifts and decoherence as distinct real-time components of the influence action: the retarded kernel controls the causal response of the environment, while the Keldysh kernel controls environmental fluctuations and hence loss of contrast. At leading order, these kernels reduce to: (i) DM bubble diagrams in the case of four-point interactions, and (ii) dressed in-medium mediator propagators in the case of long-range interactions, where the dressing is provided by the DM environment. Within this framework, we study the signatures of elastic spin-independent sub-GeV DM scattering off nucleons and find that: (i) owing to Bose enhancements below the DM wave-particle boundary, ambitious CPIs could probe Higgs-portal DM with mass below 1 eV in an unexplored region of model space; (ii) for DM coupled to nucleons via a light hadrophilic scalar, the DM background can drive the mediator's in-medium mass tachyonic over much of parameter space; outside these regions, CPIs could probe provide powerful probes of light DM.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.007,
+"1397629"
+],
+[
+0.006,
+"1365306"
+],
+[
+0.004,
+"1755250"
+]
+],
+"topE": [
+[
+0.022,
+"1992028"
+],
+[
+0.018,
+"2743646"
+],
+[
+0.015,
+"2923681"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.0,
+0.02,
+0.06,
+0.0,
+0.07
+],
+"score": 2.3
+},
+{
+"arxiv": "2610.36073",
+"section": "new",
+"recid": "3219308",
+"src": "INSPIRE",
+"nref": 45,
+"title": "Regression on high-dimensional phase space",
+"authors": [
+"Andrew J. Larkoski"
+],
+"abstract": "Machine learning tasks in particle physics are typically expressed in terms of regression, or relaxation toward some optimal solution as defined by an objective or loss function. In this paper, we introduce a large multiplicity expansion for analyzing regression tasks, which enables significant analytic understanding. For concreteness, we study regression with energy flow polynomials (EFPs), a complete linear basis of infrared and collinear safe observables on Lorentz invariant phase space. While the expectation value of any EFP scales like a constant in the large multiplicity limit, we prove that the covariance on uniform phase space of any two EFPs is highly suppressed and scales like the inverse of the squared multiplicity. This very unintuitive result relies on detailed cancellation guaranteed by the interplay of permutation invariance, momentum conservation, and rotational invariance. This scaling of the covariance with multiplicity further implies that the coefficients in an expansion of EFPs must scale quadratically in multiplicity. We present an example of regression with EFPs as applied to $e^+e^-\\to$ hadrons events, and show how the regression can be solved analytically through the complementary expansions of the large multiplicity limit and of familiar fixed-order perturbation theory of QCD.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.007,
+"1615477"
+],
+[
+0.006,
+"1627633"
+],
+[
+0.005,
+"1746620"
+]
+],
+"topE": [
+[
+0.039,
+"2829800"
+],
+[
+0.038,
+"2847985"
+],
+[
+0.026,
+"1318349"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.0,
+0.02,
+0.11,
+0.0,
+0.0
+],
+"score": 2.3
+},
+{
+"arxiv": "2610.37610",
+"section": "cross",
+"recid": "3219595",
+"src": "INSPIRE",
+"nref": 68,
+"title": "Stability of Axion--SU(2) Chromomagnetic Condensates with Stochastic Spin-2 Dressing",
+"authors": [
+"Sha Azyzy",
+"Azadeh Maleknejad",
+"Vahid Kamali"
+],
+"abstract": "We investigate whether a stochastic spin-2 gauge-field background can stabilize the chromomagnetic condensate of axion--SU(2) Yang--Mills theory at fixed axion Noether charge in flat spacetime. By coarse-graining the gauge field, we uncover a new class of statistically homogeneous and isotropic spin-2-dressed chromomagnetic condensates satisfying the classical background equations. We then study their fluctuations in two steps. First, at the mean-field (Hartree) level, we determine the fluctuation spectrum and the region where all modes remain positively gapped. Second, we include the leading scattering corrections from fluctuations propagating through the stochastic background. We find that gap survival is controlled by non-Gaussian correlations of the dressing. Statistical positivity constrains the otherwise undetermined higher-point contributions through model-independent consistency conditions, without fixing their detailed momentum dependence. These bounds separate the Hartree-gapped region into a part where a positive Born-level gap is ruled out and a part where stability remains possible. The results are relevant to non-Abelian gauge condensates in early-universe cosmology, including inflation, dark energy, and primordial gravitational waves, and to QCD-like gauge sectors above confinement where thermal effects are subleading.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.018,
+"1755250"
+],
+[
+0.015,
+"2030200"
+],
+[
+0.008,
+"1607572"
+]
+],
+"topE": [
+[
+0.017,
+"2940283"
+],
+[
+0.015,
+"1863157"
+],
+[
+0.012,
+"2149989"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.0,
+0.05,
+0.05,
+0.0,
+0.0
 ],
 "score": 2.3
 },
@@ -3328,6 +3321,64 @@
 0.08,
 0.0,
 0.0
+],
+"score": 2.1
+},
+{
+"arxiv": "2608.02498",
+"section": "cross",
+"recid": "3187139",
+"src": "INSPIRE",
+"nref": 59,
+"title": "Axion Inflation: Perturbative control in the strong backreaction regime",
+"authors": [
+"Valerie Domcke",
+"Alexandros Papageorgiou",
+"Marco Peloso",
+"Stefan Sandner"
+],
+"abstract": "We study the strong backreaction regime in axion inflation, in which the friction from Abelian gauge fields generated via the pseudo-scalar interaction $\\fracβ{4 M_p} φF {\\tilde F}$ is comparable to Hubble friction. The non-linear dynamics associated with the gauge fields render this regime phenomenologically particularly interesting, but also notoriously difficult to study with perturbative methods. Quantifying the perturbative control through the direct impact on the spectral backreaction using (i) a first-order gradient-expansion formalism including axion gradients, and (ii) a one-loop in-in calculation, we discover an extended mild backreaction regime at large couplings $β$, with a relatively large, nearly constant particle production parameter $ξ$. In passing, we point out that CMB non-Gaussianity bounds impose a general upper limit on the product of axion gauge field coupling and Hubble parameter during inflation, $βH/M_p < 1.4\\cdot 10^{-3}$, independently of the choice of the axion potential.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.019,
+"2051195"
+],
+[
+0.015,
+"1955022"
+],
+[
+0.012,
+"1892885"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"abelian gauge"
+],
+"parts": [
+0.0,
+0.0,
+0.05,
+0.0,
+0.13
 ],
 "score": 2.1
 },
@@ -3495,60 +3546,6 @@
 "score": 1.9
 },
 {
-"arxiv": "2610.36044",
-"section": "new",
-"recid": "3219312",
-"src": "INSPIRE",
-"nref": 151,
-"title": "An open EFT for dark matter searches with matter-wave interferometers",
-"authors": [
-"Leonardo Badurina",
-"Kathryn M. Zurek"
-],
-"abstract": "Matter-wave interferometers (MWIs) are a genuine quantum probe of dark matter (DM), being sensitive to DM-induced phase shifts and loss of contrast. Treating the interferometer as an open quantum system and the dark sector as its environment, we derive an open EFT to study these signatures using the Schwinger-Keldysh formalism. Starting from a microscopic theory, we derive the interferometer's effective action, which we then project onto the many-body worldline sectors relevant for atom interferometers and MWIs employing mesoscopic objects, i.e., composite-particle interferometers (CPIs). This construction clarifies the heavy-probe limit and organizes phase shifts and decoherence as distinct real-time components of the influence action: the retarded kernel controls the causal response of the environment, while the Keldysh kernel controls environmental fluctuations and hence loss of contrast. At leading order, these kernels reduce to: (i) DM bubble diagrams in the case of four-point interactions, and (ii) dressed in-medium mediator propagators in the case of long-range interactions, where the dressing is provided by the DM environment. Within this framework, we study the signatures of elastic spin-independent sub-GeV DM scattering off nucleons and find that: (i) owing to Bose enhancements below the DM wave-particle boundary, ambitious CPIs could probe Higgs-portal DM with mass below 1 eV in an unexplored region of model space; (ii) for DM coupled to nucleons via a light hadrophilic scalar, the DM background can drive the mediator's in-medium mass tachyonic over much of parameter space; outside these regions, CPIs could probe provide powerful probes of light DM.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.007,
-"1397629"
-],
-[
-0.006,
-"1365306"
-],
-[
-0.004,
-"1755250"
-]
-],
-"topE": [
-[
-0.022,
-"1992028"
-],
-[
-0.018,
-"2743646"
-],
-[
-0.015,
-"2923681"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.02,
-0.06,
-0.0,
-0.02
-],
-"score": 1.7
-},
-{
 "arxiv": "2610.36052",
 "section": "new",
 "recid": "3219364",
@@ -3600,6 +3597,61 @@
 0.11,
 0.0,
 0.0
+],
+"score": 1.7
+},
+{
+"arxiv": "2607.09273",
+"section": "replacement",
+"recid": "3179631",
+"src": "INSPIRE",
+"nref": 28,
+"title": "Neutrino-induced hyperon final-state interactions as a probe of the in-medium hyperon potential",
+"authors": [
+"Jaroslaw A. Nowak"
+],
+"abstract": "Hyperon single-particle potentials U_Y(rho) govern hyperon propagation in nuclei and the appearance of hyperons in dense matter, where they soften the neutron-star equation of state (EOS) and lower the maximum mass M_max, the hyperon puzzle. Charged-current (anti)neutrino interactions on argon-40 create Lambda and Sigma hyperons inside the nucleus. The reconstructed Lambda yield and momentum and a kaon-vetoed final-state-interaction (FSI) Sigma+ tag respond to U_Lambda and U_Sigma at SBND and DUNE energies. We write the potential at low density as U_Y = U_Y(rho_0) (rho/rho_0)^gamma, plus a correction that vanishes at saturation. A detector-level Fisher forecast, with production cross sections, fluxes and efficiencies as nuisance parameters and the muon kinematics calibrating the production model, determines U_Lambda best at rho* = 0.82 rho_0, independently of gamma. The statistical precision is 1.5 MeV; with the production model profiled and the remaining systematic uncertainties added in quadrature, the total is +-31 MeV, of which the largest item, 18 MeV, is the convention by which the cascade applies the potential. The measurement is a check, with different systematics, of the hypernuclear constraint, +-3.3 MeV at rho*. U_Sigma is not constrained. In relativistic mean-field EOSs anchored to hypernuclear and Sigma-atom depths, M_max for n p Lambda Sigma- matter is 1.94 M_sun for GM1 and 2.03 M_sun for FSU2H with the phi meson; it depends on a high-density Lambda NN term c_Lambda that the neutrino data do not constrain. The calculations use the StrangeMC Monte Carlo generator.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.014,
+"2102705"
+],
+[
+0.002,
+"1688995"
+],
+[
+0.002,
+"2817040"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"neutrino data"
+],
+"parts": [
+0.0,
+0.0,
+0.04,
+0.0,
+0.11
 ],
 "score": 1.7
 },
@@ -3709,62 +3761,6 @@
 0.04,
 0.0,
 0.0
-],
-"score": 1.3
-},
-{
-"arxiv": "2608.02498",
-"section": "cross",
-"recid": "3187139",
-"src": "INSPIRE",
-"nref": 59,
-"title": "Axion Inflation: Perturbative control in the strong backreaction regime",
-"authors": [
-"Valerie Domcke",
-"Alexandros Papageorgiou",
-"Marco Peloso",
-"Stefan Sandner"
-],
-"abstract": "We study the strong backreaction regime in axion inflation, in which the friction from Abelian gauge fields generated via the pseudo-scalar interaction $\\fracβ{4 M_p} φF {\\tilde F}$ is comparable to Hubble friction. The non-linear dynamics associated with the gauge fields render this regime phenomenologically particularly interesting, but also notoriously difficult to study with perturbative methods. Quantifying the perturbative control through the direct impact on the spectral backreaction using (i) a first-order gradient-expansion formalism including axion gradients, and (ii) a one-loop in-in calculation, we discover an extended mild backreaction regime at large couplings $β$, with a relatively large, nearly constant particle production parameter $ξ$. In passing, we point out that CMB non-Gaussianity bounds impose a general upper limit on the product of axion gauge field coupling and Hubble parameter during inflation, $βH/M_p < 1.4\\cdot 10^{-3}$, independently of the choice of the axion potential.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.019,
-"2051195"
-],
-[
-0.015,
-"1955022"
-],
-[
-0.012,
-"1892885"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.05,
-0.0,
-0.05
 ],
 "score": 1.3
 },

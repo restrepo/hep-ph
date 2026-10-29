@@ -49,7 +49,6 @@
 "isme": false,
 "coauthors": [],
 "topics": [
-"atmospheric neutrino",
 "fermion mass"
 ],
 "parts": [
@@ -57,9 +56,9 @@
 0.0,
 1,
 0.0,
-0.42
+0.19
 ],
-"score": 43.6
+"score": 41.3
 },
 {
 "arxiv": "2610.31770",
@@ -111,8 +110,8 @@
 "topics": [
 "neutrino mass",
 "discrete symmetry",
-"mass matrix",
 "majorana neutrino",
+"mass matrix",
 "fermion mass"
 ],
 "parts": [
@@ -120,9 +119,9 @@
 0.06,
 0.22,
 0.0,
-0.76
+0.74
 ],
-"score": 37.3
+"score": 37.0
 },
 {
 "arxiv": "2609.06750",
@@ -177,9 +176,9 @@
 0.11,
 0.81,
 0.0,
-0.02
+0.07
 ],
-"score": 31.3
+"score": 31.9
 },
 {
 "arxiv": "2610.32845",
@@ -231,9 +230,9 @@
 0.29,
 0.55,
 0.0,
-0.02
+0.07
 ],
-"score": 17.1
+"score": 17.7
 },
 {
 "arxiv": "2610.32091",
@@ -398,17 +397,17 @@
 "isme": false,
 "coauthors": [],
 "topics": [
-"lepton number",
-"dark matter model"
+"dark matter model",
+"lepton number"
 ],
 "parts": [
 0.0,
 0.09,
 0.27,
 0.0,
-0.28
+0.32
 ],
-"score": 9.6
+"score": 9.9
 },
 {
 "arxiv": "2610.32669",
@@ -457,17 +456,16 @@
 "isme": false,
 "coauthors": [],
 "topics": [
-"neutrino mass",
-"neutrino oscillation"
+"neutrino mass"
 ],
 "parts": [
 0.0,
 0.04,
 0.28,
 0.0,
-0.42
+0.39
 ],
-"score": 9.4
+"score": 9.1
 },
 {
 "arxiv": "2601.14676",
@@ -580,9 +578,9 @@
 0.14,
 0.23,
 0.0,
-0.02
+0.07
 ],
-"score": 7.9
+"score": 8.4
 },
 {
 "arxiv": "2610.30773",
@@ -636,9 +634,9 @@
 0.07,
 0.23,
 0.0,
-0.25
+0.29
 ],
-"score": 7.9
+"score": 8.4
 },
 {
 "arxiv": "2610.31756",
@@ -748,9 +746,69 @@
 0.07,
 0.12,
 0.0,
-0.02
+0.07
 ],
-"score": 6.2
+"score": 6.7
+},
+{
+"arxiv": "2609.13562",
+"section": "replacement",
+"recid": "3203046",
+"src": "INSPIRE",
+"nref": 3,
+"title": "Direct detection of right-handed fermionic dark matter: electron-recoil measurements in Xe atoms",
+"authors": [
+"Santiago Collazo",
+"Carlos Argüelles",
+"Soroush Shakeri",
+"Osvaldo Civitarese"
+],
+"abstract": "We present theoretical estimations of the event rates for the interaction between a right-handed fermionic dark matter with an electron bound to a xenon atom. Motivated by recent astrophysical and cosmological constraints on a fermionic dark matter candidate in the sub-MeV mass range, we study such an interaction through an effective electromagnetic channel where the output consists of standard-model particles. This mechanism allows right-handed neutral dark matter fermions to couple with standard-model particles with the interchange of $W^{\\pm}$ or $Z$ bosons, without the need to add extra fields. We generalize and extend previous results on this type of channels, by including for the ionization form factor arising from the interaction of the fermionic candidate with bound electrons. In addition, we compute the sensitivity curves for different direct detection experiments in such a challenging light particle mass range.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.0,
+"939581"
+],
+[
+0.0,
+"922180"
+],
+[
+0.0,
+"914987"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"dark matter candidate",
+"direct detection",
+"direct detection experiment"
+],
+"parts": [
+0.0,
+0.0,
+0.0,
+0.0,
+0.56
+],
+"score": 5.6
 },
 {
 "arxiv": "2512.04199",
@@ -920,64 +978,63 @@
 "score": 4.6
 },
 {
-"arxiv": "2609.13562",
-"section": "replacement",
-"recid": "3203046",
+"arxiv": "2610.31881",
+"section": "cross",
+"recid": "3218401",
 "src": "INSPIRE",
-"nref": 3,
-"title": "Direct detection of right-handed fermionic dark matter: electron-recoil measurements in Xe atoms",
+"nref": 139,
+"title": "Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter",
 "authors": [
-"Santiago Collazo",
-"Carlos Argüelles",
-"Soroush Shakeri",
-"Osvaldo Civitarese"
+"Jonathan Tekverk",
+"Duncan K. Adams",
+"Simon Birrer",
+"Rouven Essig",
+"Daniel Gilman"
 ],
-"abstract": "We present theoretical estimations of the event rates for the interaction between a right-handed fermionic dark matter with an electron bound to a xenon atom. Motivated by recent astrophysical and cosmological constraints on a fermionic dark matter candidate in the sub-MeV mass range, we study such an interaction through an effective electromagnetic channel where the output consists of standard-model particles. This mechanism allows right-handed neutral dark matter fermions to couple with standard-model particles with the interchange of $W^{\\pm}$ or $Z$ bosons, without the need to add extra fields. We generalize and extend previous results on this type of channels, by including for the ionization form factor arising from the interaction of the fermionic candidate with bound electrons. In addition, we compute the sensitivity curves for different direct detection experiments in such a challenging light particle mass range.",
+"abstract": "Strong gravitational lensing is sensitive to the abundance and internal structure of dark matter halos, providing a probe of gravothermal evolution in self-interacting dark matter (SIDM). We combine semi-analytic cold dark matter (CDM) subhalo histories with a model for gravothermal evolution in SIDM to generate CDM and SIDM subhalo populations across SIDM parameter space. We predict their projected enclosed masses and deflection-based projected density slopes and compare them with three perturbers inferred through gravitational imaging in PJ011646, SDSS J0946+1006, and JVAS B1938+666. For SIDM model parameters $σ_0/m_χ=147.1$ cm$^2$/g and $w=120$ km/s, SIDM subhalos reproduce all three perturbers more often than CDM subhalos. For PJ011646, we find ~0.6 cored SIDM subhalos per host matching the perturber, compared with ~0.002 in CDM, while core-collapsed subhalos are too steep. For SDSS J0946+1006, we find ~3 core-collapsed and ~0.004 cored SIDM subhalos per host, compared with none in 900 CDM realizations, although baryons, neglected here, may matter for such massive subhalos. For \"detection V\" in JVAS B1938+666, we find ~220 core-collapsed and ~20 cored SIDM subhalos per host within the $2σ$ posterior region, compared with ~0.2 in CDM; the CDM candidates require exceptionally early accretion, at median redshift $z\\sim13$. Simultaneously reproducing all three perturbers requires $w\\gtrsim10^2$ km/s, so that the massive (~$5.6\\times10^{10}M_\\odot$) progenitors of SDSS J0946+1006 candidates can collapse, and is achieved for $σ_0/m_χ\\gtrsim10^2$ cm$^2$/g in the parameter sets studied. Our results show how semi-analytic models can quantify how often subhalos reproduce individual perturbers in different dark matter models, and our modular framework can be readily updated as models of tidal stripping and late-stage gravothermal evolution in SIDM improve. (abridged)",
 "citR": [],
 "citE": [],
 "topR": [
 [
-0.0,
-"926166"
+0.011,
+"1119599"
 ],
 [
-0.0,
-"922002"
+0.009,
+"2859009"
 ],
 [
-0.0,
-"860906"
+0.009,
+"677884"
 ]
 ],
 "topE": [
 [
-0.0,
-"939581"
+0.026,
+"2051195"
 ],
 [
-0.0,
-"922180"
+0.022,
+"1992028"
 ],
 [
-0.0,
-"914987"
+0.021,
+"1345338"
 ]
 ],
 "isme": false,
 "coauthors": [],
 "topics": [
-"dark matter candidate",
-"direct detection experiment",
-"direct detection"
+"dark matter model"
 ],
 "parts": [
 0.0,
+0.04,
+0.07,
 0.0,
-0.0,
-0.0,
-0.43
+0.22
 ],
-"score": 4.3
+"score": 4.4
 },
 {
 "arxiv": "2610.32947",
@@ -1035,123 +1092,6 @@
 0.0
 ],
 "score": 4.0
-},
-{
-"arxiv": "2610.31881",
-"section": "cross",
-"recid": "3218401",
-"src": "INSPIRE",
-"nref": 139,
-"title": "Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter",
-"authors": [
-"Jonathan Tekverk",
-"Duncan K. Adams",
-"Simon Birrer",
-"Rouven Essig",
-"Daniel Gilman"
-],
-"abstract": "Strong gravitational lensing is sensitive to the abundance and internal structure of dark matter halos, providing a probe of gravothermal evolution in self-interacting dark matter (SIDM). We combine semi-analytic cold dark matter (CDM) subhalo histories with a model for gravothermal evolution in SIDM to generate CDM and SIDM subhalo populations across SIDM parameter space. We predict their projected enclosed masses and deflection-based projected density slopes and compare them with three perturbers inferred through gravitational imaging in PJ011646, SDSS J0946+1006, and JVAS B1938+666. For SIDM model parameters $σ_0/m_χ=147.1$ cm$^2$/g and $w=120$ km/s, SIDM subhalos reproduce all three perturbers more often than CDM subhalos. For PJ011646, we find ~0.6 cored SIDM subhalos per host matching the perturber, compared with ~0.002 in CDM, while core-collapsed subhalos are too steep. For SDSS J0946+1006, we find ~3 core-collapsed and ~0.004 cored SIDM subhalos per host, compared with none in 900 CDM realizations, although baryons, neglected here, may matter for such massive subhalos. For \"detection V\" in JVAS B1938+666, we find ~220 core-collapsed and ~20 cored SIDM subhalos per host within the $2σ$ posterior region, compared with ~0.2 in CDM; the CDM candidates require exceptionally early accretion, at median redshift $z\\sim13$. Simultaneously reproducing all three perturbers requires $w\\gtrsim10^2$ km/s, so that the massive (~$5.6\\times10^{10}M_\\odot$) progenitors of SDSS J0946+1006 candidates can collapse, and is achieved for $σ_0/m_χ\\gtrsim10^2$ cm$^2$/g in the parameter sets studied. Our results show how semi-analytic models can quantify how often subhalos reproduce individual perturbers in different dark matter models, and our modular framework can be readily updated as models of tidal stripping and late-stage gravothermal evolution in SIDM improve. (abridged)",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.011,
-"1119599"
-],
-[
-0.009,
-"2859009"
-],
-[
-0.009,
-"677884"
-]
-],
-"topE": [
-[
-0.026,
-"2051195"
-],
-[
-0.022,
-"1992028"
-],
-[
-0.021,
-"1345338"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"dark matter model"
-],
-"parts": [
-0.0,
-0.04,
-0.07,
-0.0,
-0.12
-],
-"score": 3.4
-},
-{
-"arxiv": "2610.28137",
-"section": "replacement",
-"recid": "3216905",
-"src": "INSPIRE",
-"nref": 61,
-"title": "Form factors and weak decays of $Λ_b\\toΛ_c^*(2595)$ and $Ξ_b\\toΞ_c^*(2790)$",
-"authors": [
-"Jie Lu",
-"Dian-Yong Chen",
-"Guo-Liang Yu",
-"Zhi-Gang Wang"
-],
-"abstract": "In this article, we reanalyze the mass and pole residue of $Λ$-type singly heavy baryons with spin-parity $J^P=1/2^{\\pm}$ using two-point QCD sum rules. Then, we investigate the electroweak transition form factors of $Λ_b\\toΛ^*_c(2595)$ and $Ξ_b\\toΞ^*_c(2790)$ within the framework of three-point QCD sum rules. At the hadron side, all possible couplings of the interpolating currents to hadronic states are taken into account, while at the QCD side, both the perturbative part and vacuum condensate contributions up to dimension-8 are included. Using the obtained form factors, we calculate the decay widths and branching ratios for the semileptonic decays $Λ_b\\toΛ^*_c(2595)\\ell\\barν_\\ell$ and $Ξ_b\\toΞ^*_c(2790)\\ell\\barν_\\ell$ ($\\ell=e,μ$ and $τ$), as well as for the corresponding nonleptonic decays $Λ_b\\toΛ^*_c(2595)π[ρ]$, $Λ_b\\toΛ^*_c(2595)K[K^*]$, $Ξ_b\\toΞ^*_c(2790)π[ρ]$ and $Ξ_b\\toΞ^*_c(2790)K[K^*]$. Our estimates for the branching ratios of $Λ_b\\toΛ^*_c(2595)\\ell\\barν_\\ell$ are comparable with the experimental data and other theoretical results. These results can provide valuable references for future measurements. In addition, we present predictions for several observables in these semileptonic decays, including the lepton universality ratio, the forward-backward asymmetry $A_{FB}$, and the asymmetry parameter $α$, which can provide useful references for future experiments to test the Standard Model and probe new physics beyond it.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.047,
-"1983355"
-],
-[
-0.038,
-"1862925"
-],
-[
-0.016,
-"2785325"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"branching ratio"
-],
-"parts": [
-0.0,
-0.0,
-0.13,
-0.0,
-0.11
-],
-"score": 3.1
 },
 {
 "arxiv": "2610.32790",
@@ -1379,6 +1319,119 @@
 "score": 2.4
 },
 {
+"arxiv": "2610.32599",
+"section": "cross",
+"recid": "3218471",
+"src": "INSPIRE",
+"nref": 145,
+"title": "Gauge-field energy density in inflationary kinetic-coupling models: QFT regularization versus horizon cutoffs",
+"authors": [
+"A. O. Naidenko",
+"O. O. Sobol",
+"S. I. Vilchinskii"
+],
+"abstract": "Coupling gauge fields to the inflaton can amplify their quantum fluctuations during inflation, with potential applications to a range of cosmological phenomena. A central challenge is to define finite and physically meaningful observables, such as the gauge-field energy density. In this work, we study an Abelian gauge field kinetically coupled to the inflaton through $f^2(φ)F_{μν}F^{μν}$ in a de Sitter background with $f\\propto a^{γ_1}$, and compare conventional quantum-field-theoretic regularization with horizon-cutoff prescriptions. Using a hard physical-momentum cutoff and dimensional regularization, we derive the ultraviolet divergences in closed form and fix the remaining one-parameter finite-part ambiguity by requiring the coupling-induced total energy density to be nonnegative. We then examine five horizon-cutoff prescriptions based on characteristic scales of the mode equations. Their predictions depend sensitively on the choice of horizon scale and, for weak gauge-field production, can deviate substantially from the regularized result; for the adopted finite-part prescription, the minimal horizon agrees best with the regularized total energy density. As $|γ_1|\\to 2$, where infrared modes dominate, the relative deviation of all prescriptions from the regularized result vanishes, independently of the finite-part prescription. Outside this regime, the separate electric and magnetic contributions, which can become negative after regularization, are not reliably reproduced by any of the horizon-cutoff prescriptions.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.025,
+"2743646"
+],
+[
+0.018,
+"2051195"
+],
+[
+0.012,
+"2736974"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"abelian gauge"
+],
+"parts": [
+0.0,
+0.0,
+0.07,
+0.0,
+0.13
+],
+"score": 2.4
+},
+{
+"arxiv": "2610.28137",
+"section": "replacement",
+"recid": "3216905",
+"src": "INSPIRE",
+"nref": 61,
+"title": "Form factors and weak decays of $Λ_b\\toΛ_c^*(2595)$ and $Ξ_b\\toΞ_c^*(2790)$",
+"authors": [
+"Jie Lu",
+"Dian-Yong Chen",
+"Guo-Liang Yu",
+"Zhi-Gang Wang"
+],
+"abstract": "In this article, we reanalyze the mass and pole residue of $Λ$-type singly heavy baryons with spin-parity $J^P=1/2^{\\pm}$ using two-point QCD sum rules. Then, we investigate the electroweak transition form factors of $Λ_b\\toΛ^*_c(2595)$ and $Ξ_b\\toΞ^*_c(2790)$ within the framework of three-point QCD sum rules. At the hadron side, all possible couplings of the interpolating currents to hadronic states are taken into account, while at the QCD side, both the perturbative part and vacuum condensate contributions up to dimension-8 are included. Using the obtained form factors, we calculate the decay widths and branching ratios for the semileptonic decays $Λ_b\\toΛ^*_c(2595)\\ell\\barν_\\ell$ and $Ξ_b\\toΞ^*_c(2790)\\ell\\barν_\\ell$ ($\\ell=e,μ$ and $τ$), as well as for the corresponding nonleptonic decays $Λ_b\\toΛ^*_c(2595)π[ρ]$, $Λ_b\\toΛ^*_c(2595)K[K^*]$, $Ξ_b\\toΞ^*_c(2790)π[ρ]$ and $Ξ_b\\toΞ^*_c(2790)K[K^*]$. Our estimates for the branching ratios of $Λ_b\\toΛ^*_c(2595)\\ell\\barν_\\ell$ are comparable with the experimental data and other theoretical results. These results can provide valuable references for future measurements. In addition, we present predictions for several observables in these semileptonic decays, including the lepton universality ratio, the forward-backward asymmetry $A_{FB}$, and the asymmetry parameter $α$, which can provide useful references for future experiments to test the Standard Model and probe new physics beyond it.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.047,
+"1983355"
+],
+[
+0.038,
+"1862925"
+],
+[
+0.016,
+"2785325"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"parts": [
+0.0,
+0.0,
+0.13,
+0.0,
+0.0
+],
+"score": 2.0
+},
+{
 "arxiv": "2602.14811",
 "section": "replacement",
 "recid": "3120608",
@@ -1593,61 +1646,6 @@
 0.0
 ],
 "score": 1.8
-},
-{
-"arxiv": "2610.32599",
-"section": "cross",
-"recid": "3218471",
-"src": "INSPIRE",
-"nref": 145,
-"title": "Gauge-field energy density in inflationary kinetic-coupling models: QFT regularization versus horizon cutoffs",
-"authors": [
-"A. O. Naidenko",
-"O. O. Sobol",
-"S. I. Vilchinskii"
-],
-"abstract": "Coupling gauge fields to the inflaton can amplify their quantum fluctuations during inflation, with potential applications to a range of cosmological phenomena. A central challenge is to define finite and physically meaningful observables, such as the gauge-field energy density. In this work, we study an Abelian gauge field kinetically coupled to the inflaton through $f^2(φ)F_{μν}F^{μν}$ in a de Sitter background with $f\\propto a^{γ_1}$, and compare conventional quantum-field-theoretic regularization with horizon-cutoff prescriptions. Using a hard physical-momentum cutoff and dimensional regularization, we derive the ultraviolet divergences in closed form and fix the remaining one-parameter finite-part ambiguity by requiring the coupling-induced total energy density to be nonnegative. We then examine five horizon-cutoff prescriptions based on characteristic scales of the mode equations. Their predictions depend sensitively on the choice of horizon scale and, for weak gauge-field production, can deviate substantially from the regularized result; for the adopted finite-part prescription, the minimal horizon agrees best with the regularized total energy density. As $|γ_1|\\to 2$, where infrared modes dominate, the relative deviation of all prescriptions from the regularized result vanishes, independently of the finite-part prescription. Outside this regime, the separate electric and magnetic contributions, which can become negative after regularization, are not reliably reproduced by any of the horizon-cutoff prescriptions.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.025,
-"2743646"
-],
-[
-0.018,
-"2051195"
-],
-[
-0.012,
-"2736974"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.07,
-0.0,
-0.05
-],
-"score": 1.6
 },
 {
 "arxiv": "2610.32028",

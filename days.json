@@ -3,26 +3,26 @@
   "date": "2026-10-28",
   "page": "hep-ph-2026-10-28.html",
   "built": "2026-10-29",
-  "code": "cefd75cca98c",
+  "code": "cf6ec8a419f7",
   "nlist": 95,
   "nrel": 19,
   "top": [
    {
     "arxiv": "2610.36060",
     "title": "Hybrid seesaw from $SU(2)_1 \\times SU(2)_2 \\times U(1)_Y$",
-    "score": 44.1,
+    "score": 44.6,
     "section": "new"
    },
    {
     "arxiv": "2605.27519",
     "title": "Probing the dynamical inverse seesaw mechanism with low-frequency gravitational waves",
-    "score": 42.3,
+    "score": 42.5,
     "section": "replacement"
    },
    {
     "arxiv": "2607.07794",
     "title": "Universal seesaw mechanism for fermion masses and strong CP problem",
-    "score": 35.8,
+    "score": 36.1,
     "section": "replacement"
    }
   ]
@@ -31,26 +31,26 @@
   "date": "2026-10-27",
   "page": "hep-ph-2026-10-27.html",
   "built": "2026-10-29",
-  "code": "cefd75cca98c",
+  "code": "cf6ec8a419f7",
   "nlist": 101,
   "nrel": 24,
   "top": [
    {
     "arxiv": "2610.35444",
     "title": "Probing the singlet-triplet scotogenic model with lepton flavor violation, gravitational waves and dark matter",
-    "score": 66.5,
+    "score": 66.8,
     "section": "new"
    },
    {
     "arxiv": "2512.24132",
     "title": "An $A_4$-Symmetric Double Seesaw for Neutrino Masses and Mixing in Light of JUNO results",
-    "score": 37.1,
+    "score": 37.0,
     "section": "replacement"
    },
    {
     "arxiv": "2610.34880",
     "title": "Light top-flavoured dark matter in dark SMEFT: one-loop matching and phenomenology",
-    "score": 36.2,
+    "score": 36.5,
     "section": "new"
    }
   ]
@@ -58,27 +58,27 @@
  {
   "date": "2026-10-26",
   "page": "hep-ph-2026-10-26.html",
-  "built": "2026-10-28",
-  "code": "cefd75cca98c",
+  "built": "2026-10-29",
+  "code": "cf6ec8a419f7",
   "nlist": 40,
   "nrel": 6,
   "top": [
    {
     "arxiv": "2610.32747",
     "title": "Heavy Sterile Fermions from the Atmosphere: LZ Limits on Neutrino Up-Scattering",
-    "score": 43.6,
+    "score": 41.3,
     "section": "new"
    },
    {
     "arxiv": "2610.31770",
     "title": "Flavored $S_{3}$ Non-Minimal Left-Right Symmetric Model",
-    "score": 37.3,
+    "score": 37.0,
     "section": "new"
    },
    {
     "arxiv": "2609.06750",
     "title": "GUT-induced collider signatures of the LUX-ZEPLIN event",
-    "score": 31.3,
+    "score": 31.9,
     "section": "replacement"
    }
   ]
@@ -86,27 +86,27 @@
  {
   "date": "2026-10-23",
   "page": "hep-ph-2026-10-23.html",
-  "built": "2026-10-28",
-  "code": "cefd75cca98c",
+  "built": "2026-10-29",
+  "code": "cf6ec8a419f7",
   "nlist": 80,
   "nrel": 12,
   "top": [
    {
     "arxiv": "2610.31254",
     "title": "A consistent neutrino determination of the low-energy weak mixing angle",
-    "score": 40.6,
+    "score": 39.6,
     "section": "new"
    },
    {
     "arxiv": "2610.31658",
     "title": "Neutrino Mass in Left-Right Symmetry: From Majorana Signals to Dirac Predictions",
-    "score": 39.2,
+    "score": 39.4,
     "section": "new"
    },
    {
     "arxiv": "2610.30534",
     "title": "What if dark matter is composite of least interacting particles?",
-    "score": 33.7,
+    "score": 34.1,
     "section": "new"
    }
   ]
@@ -114,10 +114,10 @@
  {
   "date": "2026-10-22",
   "page": "hep-ph-2026-10-22.html",
-  "built": "2026-10-28",
-  "code": "cefd75cca98c",
+  "built": "2026-10-29",
+  "code": "cf6ec8a419f7",
   "nlist": 68,
-  "nrel": 12,
+  "nrel": 11,
   "top": [
    {
     "arxiv": "2601.00436",
@@ -128,13 +128,13 @@
    {
     "arxiv": "2607.27325",
     "title": "Seesaw Cosmology",
-    "score": 38.4,
+    "score": 38.9,
     "section": "replacement"
    },
    {
     "arxiv": "2610.29335",
     "title": "Heavy Pseudo-Dirac Doublet Dark Matter and Non-Thermal Leptogenesis in Light of the LZ Event",
-    "score": 37.5,
+    "score": 38.8,
     "section": "new"
    }
   ]
