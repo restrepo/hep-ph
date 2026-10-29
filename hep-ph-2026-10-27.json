@@ -17,8 +17,8 @@
 "1746620"
 ],
 "citE": [
-"2871910",
 "2878308",
+"2871910",
 "2701993",
 "2940359",
 "1862804",
@@ -231,8 +231,8 @@
 "abstract": "We establish a unified theory-to-simulation framework for self-interacting dark matter (SIDM) that integrates three components: (i) a comprehensive, self-contained treatment of its particle-physics foundations and a broad range of model classes; (ii) a systematic, quantitative mapping from microscopic dark-sector physics to structure-formation simulation inputs through explicit expressions and numerical prescriptions; and (iii) the development, implementation, and validation of a broad suite of SIDM algorithms and a dedicated DM decay module in the moving-mesh code AREPO-2. Under (i), we detail the particle content, symmetries, interactions, production mechanisms, and constraints of a broad landscape of elementary and composite SIDM models, and present representative viable benchmark models. Under (ii), the mapping specifies cosmological initial conditions, internal-state masses and populations, reaction networks, velocity- and angle-dependent cross sections, dissipative energy loss, and decay rates and recoil kinematics. We then apply this mapping to a broad range of SIDM model classes. Under (iii), we implement and validate SIDM algorithms with constant and velocity-dependent cross sections, covering isotropic and anisotropic scattering, multi-state elastic and inelastic reactions, and dissipative processes, alongside a dedicated DM decay module in AREPO-2. We validate these implementations through beam-lattice deflection experiments, thermalization and uniform-box decay tests, isolated-halo gravothermal core-collapse simulations, and cosmological box and zoom-in simulations. These tests recover analytical predictions, establish agreement across numerical schemes, and reproduce published benchmarks. Our theory-to-simulation framework serves as a cross-disciplinary reference and a practical bridge between SIDM particle physics and simulations of nonlinear structure formation.",
 "citR": [],
 "citE": [
-"3128103",
 "3070028",
+"3128103",
 "1518747",
 "2817040"
 ],
@@ -4478,7 +4478,7 @@
 "section": "cross",
 "recid": "3218885",
 "src": "INSPIRE",
-"nref": 23,
+"nref": 22,
 "title": "Remembering Brown-Rho scaling",
 "authors": [
 "Su Houng lee"
