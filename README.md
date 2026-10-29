@@ -68,6 +68,7 @@ is a repository variable.
 | `NEXT_PAPERS` | `20` | Papers just below the threshold shown in each page's folded list. |
 | `DAYS` | `5` | Announcement days shown on the site. |
 | `TIMEZONE` | `America/Bogota` | Time zone that decides which day is "today". |
+| `TOPIC_HALF_LIFE` | `5` | Recent topics weigh more: in the shared-topics part of the score, a paper's use of a phrase counts half as much every this many years (`0` turns it off). Only the topic weights change, not the network. |
 
 The time of the daily run (21:17 Bogotá) is the one setting that cannot be a variable: GitHub needs
 it written in `.github/workflows/hep-ph-pages.yml` (`cron`, in UTC). Editing that line is fine, but it

@@ -78,7 +78,10 @@ What it does:
   the network file's phrases (technical phrases of 2–5 words that the author's papers and the
   network use much more often than hep-ph as a whole, each with a weight up to 4) found in the
   paper's title and abstract, saturating as 1 − e^(−Σw/3). The reasons line lists them
-  ("Shared topics: …"). A network file without phrases (older builder) gives 40/35/15/10.
+  ("Shared topics: …"). **Recent topics weigh more**: each phrase's weight is recomputed from the
+  years of the papers using it, a paper counting 0.5^(age/h) with h = `--topic-half-life` years
+  (default 5; 0 uses the weights stored in the network file). Only the topic weights change, not
+  the network. A network file without phrases (older builder) gives 40/35/15/10.
 - The page opens with a short contents list ("In this listing": score and title of each match,
   plus a link to the folded next papers), then lists every paper at or above the threshold,
   highest score first, each with
@@ -392,6 +395,20 @@ def grams(text):
                 out.add(" ".join(g))
     return out
 
+def recent_weights(phrases, half_life, now):
+    """Recompute the phrases' weights counting each paper 0.5**(age/half_life) (own papers still own_weight
+    times), from the years stored by build_network.py; the network itself is unchanged. Old files: as stored."""
+    if not phrases or half_life <= 0 or "years" not in phrases: return phrases
+    r = lambda y: 0.5 ** (max(0, now - y) / half_life)
+    W = phrases.get("own_weight", 5); Y = phrases["years"]
+    tot = W * sum(map(r, Y["own"])) + sum(map(r, Y["other"])); total = phrases["total"]
+    out = []
+    for p, w0, no, ne, bg, yo, ye in phrases["list"]:
+        share = (W * sum(map(r, yo)) + sum(map(r, ye))) / tot
+        w = min(4.0, max(0.0, math.log(share / (max(bg, 1) / total)) - math.log(3))) if share > 0 else 0.0
+        out.append([p, round(w, 3), no, ne, bg, yo, ye])
+    return {**phrases, "list": out, "half_life": half_life}
+
 # ---------- 4. score ----------
 def score_all(rows, net, co, me_name, phrases=None):
     """Score 0-100. With the network's phrases: 35% direct citations, 30% coupling to own papers, 15% coupling to the
@@ -500,6 +517,8 @@ def main():
     ap.add_argument("--date", help="YYYY-MM-DD, 'yesterday' (default) or 'latest'")
     ap.add_argument("--tz", default="America/Bogota"); ap.add_argument("--category", default="hep-ph")
     ap.add_argument("--threshold", type=float, default=10)
+    ap.add_argument("--topic-half-life", type=float, default=5,
+                    help="years for a paper's weight in the shared topics to halve (0: no recency weighting)")
     ap.add_argument("--next", type=int, default=20, help="papers below the threshold shown in the collapsed list")
     ap.add_argument("--sections", default="new,cross,replacement")
     ap.add_argument("--author-recid", default="991924"); ap.add_argument("--author-name", help="default: read from the network file or the author's INSPIRE records")
@@ -544,11 +563,13 @@ def main():
             if not t: sys.exit("could not download the own papers from INSPIRE")
             open(a.own, "w").write(t)
     net, co, nname, nrecid = network(a.network or a.own, a.external, a.author_recid)
-    phrases = load_json(a.network).get("phrases") if a.network else None
+    phrases = recent_weights(load_json(a.network).get("phrases") if a.network else None,
+                             a.topic_half_life, int(time.strftime("%Y")))
     if nname and not a.author_name_given: a.author_name, a.author_recid = nname, nrecid
     score_all(rows, net, co, a.author_name or "", phrases)
     yr = int("20" + ids[0][:2]) if ids else int(time.strftime("%Y"))
     meta = {"date": label, "url": url, "cat": a.category, "year": yr, "built": time.strftime("%Y-%m-%d"), "topics": bool(phrases),
+            "halfLife": (phrases or {}).get("half_life"),
             "nown": sum(1 for v in net.values() if v["kind"] == "R"), "next": sum(1 for v in net.values() if v["kind"] == "E"),
             "onInspire": len(F)}
     nr, nn, ne = build(rows, net, a.threshold, meta, a.out, a.next)
@@ -723,7 +744,7 @@ const NEWS=N.filter(isNew).sort((a,b)=>a.rank-b.rank);
 document.getElementById('eyebrow').innerHTML=`arXiv ${esc(M.cat)} · <a href="${esc(M.url)}" target="_blank" rel="noopener">${esc(M.date)}</a>`;
 document.getElementById('dek').textContent=`${M.nrel} of the ${M.nlist} papers in this listing (${M.counts.new} new, ${M.counts.cross} cross-lists, ${M.counts.replacement} replacements) score ${M.threshold} or more for belonging to the reference and citation network of your ${M.nown} papers and the ${M.next} papers by other authors around them. Highest score first.`;
 const T=!!M.topics;   // network file with shared phrases: 35/30/15/10 + 10% shared topics
-document.getElementById('foot').innerHTML=`<p><b>Score (0–100).</b> ${T?35:40}% direct citations of network papers (each of your papers counts 1, each other network paper 0.6, network papers with over 1,000 citations 0.06; saturating as 1 − e<sup>−x</sup>); ${T?30:35}% bibliographic coupling with your own papers (idf-weighted cosine of INSPIRE-linked reference sets, best match and mean of the top three, 0.30 = full marks); 15% best coupling with the other network papers (0.35 = full marks); 10% authorship (you, or your co-authors)${T?`; 10% shared topics: technical phrases of two or more words in the title and abstract that your papers and the network use much more often than hep-ph as a whole (each weighted by how much more, saturating as 1 − e<sup>−x/3</sup>)`:''}.</p>
+document.getElementById('foot').innerHTML=`<p><b>Score (0–100).</b> ${T?35:40}% direct citations of network papers (each of your papers counts 1, each other network paper 0.6, network papers with over 1,000 citations 0.06; saturating as 1 − e<sup>−x</sup>); ${T?30:35}% bibliographic coupling with your own papers (idf-weighted cosine of INSPIRE-linked reference sets, best match and mean of the top three, 0.30 = full marks); 15% best coupling with the other network papers (0.35 = full marks); 10% authorship (you, or your co-authors)${T?`; 10% shared topics: technical phrases of two or more words in the title and abstract that your papers and the network use much more often than hep-ph as a whole (each weighted by how much more${M.halfLife?`, with recent papers counting more: a paper's weight halves every ${M.halfLife} years`:''}; saturating as 1 − e<sup>−x/3</sup>)`:''}.</p>
 <p><b>Data.</b> Network: INSPIRE records supplied with the project. Listing papers: INSPIRE records where already harvested (${M.onInspire} of ${M.nlist}); for the rest the reference list was read from the arXiv source and matched to INSPIRE by arXiv number, DOI and texkey. Only links between papers on this page are drawn. Built ${esc(M.built)}.</p>`;
 const P=['Direct citations','Coupling to your papers','Coupling to network','Authorship','Shared topics'];
 const PS=['Citations','Your papers','Network','Authors','Topics'];   // short labels for phones
