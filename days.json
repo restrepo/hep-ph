@@ -1,8 +1,36 @@
 [
  {
+  "date": "2026-10-30",
+  "page": "hep-ph-2026-10-30.html",
+  "built": "2026-10-30",
+  "code": "cf6ec8a419f7",
+  "nlist": 154,
+  "nrel": 16,
+  "top": [
+   {
+    "arxiv": "2610.38734",
+    "title": "Neutrino electromagnetic properties after the first $pp$ solar neutrino observation at XENONnT",
+    "score": 50.5,
+    "section": "new"
+   },
+   {
+    "arxiv": "2601.18147",
+    "title": "Radiative generation of chiral vector operators in $b\\to s ν\\barν$ transition",
+    "score": 44.9,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2610.39858",
+    "title": "Spontaneous CP violation and leptogenesis in minimal flavour models",
+    "score": 39.9,
+    "section": "new"
+   }
+  ]
+ },
+ {
   "date": "2026-10-28",
   "page": "hep-ph-2026-10-28.html",
-  "built": "2026-10-29",
+  "built": "2026-10-30",
   "code": "cf6ec8a419f7",
   "nlist": 95,
   "nrel": 19,
