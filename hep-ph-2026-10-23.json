@@ -132,7 +132,7 @@
 "nref": 43,
 "title": "What if dark matter is composite of least interacting particles?",
 "authors": [
-"Elaine C. F. S. Fortes",
+"Elaine C.F.S. Fortes",
 "Vicente Pleitez"
 ],
 "abstract": "In this work, we investigate the possibility that Dark Matter contains particles that interact with known matter only through gravity, the least interacting particles (LIPs). Specifically, we consider the case of a dark Proca vector field, which does not mix in the kinetic term with any of the vector bosons of the Standard Model if a discrete symmetry (Z2 ) is imposed. Breaking this symmetry introduces kinetic mixing. Here, we study two realization mechanisms, namely kinetic mixing with the electromagnetic field after electroweak symmetry breaking (Scenario A) and kinetic mixing with the weak hypercharge gauge field (Scenario B). We also consider generalized kinetic terms that violate parity and time-reversal symmetries.",
@@ -193,7 +193,7 @@
 "title": "Probing Heavy Neutral Leptons through New Gauge Interactions at the Forward Physics Facilities",
 "authors": [
 "Francis M. Burk",
-"P. S. Bhupal Dev",
+"P.S. Bhupal Dev",
 "Bhaskar Dutta",
 "Tao Han",
 "Aparajitha Karthikeyan",
@@ -260,7 +260,7 @@
 "Mayank Joshi",
 "Navjot Hothi"
 ],
-"abstract": "In this manuscript, a dynamical inverse seesaw neutrino ISS(3+1+1+1) mixing model based on the gauge symmetry $U(1)_{B-L}$ extended by the flavor symmetry $A_{4}\\times Z_{2}$ has been constructed. ISS(3+1+1+1) represents three generations of right-handed neutrinos and an extra three generation of singlets sterile neutrinos, wherein the right-handed neutrinos are triplets under $A_4$ symmetry. Furthermore, the five scalar flavon fields are considered in the model, which reproduce neutrino oscillation data within the NuFIT 6.0 experimental range with statistical $\\text{|pull|}=0.01 σ$. The neutrino mass hierarchy is obtained by minimizing the dynamical $A_4\\times Z_2$ scalar flavon $φ_v$ potential. The effective neutrino mass parameter $m_{ββ}$ for the neutrinoless double beta decay $0vββ$ has been charecterised in the manuscript. The effective neutrino mass parameter spans a finite region in the parameter space rather then being confined to a single point and it is constrained by the KamLAND-Zen excluded band. The model successfully explains active-sterile neutrino mixing and non-unitarity of the PMNS matrix is consistent with the cosmological upper bound. The minimum value of the sum of the active neutrinos' mass turns out to be $m_{i}\\approx 62\\ \\ (99.4)\\ \\text{meV}$ for Normal ordering (Inverted ordering), which lies within the range of both Planck 2018 loose cosmological limit $\\sum m_{i}<120\\ \\text{meV}$ and tighter limit $\\sum m_{i}<72\\ \\text{meV}$ of DESI-2024. Our model immensely favours normal ordering, in agreement with the tighter constraints reported by DESI-2024.",
+"abstract": "In this manuscript, a dynamical inverse seesaw neutrino ISS(3+1+1+1) mixing model based on the gauge symmetry $U(1)_{B-L}$ extended by the flavor symmetry $A_{4}\\times Z_{2}$ has been constructed. ISS(3+1+1+1) represents three generations of right-handed neutrinos and an extra three generation of singlets sterile neutrinos, wherein the right-handed neutrinos are triplets under $A_4$ symmetry. Furthermore, the five scalar flavon fields are considered in the model, which reproduce neutrino oscillation data within the NuFIT 6.0 experimental range with statistical $\\text{|pull|}=0.01 σ$. The neutrino mass hierarchy is obtained by minimizing the dynamical $A_4\\times Z_2$ scalar flavon $ϕ_v$ potential. The effective neutrino mass parameter $m_{ββ}$ for the neutrinoless double beta decay $0vββ$ has been charecterised in the manuscript. The effective neutrino mass parameter spans a finite region in the parameter space rather then being confined to a single point and it is constrained by the KamLAND-Zen excluded band. The model successfully explains active-sterile neutrino mixing and non-unitarity of the PMNS matrix is consistent with the cosmological upper bound. The minimum value of the sum of the active neutrinos' mass turns out to be $m_{i}\\approx 62\\ \\ (99.4)\\ \\text{meV}$ for Normal ordering (Inverted ordering), which lies within the range of both Planck 2018 loose cosmological limit $\\sum m_{i}<120\\ \\text{meV}$ and tighter limit $\\sum m_{i}<72\\ \\text{meV}$ of DESI-2024. Our model immensely favours normal ordering, in agreement with the tighter constraints reported by DESI-2024.",
 "citR": [],
 "citE": [
 "1589459"
@@ -377,13 +377,13 @@
 "nref": 91,
 "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
 "authors": [
-"Samuel S. H. Tse",
+"Samuel S.H. Tse",
 "Qishan Liu",
-"Kenny C. Y. Ng",
+"Kenny C.Y. Ng",
 "Koun Choi",
 "Yu-Feng Li"
 ],
-"abstract": "Light dark matter can be boosted by cosmic-ray-dark matter interactions, which opens the possibility of direct-detection searches with large neutrino detectors. We consider the signal produced by boosted dark matter undergoing quasi-elastic scattering off carbon and knocking out a neutron in a large liquid scintillator detector. A distinctive delayed gamma ray from neutron capture can be reconstructed after $\\sim 210$ $μ$s, which is paired up with the prompt signal during neutron propagation. We find that 100 kt$\\cdot$yr of data from the neutron-coincidence channel will be able to probe new parameter space compared to free proton signals found in previous work. We further consider the possibility of utilizing directional information from the displaced vertex associated with the capture of the final-state neutron. However, we find that directional information does not materially improve the sensitivity due to the large nucleon scattering angle.",
+"abstract": "Light dark matter can be boosted by cosmic-ray-dark matter interactions, which opens the possibility of direct-detection searches with large neutrino detectors. We consider the signal produced by boosted dark matter undergoing quasi-elastic scattering off carbon and knocking out a neutron in a large liquid scintillator detector. A distinctive delayed gamma ray from neutron capture can be reconstructed after $\\sim 210$$μ$s, which is paired up with the prompt signal during neutron propagation. We find that 100 kt$\\cdot$yr of data from the neutron-coincidence channel will be able to probe new parameter space compared to free proton signals found in previous work. We further consider the possibility of utilizing directional information from the displaced vertex associated with the capture of the final-state neutron. However, we find that directional information does not materially improve the sensitivity due to the large nucleon scattering angle.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -724,7 +724,7 @@
 },
 {
 "arxiv": "2610.30507",
-"section": "cross",
+"section": "new",
 "recid": "3218049",
 "src": "INSPIRE",
 "nref": 41,
@@ -905,7 +905,7 @@
 "Matteo Borrello",
 "Michele Tammaro"
 ],
-"abstract": "We study Neutrino Transition Polarizability, where a light pseudoscalar $φ$ couples active neutrinos to heavy neutral leptons $N$ and interacts with two photons. We consider an effective description of the active - sterile interaction, and a realization within the inverse seesaw mechanism; the coupling to photons is generated by heavy charged states. For $m_N>m_φ$, the decay $N\\toνφ$ can greatly shorten the heavy neutrino lifetime, while $φ\\toγγ$ produces a displaced photon pair. This changes the relevant search strategies, favoring production and decay inside detectors. We discuss existing constraints and estimate the sensitivity of displaced photon searches at DUNE, Belle II, LHCb and FCC-ee, highlighting the complementarity of neutrino scattering and meson and electroweak boson decays.",
+"abstract": "We study Neutrino Transition Polarizability, where a light pseudoscalar $ϕ$ couples active neutrinos to heavy neutral leptons $N$ and interacts with two photons. We consider an effective description of the active - sterile interaction, and a realization within the inverse seesaw mechanism; the coupling to photons is generated by heavy charged states. For $m_N>m_ϕ$, the decay $N\\toνϕ$ can greatly shorten the heavy neutrino lifetime, while $ϕ\\toγγ$ produces a displaced photon pair. This changes the relevant search strategies, favoring production and decay inside detectors. We discuss existing constraints and estimate the sensitivity of displaced photon searches at DUNE, Belle II, LHCb and FCC-ee, highlighting the complementarity of neutrino scattering and meson and electroweak boson decays.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -1351,7 +1351,7 @@
 },
 {
 "arxiv": "2610.30510",
-"section": "cross",
+"section": "new",
 "recid": "3218051",
 "src": "INSPIRE",
 "nref": 57,
@@ -1407,7 +1407,7 @@
 },
 {
 "arxiv": "2610.31441",
-"section": "cross",
+"section": "new",
 "recid": "3218217",
 "src": "INSPIRE",
 "nref": 116,
@@ -1576,7 +1576,7 @@
 },
 {
 "arxiv": "2610.30784",
-"section": "cross",
+"section": "new",
 "recid": "3218088",
 "src": "INSPIRE",
 "nref": 190,
@@ -1708,7 +1708,7 @@
 "Yuxiang Zhao",
 "Yiyu Zhou"
 ],
-"abstract": "We present an updated global analysis of the transverse-momentum-dependent (TMD) helicity distributions of the nucleon from measurements of the longitudinal double-spin asymmetry $A_{LL}$ in semi-inclusive deep-inelastic scattering (SIDIS). The analysis incorporates target- and detected-hadron-mass corrections, next-to-next-to-leading-order matching in the small-$b_T$ operator product expansion, and an improved treatment of correlated systematic uncertainties. The present data constrain the up- and down-quark helicity TMDs, whereas the sea-quark and gluon distributions remain weakly constrained. After integration over transverse momenta up to the hard scale, the up- and down-quark distributions agree with collinear helicity distributions within uncertainties. Using the extracted TMDs and the Wandzura-Wilczek-type approximation, we predict the $\\cosφ_h$ modulation of $A_{LL}$ and find agreement with the HERMES and CLAS measurements. We also provide predictions for SIDIS $A_{LL}$ at CLAS12 and for longitudinal single-spin asymmetries in $W^\\pm$ production with leptonic decays at STAR kinematics. An impact study with pseudodata for the proposed Electron-Ion Collider in China (EicC) indicates substantial potential to improve constraints on helicity TMDs at intermediate $x$, including the presently weakly constrained sea-quark sector.",
+"abstract": "We present an updated global analysis of the transverse-momentum-dependent (TMD) helicity distributions of the nucleon from measurements of the longitudinal double-spin asymmetry $A_{LL}$ in semi-inclusive deep-inelastic scattering (SIDIS). The analysis incorporates target- and detected-hadron-mass corrections, next-to-next-to-leading-order matching in the small-$b_T$ operator product expansion, and an improved treatment of correlated systematic uncertainties. The present data constrain the up- and down-quark helicity TMDs, whereas the sea-quark and gluon distributions remain weakly constrained. After integration over transverse momenta up to the hard scale, the up- and down-quark distributions agree with collinear helicity distributions within uncertainties. Using the extracted TMDs and the Wandzura-Wilczek-type approximation, we predict the $\\cosϕ_h$ modulation of $A_{LL}$ and find agreement with the HERMES and CLAS measurements. We also provide predictions for SIDIS $A_{LL}$ at CLAS12 and for longitudinal single-spin asymmetries in $W^\\pm$ production with leptonic decays at STAR kinematics. An impact study with pseudodata for the proposed Electron-Ion Collider in China (EicC) indicates substantial potential to improve constraints on helicity TMDs at intermediate $x$, including the presently weakly constrained sea-quark sector.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -1754,7 +1754,7 @@
 },
 {
 "arxiv": "2610.31044",
-"section": "cross",
+"section": "new",
 "recid": "3218118",
 "src": "INSPIRE",
 "nref": 187,
@@ -1988,7 +1988,7 @@
 "nref": 23,
 "title": "Spin correlations in the $τ$-lepton pair in polarized electron-positron annihilation",
 "authors": [
-"A. Yu. Korchin",
+"A.Yu. Korchin",
 "Z. Was"
 ],
 "abstract": "Possible anomalous New Physics contributions to dipole and weak dipole moments of the $τ$ lepton rise considerable interest in theoretical and experimental studies of the $τ$-pair production in electron-positron annihilation and in proton-proton collisions at the LHC. In the present paper we discuss and calculate the spin-correlation matrix in the $e^+ e^- \\to τ^+ τ^-$, and in general $f \\bar{f} \\to τ^+ τ^-$ processes, including New Physics contributions to the $γττ$ and $Z ττ$ vertices and longitudinally polarized beams of initial fermions. The $τ$ decays are included as well. This work is an upgrade of our previous studies of the spin correlations in the $ττ$ system produced in the processes with unpolarized initial fermions ($e^- e^+$ and $q\\bar{q}$). A corresponding numerical code is developed. Brief information on how to use and configure the MC programs with a new subroutine is also given.",
@@ -2098,7 +2098,7 @@
 "nref": 79,
 "title": "Multiplicity Distribution in the Color Glass Condensate Formalism",
 "authors": [
-"H. R. Martins-Fontes"
+"H.R. Martins-Fontes"
 ],
 "abstract": "The multiplicity distribution (MD) of charged particles in high-energy proton-proton collisions remains an intricate aspect of quantum chromodynamics (QCD). Traditional models, such as the Negative Binomial Distribution (NBD), were fitted and successfully described MDs at lower energies, but fail at higher energies, such as those probed by the Large Hadron Collider (LHC), where a ``shoulder-like'' structure emerges. To address this, we employ the Double Negative Binomial Distribution (DNBD), a weighted combination of two NBDs, representing contributions from soft and semi-hard processes. This model typically involves six free parameters, but by incorporating the $k_T$ factorization formalism and introducing an energy scale $Λ$, we effectively reduce the number of free parameters from six to four while maintaining a strong fit to high-energy MD data. The unintegrated gluon distribution used in this work is derived from the Golec-Biernat-Wüsthoff (GBW) model. Additionally, we investigate the KNO scaling and use the $k_T$ factorization formalism to describe the pseudo-rapidity distribution. Our approach demonstrates excellent agreement with recent experimental data, yielding low $χ^2$ values and highlighting the potential for improvements using more realistic gluon distribution model. This analysis provides valuable insights into the interplay of soft and semi-hard processes in high-energy collisions.",
 "citR": [],
@@ -2146,7 +2146,7 @@
 },
 {
 "arxiv": "2610.30723",
-"section": "cross",
+"section": "new",
 "recid": "3218077",
 "src": "INSPIRE",
 "nref": 72,
@@ -2203,7 +2203,7 @@
 },
 {
 "arxiv": "2610.30233",
-"section": "cross",
+"section": "new",
 "recid": "3217970",
 "src": "INSPIRE",
 "nref": 149,
@@ -2325,7 +2325,7 @@
 "Chia-Wei Liu",
 "Peng-Yuan Zheng"
 ],
-"abstract": "Conventional estimates of $J/ψ$ weak decays, based on independent single-charm decays, suggest a branching fraction of order $10^{-8}$. Searches with samples of approximately $10^{10}$ $J/ψ$ events have so far yielded upper limits on exclusive modes. We calculate the inclusive weak branching fraction using the optical theorem, including single-charm decay, charged- and neutral-current annihilation, and their interference. The heavy-quark expansion identifies the leading pair-annihilation structure and motivates vacuum saturation for the leading color-singlet component. With tree-level hard kernels and leading-logarithmic Wilson coefficients at $μ_0=M_{J/ψ}$, we obtain $B_{\\rm weak}=(7.96^{+3.43}_{-0.43}\\pm1.24)\\times10^{-8}$. The contribution mediated by the $W$ boson alone, i.e. single-charm decays and $W$-exchange annihilation without the $W$-$Z$ interference, has a branching fraction of $(2.37^{+1.64}_{-0.42}\\pm0.13)\\times10^{-8}$. For the flavor sectors $(ΔC,|ΔS|)=(0,1)$ and $|ΔC|=1$, the branching fractions are $(4.97^{+16.44}_{-4.97}\\pm0.99)\\times10^{-10}$ and $(1.86^{+0.20}_{-0.06}\\pm0.02)\\times10^{-8}$, respectively, including charge-conjugate channels. The first uncertainty estimates missing perturbative corrections through scale variation over $1~\\mathrm{GeV}\\leqμ\\leq3M_{J/ψ}$. The second is a hadronic uncertainty, obtained by jointly varying each vacuum-saturation and kinetic/chromomagnetic input within relative ranges of $Λ_{\\rm QCD}/m_c\\simeq20\\%$. Pair annihilation dominates, with a substantial neutral-current contribution and scale-sensitive $W$-$Z$ interference.",
+"abstract": "Conventional estimates of $J/ψ$ weak decays, based on independent single-charm decays, suggest a branching fraction of order $10^{-8}$. Searches with samples of approximately $10^{10}$$J/ψ$ events have so far yielded upper limits on exclusive modes. We calculate the inclusive weak branching fraction using the optical theorem, including single-charm decay, charged- and neutral-current annihilation, and their interference. The heavy-quark expansion identifies the leading pair-annihilation structure and motivates vacuum saturation for the leading color-singlet component. With tree-level hard kernels and leading-logarithmic Wilson coefficients at $μ_0=M_{J/ψ}$, we obtain $B_{\\rm weak}=(7.96^{+3.43}_{-0.43}\\pm1.24)\\times10^{-8}$. The contribution mediated by the $W$ boson alone, i.e. single-charm decays and $W$-exchange annihilation without the $W$-$Z$ interference, has a branching fraction of $(2.37^{+1.64}_{-0.42}\\pm0.13)\\times10^{-8}$. For the flavor sectors $(ΔC,|ΔS|)=(0,1)$ and $|ΔC|=1$, the branching fractions are $(4.97^{+16.44}_{-4.97}\\pm0.99)\\times10^{-10}$ and $(1.86^{+0.20}_{-0.06}\\pm0.02)\\times10^{-8}$, respectively, including charge-conjugate channels. The first uncertainty estimates missing perturbative corrections through scale variation over $1~\\mathrm{GeV}\\leqμ\\leq3M_{J/ψ}$. The second is a hadronic uncertainty, obtained by jointly varying each vacuum-saturation and kinetic/chromomagnetic input within relative ranges of $Λ_{\\rm QCD}/m_c\\simeq20\\%$. Pair annihilation dominates, with a substantial neutral-current contribution and scale-sensitive $W$-$Z$ interference.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -2485,7 +2485,7 @@
 },
 {
 "arxiv": "2610.30879",
-"section": "cross",
+"section": "new",
 "recid": "3218113",
 "src": "INSPIRE",
 "nref": 82,
@@ -2547,10 +2547,10 @@
 "title": "Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model",
 "authors": [
 "Bruno S. Lopes",
-"Arthur E. B. Pasqualotto",
+"Arthur E.B. Pasqualotto",
 "Jandir J. Buttenbender Filho",
 "Dyana C. Duarte",
-"Ricardo L. S. Farias"
+"Ricardo L.S. Farias"
 ],
 "abstract": "Conserved-charge correlations offer a promising probe of magnetic fields in strongly interacting matter. We investigate their magnetic response and the finite-density equation of state within a lattice-constrained three-flavor Polyakov--Nambu--Jona-Lasinio model. A thermomagnetic scalar coupling, inferred by Gaussian process regression from lattice QCD results for the average light-quark condensate, incorporates inverse magnetic catalysis into the effective interaction. Without fitting conserved-charge observables, the resulting framework substantially improves their magnetic-field dependence and crossover behavior compared with the fixed-coupling model. In particular, it captures the pronounced magnetic enhancement of the baryon--electric-charge correlation and related susceptibility ratios, supporting their use as QCD magnetometers. The comparison demonstrates that the medium dependence of the effective interaction is essential to describe this response within the model. We further calculate pressure Taylor coefficients through sixth order and reconstruct the pressure and baryon density at nonzero baryon chemical potential. Our results show that lattice information from a single chiral observable constrains a broad thermodynamic response, connecting inverse magnetic catalysis, conserved-charge correlations, and the equation of state in a common framework. This provides a lattice-constrained basis for investigating magnetic-field signatures and finite-density thermodynamics in QCD matter.",
 "citR": [],
@@ -2598,7 +2598,7 @@
 },
 {
 "arxiv": "2610.30248",
-"section": "cross",
+"section": "new",
 "recid": "3217980",
 "src": "INSPIRE",
 "nref": 55,
@@ -2711,7 +2711,7 @@
 },
 {
 "arxiv": "2610.31345",
-"section": "cross",
+"section": "new",
 "recid": "3218153",
 "src": "INSPIRE",
 "nref": 65,
@@ -2767,7 +2767,7 @@
 },
 {
 "arxiv": "2610.31534",
-"section": "cross",
+"section": "new",
 "recid": "3218197",
 "src": "INSPIRE",
 "nref": 63,
@@ -2780,7 +2780,7 @@
 "Abat Muratov",
 "Weiwei Wang"
 ],
-"abstract": "In this manuscript, we study circular geodesics and twin-peak high-frequency quasi-periodic oscillations (HF-QPOs) in the charged Simpson--Visser--anti-de Sitter (AdS) spacetime, which depends on a charge parameter $Q$, a regularization scale $b$ and an AdS radius $l$. Written in terms of the areal radius $R=\\sqrt{r^{2}+b^{2}}$, the specific energy, angular momentum, Keplerian frequency and innermost stable circular orbit (ISCO) of test particles coincide with those of the Reissner--Nordström--AdS black hole, so $b$ enters the epicyclic spectrum only through a factor $1-b^{2}/R^{2}$ in the radial frequency. We give this frequency and the ISCO condition in closed form. We then fit the relativistic-precession model to the HF-QPO pairs of GRO~J1655$-$40 and XTE~J1550$-$564, with their dynamical masses included as Gaussian priors. The Schwarzschild limit gives $χ^{2}=32.9$ for two degrees of freedom. One additional deformation removes this tension: $Q/M=0.814^{+0.059}_{-0.074}$ at fixed $l=100M$, or $l=40.6^{+6.2}_{-4.8}\\,M$ at $Q=0$, both with $χ^{2}\\simeq0.13$. These two solutions lie on a single degeneracy valley in the $(Q,l)$ plane, and, at $l=100M$, $b$ is left unconstrained up to $b\\simeq3.9M$ (68\\%), a limit set by the charge prior rather than by the data. A Kerr black hole with spin $a\\simeq0.3$--$0.4$ reproduces the same pairs, so the inferred deformation most likely absorbs the spin neglected by the static metric. Our results therefore describe degeneracies among orbital-frequency deformations; they are not a measurement of an electric charge or of a cosmological constant.",
+"abstract": "In this manuscript, we study circular geodesics and twin-peak high-frequency quasi-periodic oscillations (HF-QPOs) in the charged Simpson--Visser--anti-de Sitter (AdS) spacetime, which depends on a charge parameter $Q$, a regularization scale $b$ and an AdS radius $l$. Written in terms of the areal radius $R=\\sqrt{r^{2}+b^{2}}$, the specific energy, angular momentum, Keplerian frequency and innermost stable circular orbit (ISCO) of test particles coincide with those of the Reissner--Nordström--AdS black hole, so $b$ enters the epicyclic spectrum only through a factor $1-b^{2}/R^{2}$ in the radial frequency. We give this frequency and the ISCO condition in closed form. We then fit the relativistic-precession model to the HF-QPO pairs of GRO~J1655$-$40 and XTE~J1550$-$564, with their dynamical masses included as Gaussian priors. The Schwarzschild limit gives $χ^{2}=32.9$ for two degrees of freedom. One additional deformation removes this tension: $Q/M=0.814^{+0.059}_{-0.074}$ at fixed $l=100M$, or $l=40.6^{+6.2}_{-4.8}\\,M$ at $Q=0$, both with $χ^{2}\\simeq0.13$. These two solutions lie on a single degeneracy valley in the $(Q,l)$ plane, and, at $l=100M$, $b$ is left unconstrained up to $b\\simeq3.9M$ (68%), a limit set by the charge prior rather than by the data. A Kerr black hole with spin $a\\simeq0.3$--$0.4$ reproduces the same pairs, so the inferred deformation most likely absorbs the spin neglected by the static metric. Our results therefore describe degeneracies among orbital-frequency deformations; they are not a measurement of an electric charge or of a cosmological constant.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -2826,7 +2826,7 @@
 },
 {
 "arxiv": "2610.31611",
-"section": "cross",
+"section": "new",
 "recid": "3218202",
 "src": "INSPIRE",
 "nref": 55,
@@ -2936,7 +2936,7 @@
 },
 {
 "arxiv": "2610.31408",
-"section": "cross",
+"section": "new",
 "recid": "3218174",
 "src": "INSPIRE",
 "nref": 119,
@@ -2992,7 +2992,7 @@
 },
 {
 "arxiv": "2610.30235",
-"section": "cross",
+"section": "new",
 "recid": "3217956",
 "src": "INSPIRE",
 "nref": 28,
