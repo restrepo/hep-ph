@@ -1,6 +1,6 @@
 ---
 name: "hep-ph-network-match"
-description: "Ranks the arXiv hep-ph listing (yesterday's announcement by default, or a given date) by how strongly each paper belongs to an author's INSPIRE reference and citation network (a network file from hep-network-builder, or that of INSPIRE author 991924 by default), and publishes an HTML page listing the papers above a score threshold (default 10) with title, authors and abstract, plus the next 20 papers by score in a collapsed list."
+description: "Ranks the arXiv hep-ph listing (yesterday's announcement by default, or a given date) by how strongly each paper belongs to an author's INSPIRE reference and citation network (a network file from hep-network-builder, or that of INSPIRE author 991924 by default), and publishes an HTML page listing the papers above a score threshold (default 10) with title, authors and abstract, plus, in a collapsed list, every paper below it scoring at least 6 and at least 20 papers."
 ---
 
 # hep-ph network match
@@ -95,8 +95,10 @@ What it does:
   hover, keyboard focus or tap, like the graph's tooltip), the
   four score components and links (INSPIRE, arXiv, PDF, and arXiv's experimental HTML
   version when it exists). Below it, the network laid out by year (citations solid,
-  coupling-only links dashed) with a detail panel; then, collapsed (`<details>`), the next 20
-  papers by score below the threshold (`--next`), with the same reasons, a folded abstract and links, not
+  coupling-only links dashed) with a detail panel; then, collapsed (`<details>`), the papers
+  below the threshold: every one scoring at least `--next-min-score` (6) and at least `--next` (20)
+  in all, those under 6 after a "weaker relation" divider (about half the papers scoring 6–8 share
+  a specific reference, coupling or topic with the network, few below 6), with the same reasons, a folded abstract and links, not
   drawn in the network; then the method notes.
 - On phones (width ≤ 600 px) each abstract folds to 3 lines with a More/Less button, author
   lists longer than 3 show "et al. (+N)" (tap to expand), the four score bars sit in a 2×2 grid
@@ -140,7 +142,7 @@ paste the artifact URL.
             arxiv.org/list/<cat>/recent dated before today in --tz; 'latest' = arxiv.org/list/<cat>/new
 If the catchup page for --date is refused, the day's new submissions and cross-lists are read from
 arxiv.org/list/<cat>/recent instead (replacements are then missing).
-Writes PAGE.html (self-contained page, with the next --next (20) papers below the threshold in a collapsed
+Writes PAGE.html (self-contained page, with the papers below the threshold (>= --next-min-score, at least --next) in a collapsed
 list) and PAGE.json (all scored papers).
 """
 import argparse, gzip, io, json, math, os, re, sys, tarfile, time, unicodedata
@@ -489,7 +491,7 @@ def why(r, net):
     if r.get("watch"): bits.append("Your watch topics: " + ", ".join(r["watch"]) + ".")
     return " ".join(bits)
 
-def build(rows, net, th, meta, out, nnext=20):
+def build(rows, net, th, meta, out, nnext=20, nmin=6.0):
     rel = [r for r in rows if r["score"] >= th]
     nodes, edges = {}, set()
     for rank, r in enumerate(rel, 1):
@@ -521,7 +523,8 @@ def build(rows, net, th, meta, out, nnext=20):
     nxt = [{"arxiv": r["arxiv"], "id": r["recid"], "title": r["title"], "authors": ", ".join(r["authors"]),
             "score": r["score"], "section": r["section"], "rank": len(rel) + j, "parts": r["parts"],
             "note": why(r, net), "abstract": r["abstract"]}
-           for j, r in enumerate((r for r in rows if r["score"] < th), 1) if j <= nnext]
+           # below the threshold: every paper scoring at least nmin, and at least nnext papers in all
+           for j, r in enumerate((r for r in rows if r["score"] < th), 1) if j <= nnext or r["score"] >= nmin]
     keys = list(nodes); idx = {k: i for i, k in enumerate(keys)}
     cited = {k for x in [nd.get("note", "") for nd in nodes.values()] + [x["note"] for x in nxt] for k in re.findall(r"\[\[(\d+)\]\]", x)}
     refs = {k: {"first": net[k]["first"], "year": net[k]["year"], "nauth": net[k]["nauth"], "title": net[k]["title"],
@@ -547,7 +550,9 @@ def main():
                     "at most 4) added to the network's shared topics")
     ap.add_argument("--topic-half-life", type=float, default=5,
                     help="years for a paper's weight in the shared topics to halve (0: no recency weighting)")
-    ap.add_argument("--next", type=int, default=20, help="papers below the threshold shown in the collapsed list")
+    ap.add_argument("--next", type=int, default=20, help="at least this many papers below the threshold in the folded list")
+    ap.add_argument("--next-min-score", type=float, default=6,
+                    help="the folded list also has every paper scoring at least this (below the threshold)")
     ap.add_argument("--sections", default="new,cross,replacement")
     ap.add_argument("--author-recid", default="991924"); ap.add_argument("--author-name", help="default: read from the network file or the author's INSPIRE records")
     ap.add_argument("--work", default="hepph_work"); ap.add_argument("--out", required=True)
@@ -598,10 +603,10 @@ def main():
     score_all(rows, net, co, a.author_name or "", phrases, watch)
     yr = int("20" + ids[0][:2]) if ids else int(time.strftime("%Y"))
     meta = {"date": label, "url": url, "cat": a.category, "year": yr, "built": time.strftime("%Y-%m-%d"), "topics": bool(phrases),
-            "halfLife": (phrases or {}).get("half_life"), "watch": sorted(watch),
+            "halfLife": (phrases or {}).get("half_life"), "watch": sorted(watch), "nextMin": a.next_min_score, "nextCount": a.next,
             "nown": sum(1 for v in net.values() if v["kind"] == "R"), "next": sum(1 for v in net.values() if v["kind"] == "E"),
             "onInspire": len(F)}
-    nr, nn, ne = build(rows, net, a.threshold, meta, a.out, a.next)
+    nr, nn, ne = build(rows, net, a.threshold, meta, a.out, a.next, a.next_min_score)
     json.dump([{**{k: v for k, v in r.items() if k not in ("refs",)},
                 "topR": [(round(c, 3), k) for c, k in r["topR"][:3]], "topE": [(round(c, 3), k) for c, k in r["topE"][:3]]}
                for r in rows], open(os.path.splitext(a.out)[0] + ".json", "w"), ensure_ascii=False, indent=0)
@@ -689,6 +694,7 @@ input[type=search]{font:inherit;font-size:13px;padding:6px 10px;border:1px solid
 .nextlist{list-style:none;margin:0;padding:0 0 8px;display:grid}
 .nextlist li{display:grid;gap:4px;padding:12px 0;border-top:1px solid var(--line)}
 .nextlist .t{font-family:var(--f-display);font-weight:600;font-size:1.05rem;line-height:1.3}
+.nextlist .divider{display:block;padding:10px 0 8px;font-size:13px;color:var(--fg-3);border-top:2px dashed var(--line)}
 .nextlist .abs{font-size:14px}.nextlist .abs summary{cursor:pointer;color:var(--fg-3);font-size:13px}
 .toc{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 16px}
 .toc h3{font-size:1rem;margin:0 0 6px}
@@ -858,8 +864,10 @@ svg.on('click',ev=>{if(ev.target.tagName!=='circle'){sel=null;panel();paint()}})
 let rt;window.addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(draw,200)});
 function nextList(){const X=RAW.next||[];if(!X.length)return;const box=document.getElementById('nextlist'),more=document.getElementById('more');
   more.hidden=false;more.querySelector('summary').firstChild.textContent=`The next ${X.length} papers by score `;
-  document.getElementById('moresub').textContent=`below the threshold of ${M.threshold}, not drawn in the network`;
-  box.innerHTML=X.map(n=>`<li><div class="role" style="color:var(--${n.section==='replacement'?'repl':'today'})">#${n.rank} · ${esc(SEC[n.section])} · score ${n.score.toFixed(1)}</div>
+  const nmin=M.nextMin;
+  document.getElementById('moresub').textContent=`below the threshold of ${M.threshold}${nmin!=null?`: every paper scoring ${nmin} or more, and at least ${M.nextCount} when available`:''}; not drawn in the network`;
+  const cut=nmin!=null?X.findIndex(n=>n.score<nmin):-1;
+  box.innerHTML=X.map((n,i)=>(i===cut?`<li class="divider">Below ${nmin}: weaker relation (most of these share no specific reference, coupling or topic with your work)</li>`:'')+`<li><div class="role" style="color:var(--${n.section==='replacement'?'repl':'today'})">#${n.rank} · ${esc(SEC[n.section])} · score ${n.score.toFixed(1)}</div>
     <div class="t">${esc(n.title)}</div><div class="authors">${authors(n.authors)} · arXiv:${esc(n.arxiv)}</div>
     ${n.note?`<p class="why">${why(n.note)}</p>`:''}
     <details class="abs"><summary>Abstract</summary><p class="abs">${esc(n.abstract)}</p></details>
