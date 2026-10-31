@@ -51,6 +51,7 @@
 "topics": [
 "fermion mass"
 ],
+"watch": [],
 "parts": [
 0.7,
 0.0,
@@ -114,6 +115,7 @@
 "mass matrix",
 "fermion mass"
 ],
+"watch": [],
 "parts": [
 0.7,
 0.06,
@@ -122,63 +124,6 @@
 0.74
 ],
 "score": 37.0
-},
-{
-"arxiv": "2609.06750",
-"section": "replacement",
-"recid": "3200948",
-"src": "INSPIRE",
-"nref": 73,
-"title": "GUT-induced collider signatures of the LUX-ZEPLIN event",
-"authors": [
-"Wojciech Kotlarski",
-"Kamila Kowalska",
-"Enrico Maria Sessolo"
-],
-"abstract": "The recent observation of an event with large recoil energy at LUX-ZEPLIN (LZ) has found a possible explanation in terms of the inelastic scattering of a pseudo-Dirac particle, for example, the Higgsino of the MSSM. For pseudo-Dirac dark matter, the mass splitting $δm$ is correlated with the mass of some heavier states. While in the MSSM rough dimensional considerations seem to indicate mass ranges of these heavy particles hopelessly out of reach even at future colliders, we point out that this is not the case in GUT-induced scenarios, with or without supersymmetry. Working in a non-supersymmetric model based on SU(6), we show that the experimentally favored $δm$ implies the presence of a $Z'$ gauge boson with a mass of several TeVs. We derive the predicted $Z'$ signal in the dilepton channel and we confront it with the sensitivity of the HL-LHC and the FCC-$hh$ to $Z'$ resonances. We show that the $Z'$ falls squarely in reach of the discovery potential of both experiments.",
-"citR": [],
-"citE": [
-"1704332"
-],
-"topR": [
-[
-0.032,
-"1746620"
-],
-[
-0.03,
-"1741056"
-],
-[
-0.029,
-"2080612"
-]
-],
-"topE": [
-[
-0.285,
-"3202840"
-],
-[
-0.277,
-"3201080"
-],
-[
-0.054,
-"2090218"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.45,
-0.11,
-0.81,
-0.0,
-0.07
-],
-"score": 31.9
 },
 {
 "arxiv": "2610.32845",
@@ -225,6 +170,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.29,
@@ -284,6 +230,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.24,
@@ -341,6 +288,7 @@
 "topics": [
 "discrete symmetry"
 ],
+"watch": [],
 "parts": [
 0.0,
 0.16,
@@ -349,65 +297,6 @@
 0.32
 ],
 "score": 12.4
-},
-{
-"arxiv": "2603.12314",
-"section": "replacement",
-"recid": "3129073",
-"src": "INSPIRE",
-"nref": 89,
-"title": "Dark Matter, Baryon Number, and Cosmic-Ray Antinuclei",
-"authors": [
-"Caleb Gemmell",
-"Dan Hooper",
-"Seth Koren",
-"Fabrizio Vassallo"
-],
-"abstract": "Antideuterons and antihelium nuclei in the cosmic-ray spectrum have long been considered a smoking gun signature of dark matter annihilation, making the tentative observation of several such events by AMS highly intriguing. Conventional dark matter models, however, can produce only up to O(1) antideuteron events at AMS and are not capable of generating observable fluxes of antihelium. In this Letter, we propose a class of models in which dark matter annihilates into particles carrying baryon and lepton number, whose subsequent decays produce enhanced fluxes of antinucleons and antinuclei. Such scenarios are motivated by Grand Unified Theories and can lead to an order-of-magnitude or larger enhancement in the resulting antideuteron and antihelium-3 fluxes, providing a means by which to potentially explain the events reported by the AMS Collaboration.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.033,
-"2080612"
-],
-[
-0.01,
-"611590"
-],
-[
-0.01,
-"1854224"
-]
-],
-"topE": [
-[
-0.093,
-"1759674"
-],
-[
-0.066,
-"1697948"
-],
-[
-0.044,
-"2806152"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"dark matter model",
-"lepton number"
-],
-"parts": [
-0.0,
-0.09,
-0.27,
-0.0,
-0.32
-],
-"score": 9.9
 },
 {
 "arxiv": "2610.32669",
@@ -458,6 +347,7 @@
 "topics": [
 "neutrino mass"
 ],
+"watch": [],
 "parts": [
 0.0,
 0.04,
@@ -466,61 +356,6 @@
 0.39
 ],
 "score": 9.1
-},
-{
-"arxiv": "2601.14676",
-"section": "replacement",
-"recid": "3109773",
-"src": "INSPIRE",
-"nref": 29,
-"title": "Long-Lived Oscillons as Closed Domain Walls in the $\\mathbb Z_2$-Symmetric Two-Higgs-Doublet Model",
-"authors": [
-"Zhaoyu Meng"
-],
-"abstract": "Domain walls arising from spontaneous symmetry breaking in the early universe are typically unstable and decay rapidly. However, numerical simulations of the Z2-symmetric two-Higgs-doublet model (2HDM) reveal an unexpected long-lived closed domain wall structure that emerges at late stages of decay, which we identify as a high-amplitude oscillon. Their longevity stems from a potential with two distinct vacua: an interior oscillating in one vacuum and an exterior static in the other. Within a specific parameter regime, radiation is highly suppressed and the lifetime can exceed cosmological timescales. To gain analytical insight into the mechanism, we first consider reduced models with fewer fields (2 and 4 real scalars). These are not approximations to the 2HDM but rather toy models that capture the essential feature of a Z2-symmetric potential with two vacua. Floquet analysis further confirms the stability of these structures under perturbations in both the 4-field toy model and the full 2HDM.",
-"citR": [],
-"citE": [
-"902365"
-],
-"topR": [
-[
-0.062,
-"2690106"
-],
-[
-0.024,
-"2030200"
-],
-[
-0.009,
-"1402978"
-]
-],
-"topE": [
-[
-0.044,
-"2149989"
-],
-[
-0.035,
-"3092811"
-],
-[
-0.029,
-"2639394"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.06,
-0.17,
-0.13,
-0.0,
-0.0
-],
-"score": 8.9
 },
 {
 "arxiv": "2610.31717",
@@ -573,68 +408,13 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.14,
 0.23,
 0.0,
 0.07
-],
-"score": 8.4
-},
-{
-"arxiv": "2610.30773",
-"section": "replacement",
-"recid": "3218076",
-"src": "INSPIRE",
-"nref": 55,
-"title": "A Chiral Nelson-Barr Relaxion",
-"authors": [
-"Cristien Arzate",
-"Joshua Iascau"
-],
-"abstract": "We present the chiral Nelson-Barr relaxion model, an extension of the Nelson-Barr relaxion framework with a gauged chiral $\\mathrm{U}(1)$ symmetry. It includes vector-like quarks to cancel gauge anomalies and a scalar whose vacuum expectation value generates their masses. The chiral symmetry forbids the leading operators responsible for the Nelson-Barr and clockwork quality problems. Right-handed neutrinos generate light-neutrino masses through the type-I seesaw mechanism and permit thermal leptogenesis. For the particular coupling considered, relaxion phenomenology gives $f_{\\mathrm{max}}^{\\mathrm{pheno}}\\sim 4\\times 10^{11}\\ \\mathrm{GeV}$, about eight times the corresponding phenomenological ceiling in the original model. The model can accommodate thermal leptogenesis if its right-handed-neutrino masses and reheating history satisfy the required temperature bounds.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.02,
-"1116165"
-],
-[
-0.018,
-"1365306"
-],
-[
-0.017,
-"922002"
-]
-],
-"topE": [
-[
-0.082,
-"1863157"
-],
-[
-0.077,
-"3088651"
-],
-[
-0.045,
-"2158000"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"seesaw mechanism"
-],
-"parts": [
-0.0,
-0.07,
-0.23,
-0.0,
-0.29
 ],
 "score": 8.4
 },
@@ -683,6 +463,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.12,
@@ -691,291 +472,6 @@
 0.0
 ],
 "score": 6.9
-},
-{
-"arxiv": "2608.28738",
-"section": "replacement",
-"recid": "3197826",
-"src": "INSPIRE",
-"nref": 47,
-"title": "AXIS Could Have Accessed Dark Matter Decays",
-"authors": [
-"Joshua W. Foster",
-"Inci Karaaslan",
-"Gordan Krnjaic",
-"Nimrod Shapir"
-],
-"abstract": "The Advanced X-ray Imaging Satellite (AXIS) was a mission concept designed to improve upon the sensitivity and spatial resolution of the Chandra X-ray Observatory and XMM-Newton. Although AXIS was not selected for implementation, the concept study defined a mature instrument design with low-background, arcsecond imaging over the $0.3$-$10$ keV energy range, a large effective area, and a wide field of view. These capabilities provide a useful benchmark for the dark matter decay sensitivity of future X-ray observatories. We estimate the reach of a future AXIS-like instrument for narrow photon lines from decaying keV-scale dark matter, including axion-like particles and sterile neutrinos. For Galactic center observations, we find projected lifetime sensitivities of order $10^{31}$ s, improving upon existing limits by up to an order of magnitude over part of the keV mass range.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.023,
-"793723"
-],
-[
-0.019,
-"860906"
-],
-[
-0.018,
-"1421624"
-]
-],
-"topE": [
-[
-0.041,
-"2654052"
-],
-[
-0.026,
-"2052515"
-],
-[
-0.026,
-"1896552"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.06,
-0.07,
-0.12,
-0.0,
-0.07
-],
-"score": 6.7
-},
-{
-"arxiv": "2609.13562",
-"section": "replacement",
-"recid": "3203046",
-"src": "INSPIRE",
-"nref": 3,
-"title": "Direct detection of right-handed fermionic dark matter: electron-recoil measurements in Xe atoms",
-"authors": [
-"Santiago Collazo",
-"Carlos Argüelles",
-"Soroush Shakeri",
-"Osvaldo Civitarese"
-],
-"abstract": "We present theoretical estimations of the event rates for the interaction between a right-handed fermionic dark matter with an electron bound to a xenon atom. Motivated by recent astrophysical and cosmological constraints on a fermionic dark matter candidate in the sub-MeV mass range, we study such an interaction through an effective electromagnetic channel where the output consists of standard-model particles. This mechanism allows right-handed neutral dark matter fermions to couple with standard-model particles with the interchange of $W^{\\pm}$ or $Z$ bosons, without the need to add extra fields. We generalize and extend previous results on this type of channels, by including for the ionization form factor arising from the interaction of the fermionic candidate with bound electrons. In addition, we compute the sensitivity curves for different direct detection experiments in such a challenging light particle mass range.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
-],
-[
-0.0,
-"914987"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"dark matter candidate",
-"direct detection",
-"direct detection experiment"
-],
-"parts": [
-0.0,
-0.0,
-0.0,
-0.0,
-0.56
-],
-"score": 5.6
-},
-{
-"arxiv": "2512.04199",
-"section": "replacement",
-"recid": "3089324",
-"src": "INSPIRE",
-"nref": 130,
-"title": "Primordial Black Holes from Inflation with a Spectator Field",
-"authors": [
-"Dario L. Lorenzoni",
-"Sarah R. Geller",
-"David I. Kaiser",
-"Evan McDonough"
-],
-"abstract": "How is the production of primordial black holes (PBHs) in single-field models of inflation impacted by the presence of additional scalar fields? We consider the effect of a spectator field - a free scalar field with sub-Hubble mass and no direct coupling to the inflaton and which makes a subdominant contribution to the total energy density - in the context of single-field models of inflation featuring a transient phase of ultra-slow-roll evolution. Despite the modest title, a spectator field can have a dramatic impact: the slow-roll evolution of the spectator prevents the combined inflaton-and-spectator system from entering into ultra-slow-roll, which naively might be expected to preclude the production of PBHs. However, we demonstrate that the growth of perturbations is maintained or enhanced by the spectator, through the rich interplay of curvature and isocurvature perturbations. We show in a model-independent way that the single-field phase of ultra-slow-roll is replaced by two turns in field space encompassing a phase of tachyonic instability for the isocurvature perturbations and a transfer of power from isocurvature to curvature modes. Furthermore, we highlight a degeneracy between the fine-tuning of the feature in the inflaton potential and the parameters of the spectator, leading to an overall resilience of model predictions to parameter variations. This makes it easier for the underlying PBH model to accommodate both high-precision cosmic microwave background constraints and production of PBHs in the asteroid-mass range.",
-"citR": [],
-"citE": [
-"902365"
-],
-"topR": [
-[
-0.02,
-"2855387"
-],
-[
-0.004,
-"2030200"
-],
-[
-0.004,
-"1402978"
-]
-],
-"topE": [
-[
-0.044,
-"1839576"
-],
-[
-0.039,
-"1892885"
-],
-[
-0.037,
-"2936837"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.06,
-0.05,
-0.12,
-0.0,
-0.0
-],
-"score": 5.5
-},
-{
-"arxiv": "2405.13881",
-"section": "replacement",
-"recid": "2789241",
-"src": "INSPIRE",
-"nref": 87,
-"title": "Natural Inflation with Exponentially Small Tensor-To-Scalar Ratio",
-"authors": [
-"Dario L. Lorenzoni",
-"David I. Kaiser",
-"Evan McDonough"
-],
-"abstract": "We demonstrate that \"natural inflation\", also known as \"axion inflation\", can be compatible with Planck 2018 measurements of the cosmic microwave background, while predicting an exponentially small tensor-to-scalar ratio, e.g., $r\\sim 10^{-15}$. The strong suppression of $r$ arises from dynamics of the radial component of the complex scalar field, whose phase is the axion. Such tiny values of $r$ remain well below the threshold for detection by CMB-S4 or Simons Observatory B-mode searches. The model is testable with the running $α_s$ of the spectral index, which is within reach of next-generation CMB and large-scale structure experiments, motivating the running as a primary science goal for future experiments.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.025,
-"1607572"
-],
-[
-0.019,
-"2855387"
-],
-[
-0.011,
-"1663960"
-]
-],
-"topE": [
-[
-0.064,
-"1863157"
-],
-[
-0.039,
-"1843058"
-],
-[
-0.037,
-"2703113"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.08,
-0.18,
-0.0,
-0.0
-],
-"score": 5.0
-},
-{
-"arxiv": "2606.26240",
-"section": "replacement",
-"recid": "3173063",
-"src": "INSPIRE",
-"nref": 62,
-"title": "Constraining Multiple Kinetically Mixed Dark Photons",
-"authors": [
-"Joerg Jaeckel",
-"Sebastian Monath"
-],
-"abstract": "Extra U(1) gauge bosons under which Standard Model particles are uncharged, aka dark photons, are a simple and well-motivated extension of the Standard Model. There could be a single, but also several or even many such dark photons. However, most studies consider only a single dark photon. Here, we want to look at the more general case of multiple dark photons interacting with the Standard Model via kinetic mixing. We consider a range of standard probes, Cavendish experiments, light-shining-through-walls experiments, as well as energy loss in stars. To explore the rather high-dimensional parameter space of the masses and the kinetic mixing matrix, we pursue a statistical approach, considering different distributions for the kinetic mixing parameters.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.012,
-"1904961"
-],
-[
-0.011,
-"468209"
-],
-[
-0.01,
-"1222142"
-]
-],
-"topE": [
-[
-0.082,
-"2697223"
-],
-[
-0.054,
-"3081701"
-],
-[
-0.042,
-"1362180"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.04,
-0.23,
-0.0,
-0.0
-],
-"score": 4.6
 },
 {
 "arxiv": "2610.31881",
@@ -1027,6 +523,7 @@
 "topics": [
 "dark matter model"
 ],
+"watch": [],
 "parts": [
 0.0,
 0.04,
@@ -1084,6 +581,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -1140,6 +638,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.06,
 0.01,
@@ -1195,68 +694,11 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
 0.17,
-0.0,
-0.0
-],
-"score": 2.5
-},
-{
-"arxiv": "2504.13251",
-"section": "replacement",
-"recid": "2913858",
-"src": "INSPIRE",
-"nref": 117,
-"title": "Resilience of Primordial Black Hole Formation from Inflation with a Light Spectator Field",
-"authors": [
-"Dario L. Lorenzoni",
-"Sarah R. Geller",
-"Zachary Ireland",
-"David I. Kaiser",
-"Evan McDonough",
-"Kyle A. Wittmeier"
-],
-"abstract": "Scalar fields are ubiquitous in theories of high-energy physics. In the context of cosmic inflation, this suggests the existence of spectator fields, which provide a subdominant source of energy density. We show that spectator fields boost the inflationary production of primordial black holes, with single-field ultra-slow-roll evolution supplanted by a phase of evolution along the spectator direction, and primordial perturbations amplified by the resulting multifield dynamics. This generic mechanism is largely free from the severe fine-tuning that afflicts single-field inflationary PBH models.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.01,
-"2855387"
-],
-[
-0.002,
-"1686334"
-],
-[
-0.002,
-"2859009"
-]
-],
-"topE": [
-[
-0.039,
-"1839576"
-],
-[
-0.034,
-"1892885"
-],
-[
-0.027,
-"2936837"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.03,
-0.11,
 0.0,
 0.0
 ],
@@ -1309,6 +751,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -1366,6 +809,7 @@
 "topics": [
 "abelian gauge"
 ],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -1376,19 +820,16 @@
 "score": 2.4
 },
 {
-"arxiv": "2610.28137",
-"section": "replacement",
-"recid": "3216905",
+"arxiv": "2610.31873",
+"section": "new",
+"recid": "3218386",
 "src": "INSPIRE",
-"nref": 61,
-"title": "Form factors and weak decays of $Λ_b\\toΛ_c^*(2595)$ and $Ξ_b\\toΞ_c^*(2790)$",
+"nref": 19,
+"title": "A localisation bound for Standard-Model representations in heterotic orbifolds",
 "authors": [
-"Jie Lu",
-"Dian-Yong Chen",
-"Guo-Liang Yu",
-"Zhi-Gang Wang"
+"Navid Ardakanian"
 ],
-"abstract": "In this article, we reanalyze the mass and pole residue of $Λ$-type singly heavy baryons with spin-parity $J^P=1/2^{\\pm}$ using two-point QCD sum rules. Then, we investigate the electroweak transition form factors of $Λ_b\\toΛ^*_c(2595)$ and $Ξ_b\\toΞ^*_c(2790)$ within the framework of three-point QCD sum rules. At the hadron side, all possible couplings of the interpolating currents to hadronic states are taken into account, while at the QCD side, both the perturbative part and vacuum condensate contributions up to dimension-8 are included. Using the obtained form factors, we calculate the decay widths and branching ratios for the semileptonic decays $Λ_b\\toΛ^*_c(2595)\\ell\\barν_\\ell$ and $Ξ_b\\toΞ^*_c(2790)\\ell\\barν_\\ell$ ($\\ell=e,μ$ and $τ$), as well as for the corresponding nonleptonic decays $Λ_b\\toΛ^*_c(2595)π[ρ]$, $Λ_b\\toΛ^*_c(2595)K[K^*]$, $Ξ_b\\toΞ^*_c(2790)π[ρ]$ and $Ξ_b\\toΞ^*_c(2790)K[K^*]$. Our estimates for the branching ratios of $Λ_b\\toΛ^*_c(2595)\\ell\\barν_\\ell$ are comparable with the experimental data and other theoretical results. These results can provide valuable references for future measurements. In addition, we present predictions for several observables in these semileptonic decays, including the lepton universality ratio, the forward-backward asymmetry $A_{FB}$, and the asymmetry parameter $α$, which can provide useful references for future experiments to test the Standard Model and probe new physics beyond it.",
+"abstract": "In heterotic string compactifications on toroidal orbifolds, the massless states at a twisted fixed point are constrained by the evenness of the sixteen-dimensional gauge lattice. We show that two massless left-chiral states in the same Standard-Model representation, built on the same constructing space-group element and distinct modulo the Weyl group of $SU(3)_c\\times SU(2)_L$, must satisfy $\\sqrt{R}+\\sqrt{R'}\\ge\\sqrt{2}$, where $R$ is the squared length of the part of a state's gauge momentum orthogonal to the Standard-Model Cartan directions. Without left-moving oscillator excitations this reads $R\\ge 1/2$. When $R<1$, $n$ such states, pairwise distinct in the same sense, carry the weights of the fundamental representation of a local $SU(n)$ commuting with the Standard Model, and $n\\le 1/(1-R)$. Since the representation fixes the projected length (at the canonical hypercharge normalisation, $6/5$ for the 10-like $Q$, $u^c$, $e^c$ and $4/5$ for the 5bar-like $d^c$ and lepton doublet), the bound becomes a condition on the sector: a repeated 10-like representation requires a massless budget of at least $17/20$, a repeated 5bar-like one at least $13/20$. In the complete massless spectra of 16,138 models from two orbifold catalogues the multiplicity ceiling is reached at four values of $R$. We exhibit an explicit model on $T^6/(Z_3\\times Z_6)$ whose budget clears the higher threshold and carries a repeated 10-like representation at the multiplicity the bound permits. For the Standard Model embedded through $SU(5)$ in one $E_8$ factor we show that, for that geometry and budget, exactly two inequivalent order-six shift classes admit such a doubling, and among the embeddings over them with the Standard Model intact we find none with three net generations of $Q$, $u^c$ and $e^c$ at once.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -1407,83 +848,30 @@
 ],
 "topE": [
 [
-0.047,
-"1983355"
+0.043,
+"707996"
 ],
 [
-0.038,
-"1862925"
+0.039,
+"1304242"
 ],
 [
-0.016,
-"2785325"
+0.018,
+"2817040"
 ]
 ],
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
-0.13,
+0.12,
 0.0,
 0.0
 ],
-"score": 2.0
-},
-{
-"arxiv": "2602.14811",
-"section": "replacement",
-"recid": "3120608",
-"src": "INSPIRE",
-"nref": 76,
-"title": "RG-Invariant Symmetry Ratio for QCD: A Study of $U(1)_A$ and Chiral Symmetry Restoration",
-"authors": [
-"Ting-Wai Chiu",
-"Tung-Han Hsieh"
-],
-"abstract": "We introduce a renormalization-group-invariant (RGI), scheme-independent symmetry ratio $κ_{AB}$, for the quantitative characterization of symmetry breaking in QCD. As a first application, we employ $κ_{AB}$ to investigate the relative strength of $SU(2)_L \\times SU(2)_R$ chiral symmetry and $U(1)_A$ axial symmetry breaking in $N_f=2+1+1$ lattice QCD using optimal domain-wall fermions at the physical point. Our study covers three lattice spacings and twelve temperatures in the range 164--385~MeV. We examine three independent symmetry-breaking channels in the nonsinglet sector with quark-connected correlators: the $U(1)_A$-sensitive scalar--pseudoscalar channel ($κ_{PS}$), probing the $π$--$δ$ system; the $SU(2)_L \\times SU(2)_R$-sensitive vector--axial-vector channel ($κ_{VA}$), probing the $ρ$--$a_1$ system; and an additional $U(1)_A$-sensitive tensor vector--axial-tensor vector channel ($κ_{TX}$), probing the $ρ_T$--$b_1$ system. At each lattice spacing we observe a clear hierarchy $κ_{PS} > κ_{VA} > κ_{TX}$. Since temperature and lattice spacing are not varied independently in the present ensembles, the lattice-spacing dependence of the hierarchy cannot be isolated, and a controlled continuum extrapolation is deferred to future work.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.012,
-"1755250"
-],
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-]
-],
-"topE": [
-[
-0.025,
-"1761212"
-],
-[
-0.021,
-"3088651"
-],
-[
-0.021,
-"1831221"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.03,
-0.07,
-0.0,
-0.0
-],
-"score": 2.0
+"score": 1.9
 },
 {
 "arxiv": "2610.31745",
@@ -1531,6 +919,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.03,
@@ -1539,113 +928,6 @@
 0.0
 ],
 "score": 1.9
-},
-{
-"arxiv": "2610.31873",
-"section": "new",
-"recid": "3218386",
-"src": "INSPIRE",
-"nref": 19,
-"title": "A localisation bound for Standard-Model representations in heterotic orbifolds",
-"authors": [
-"Navid Ardakanian"
-],
-"abstract": "In heterotic string compactifications on toroidal orbifolds, the massless states at a twisted fixed point are constrained by the evenness of the sixteen-dimensional gauge lattice. We show that two massless left-chiral states in the same Standard-Model representation, built on the same constructing space-group element and distinct modulo the Weyl group of $SU(3)_c\\times SU(2)_L$, must satisfy $\\sqrt{R}+\\sqrt{R'}\\ge\\sqrt{2}$, where $R$ is the squared length of the part of a state's gauge momentum orthogonal to the Standard-Model Cartan directions. Without left-moving oscillator excitations this reads $R\\ge 1/2$. When $R<1$, $n$ such states, pairwise distinct in the same sense, carry the weights of the fundamental representation of a local $SU(n)$ commuting with the Standard Model, and $n\\le 1/(1-R)$. Since the representation fixes the projected length (at the canonical hypercharge normalisation, $6/5$ for the 10-like $Q$, $u^c$, $e^c$ and $4/5$ for the 5bar-like $d^c$ and lepton doublet), the bound becomes a condition on the sector: a repeated 10-like representation requires a massless budget of at least $17/20$, a repeated 5bar-like one at least $13/20$. In the complete massless spectra of 16,138 models from two orbifold catalogues the multiplicity ceiling is reached at four values of $R$. We exhibit an explicit model on $T^6/(Z_3\\times Z_6)$ whose budget clears the higher threshold and carries a repeated 10-like representation at the multiplicity the bound permits. For the Standard Model embedded through $SU(5)$ in one $E_8$ factor we show that, for that geometry and budget, exactly two inequivalent order-six shift classes admit such a doubling, and among the embeddings over them with the Standard Model intact we find none with three net generations of $Q$, $u^c$ and $e^c$ at once.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.043,
-"707996"
-],
-[
-0.039,
-"1304242"
-],
-[
-0.018,
-"2817040"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.12,
-0.0,
-0.0
-],
-"score": 1.9
-},
-{
-"arxiv": "2610.28115",
-"section": "replacement",
-"recid": "3216901",
-"src": "INSPIRE",
-"nref": 85,
-"title": "Information geometry of DGLAP evolution",
-"authors": [
-"Sergey Bondarenko",
-"Alex Prygarin"
-],
-"abstract": "Quark and gluon splittings shift proton momentum toward smaller fractions with increasing resolution. Momentum conservation makes the summed momentum-weighted quark and gluon densities, when nonnegative, a probability distribution. We apply information geometry, the geometry of probability distributions, to this probabilistic form of Dokshitzer-Gribov-Lipatov-Altarelli-Parisi evolution. We evaluate, to our knowledge for the first time, the speed at which the shape of the proton's momentum distribution changes, measured by how well distributions at neighboring resolutions can be told apart statistically. At leading order, with one-loop splitting functions and running coupling, five fixed quark flavors, nonnegative quark and gluon densities and sufficiently regular inputs, we obtain a closed-form lower bound on this speed. Once the coupling is specified, three numbers of the input (the distribution at the starting resolution) fix the bound at every scale without computing the evolved distribution. For three of the five model inputs at four scales from 2 GeV to 10 TeV, the squared bound is at least 94.8 percent of the squared speed. The bound is reached when the distribution's relative rate of change is linear in the logarithm of the inverse momentum fraction. For these three model inputs at the four scales, the relative rate of change is close to this linear form in mean square weighted by momentum.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.042,
-"2946993"
-],
-[
-0.028,
-"2824738"
-],
-[
-0.021,
-"2658297"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.12,
-0.0,
-0.0
-],
-"score": 1.8
 },
 {
 "arxiv": "2610.32028",
@@ -1691,60 +973,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
-"parts": [
-0.0,
-0.0,
-0.1,
-0.0,
-0.0
-],
-"score": 1.5
-},
-{
-"arxiv": "2610.29707",
-"section": "replacement",
-"recid": "3217378",
-"src": "INSPIRE",
-"nref": 29,
-"title": "Probing New Physics with $b \\to u \\ell ν_{\\ell}$ induced decays",
-"authors": [
-"Maria Letizia Di Cuia",
-"Davide Milillo"
-],
-"abstract": "We analyze $B^- \\to μ^- \\barν_μ$, $\\bar{B}^0 \\to π^+ μ^-\\barν_μ$, and $B^- \\to ρ^0 μ^- \\barν_μ$ decays using the data on binned branching fractions recently measured by Belle II Collaboration for the semileptonic modes. We extend the low-energy Hamiltonian governing $b \\to u \\ell \\barν_\\ell$ transitions to include the full set of dimension-six, Lorentz-invariant operators with left-handed neutrinos, consistent with the Standard Model Effective Field Theory (SMEFT) framework. The Wilson coefficients are treated as complex, lepton-flavor-dependent effective couplings. Since the three selected channels are sensitive to different non-standard structures, we perform a combined analysis using Monte Carlo methods to constrain the New Physics couplings for three benchmark values of $|V_{ub}|$. We find that, while the Standard Model remains broadly compatible with the data, some of the couplings show a mild preference for non-zero values.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.034,
-"1881670"
-],
-[
-0.028,
-"3073459"
-],
-[
-0.027,
-"3201794"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -1802,6 +1031,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -1858,6 +1088,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.03,
@@ -1913,6 +1144,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -1921,60 +1153,6 @@
 0.0
 ],
 "score": 1.1
-},
-{
-"arxiv": "2608.00158",
-"section": "replacement",
-"recid": "3186832",
-"src": "INSPIRE",
-"nref": 84,
-"title": "Extra-dimensional Origins of Chemical Potentials at the Cosmological Collider",
-"authors": [
-"Raman Sundrum",
-"Zhaohui Xu"
-],
-"abstract": "We study the realization of the chemical potential mechanism in cosmological collider physics in a robust class of inflationary models arising from multiple higher-dimensional gauge fields. The rolling inflaton background corresponds to an electric field in the extra dimension in which charged particles are produced analogously to the Schwinger mechanism, while neutral particles can be produced through non-minimal interactions. We show that particles heavier than the inflationary Hubble scale can be created without Boltzmann suppression in both cases. In particular, charged Kaluza-Klein excitations can be created through minimal gauge interactions. We construct realistic models along these lines consistent with both theoretical and experimental constraints.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.024,
-"1697948"
-],
-[
-0.016,
-"2051195"
-],
-[
-0.015,
-"2940283"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.07,
-0.0,
-0.0
-],
-"score": 1.0
 },
 {
 "arxiv": "2610.32139",
@@ -2024,60 +1202,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
-"parts": [
-0.0,
-0.0,
-0.05,
-0.0,
-0.0
-],
-"score": 0.7
-},
-{
-"arxiv": "2609.40205",
-"section": "replacement",
-"recid": "3210053",
-"src": "INSPIRE",
-"nref": 128,
-"title": "Unpolarized quasi- and pseudo-distributions at one loop: gluon correlator decomposition, matching, and the region $|x|>1$",
-"authors": [
-"Christopher Monahan",
-"Tobias Neumann"
-],
-"abstract": "We compute one-loop unpolarized quark and gluon quasi- and pseudo-distributions in $\\overline{\\mathrm{MS}}$ and match them to light-cone PDFs. Decomposing the gluon correlator into six covariant form factors, we derive the $6\\times6$ renormalization mixing matrix: its eigenvectors classify multiplicatively renormalizable combinations, and any lattice operator choice projects onto our results without a further loop calculation. Evaluating all Fourier transforms in $d$ dimensions, we resolve the structure of the exterior $|x|>1$ in quasi-distributions. The correlator carries a short-distance logarithm with a branch cut at $ν=0$. By the Paley-Wiener theorem, the analytic part transforms into $|x|\\le1$, so the exterior is generated solely by this branch cut. At leading power, the exterior carries no independent non-perturbative physics: it is fixed by the light-cone PDF through the renormalization group. In the gluon channel, the matching kernel of Balitsky, Morris and Radyushkin differs from our $\\overline{\\mathrm{MS}}$ result by a finite polynomial, identical across index choices. We trace this to contracting an internal loop index over two instead of $d-2$ transverse directions, omitting an evanescent operator on the collinear pole. Using our basis, we show that the independent kernel of Yao, Ji and Zhang agrees with ours, separated from Balitsky et al. by the same polynomial. While the ratio scheme protects the momentum fraction $\\langle x\\rangle_g$, this kernel difference suppresses the extracted normalized second and third gluon moments by $11\\%$ and $13\\%$ at $α_s=0.3$, so the true $\\overline{\\mathrm{MS}}$ gluon is systematically harder than reported.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.017,
-"1923685"
-],
-[
-0.014,
-"2946993"
-],
-[
-0.014,
-"2817040"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -2137,6 +1262,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -2193,6 +1319,7 @@
 "isme": false,
 "coauthors": [],
 "topics": [],
+"watch": [],
 "parts": [
 0.0,
 0.0,
@@ -2201,60 +1328,5 @@
 0.0
 ],
 "score": 0.3
-},
-{
-"arxiv": "2606.12698",
-"section": "replacement",
-"recid": "3167924",
-"src": "INSPIRE",
-"nref": 76,
-"title": "Higher Dimensional Loop Quantum Black hole in de Sitter Spacetime: Quasinormal Modes and Shadow Signatures",
-"authors": [
-"Sara Saghafi",
-"Kourosh Nozari",
-"Ali Mohammadpour"
-],
-"abstract": "We investigate the dynamical and optical properties of a higher-dimensional loop-quantum-corrected black hole in a de Sitter background. We first analyze the horizon structure and identify the admissible nonextremal black-hole domain bounded by the extremal and Nariai configurations, ensuring the existence of distinct inner, event, and cosmological horizons for the parameter sets considered. We then examine the scalar effective potential and show that the loop-quantum correction deforms the classical scattering barrier primarily in the strong-field region while preserving its characteristic single-barrier structure. The quasinormal modes of massless scalar perturbations are computed using time-domain evolution with Prony extraction, the matrix method, and the WKB approximation, showing good agreement among the three approaches. The time-domain waveform and its Prony and matrix-frequency reconstructions provide an additional direct consistency check of the extracted ringdown spectrum. We find that loop quantum corrections induce moderate shifts in the quasinormal spectrum, whereas the spacetime dimensionality has a much stronger impact, leading to higher oscillation frequencies and damping rates. The negative imaginary parts of all modes indicate dynamical stability against massless scalar perturbations within the explored parameter range. Comparison with the corresponding classical black-hole backgrounds shows that the quantum-corrected quasinormal spectrum remains continuously connected to the classical photon-sphere branch, with the loop correction producing quantitative rather than qualitative changes.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
-],
-[
-0.0,
-"914987"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"parts": [
-0.0,
-0.0,
-0.0,
-0.0,
-0.0
-],
-"score": 0.0
 }
 ]
