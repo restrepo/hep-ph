@@ -146,6 +146,7 @@ def main():
     ap.add_argument("--network", required=True); ap.add_argument("--site", default="docs")
     ap.add_argument("--days", type=int, default=5); ap.add_argument("--threshold", type=float, default=10)
     ap.add_argument("--category", default="hep-ph"); ap.add_argument("--tz", default="America/Bogota")
+    ap.add_argument("--extra-topics", default="", help="your watch topics, 'phrase[=weight]; ...'")
     ap.add_argument("--topic-half-life", type=float, default=5, help="years for a paper's weight in the shared topics to halve")
     ap.add_argument("--next", type=int, default=20, help="papers below the threshold in each page's folded list")
     ap.add_argument("--include-today", action="store_true",
@@ -175,7 +176,7 @@ def main():
     # pages made by older code (template or scorer) or other settings are rebuilt, so changes reach every day
     code = hashlib.sha256(b"".join(open(os.path.join(HERE, f), "rb").read()
                                    for f in ("hepph_match.py", "template.html", "build_site.py")) +
-                          f"{args.category}|{args.threshold:g}|{args.next}|{args.topic_half_life:g}".encode()).hexdigest()[:12]
+                          f"{args.category}|{args.threshold:g}|{args.next}|{args.topic_half_life:g}|{args.extra_topics}".encode()).hexdigest()[:12]
 
     # arXiv answers 429 to bursts from cloud runners: pause between days, wait longer on each retry,
     # and leave a day that still fails for the next run (an older day never takes its place).
@@ -193,6 +194,7 @@ def main():
             p = subprocess.run([sys.executable, "-I", os.path.join(HERE, "hepph_match.py"), "--network", args.network,
                                 "--date", ds, "--threshold", str(args.threshold), "--category", args.category,
                                 "--next", str(args.next), "--topic-half-life", str(args.topic_half_life),
+                                "--extra-topics", args.extra_topics,
                                 "--work", os.path.join(args.work, ds), "--recent-html", recent, "--out", out],
                                stderr=subprocess.PIPE, text=True)
             sys.stderr.write(p.stderr)

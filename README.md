@@ -6,7 +6,8 @@ variable `INSPIRE_AUTHOR`.
 
 - `tools/build_network.py` (hep-network-builder), `tools/hepph_match.py` + `tools/template.html`
   (hep-ph-network-match), `tools/build_site.py` (index and last-5-days logic).
-- `skills/hep-network-builder/SKILL.md`, `skills/hep-ph-network-match/SKILL.md` — the two skills with the current code
+- `skills/hep-network-builder/SKILL.md`, `skills/hep-ph-network-match/SKILL.md`, `skills/hep-ph-topic-boost/SKILL.md`
+  (`tools/boost_topics.py`: watch topics that lift a given paper) — the skills with the current code
   (upload them in claude.ai → Settings → Capabilities → Skills to update the skills).
 - `.github/workflows/hep-ph-pages.yml` — runs once each weekday evening, 21:17 Bogotá, Monday–Friday (and on demand from the
   Actions tab), rebuilds the network when it is older than 7 days (so new papers citing the author join it), builds the
@@ -68,6 +69,7 @@ is a repository variable.
 | `NEXT_PAPERS` | `20` | Papers just below the threshold shown in each page's folded list. |
 | `DAYS` | `5` | Announcement days shown on the site. |
 | `TIMEZONE` | `America/Bogota` | Time zone that decides which day is "today". |
+| `EXTRA_TOPICS` | (none) | Your **watch topics**: phrases you want to count in the shared-topics part even if your own papers don't use them, as `phrase=weight; phrase=weight` (weight 1 by default, at most 4; 2–5 words, no filler words such as "into"). Example: `neutrino portal=1; MeV dark matter=1.5`. Matching papers list them as "Your watch topics: …". The hep-ph-topic-boost skill suggests phrases and weights to lift a given paper. |
 | `TOPIC_HALF_LIFE` | `5` | Recent topics weigh more: in the shared-topics part of the score, a paper's use of a phrase counts half as much every this many years (`0` turns it off). Only the topic weights change, not the network. |
 
 The time of the daily run (21:17 Bogotá) is the one setting that cannot be a variable: GitHub needs

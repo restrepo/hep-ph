@@ -273,6 +273,25 @@ def grams(text):
                 out.add(" ".join(g))
     return out
 
+def watch_topics(spec):
+    """Parse --extra-topics 'phrase[=weight]; ...' into {normalized phrase: weight} (default weight 1, at most 4).
+    Phrases are normalized like the network's (plurals, British spelling) and must have 2-5 words."""
+    out = {}
+    for item in (spec or "").replace("\n", ";").split(";"):
+        if not item.strip(): continue
+        ph, _, w = item.partition("=")
+        toks = [norm_tok(t.strip("-'")) for t in re.split(r"[^a-z0-9'\- ]+", ph.lower().replace("\u2019", "'"))[0].split()
+                if t.strip("-'")] if ph.strip() else []
+        if not 2 <= len(toks) <= 5:
+            print(f"[warn] watch topic ignored (2-5 words): {ph.strip()!r}", file=sys.stderr); continue
+        if toks[0] in STOP or toks[-1] in STOP or any(t in STOP and t not in ("of", "and") for t in toks[1:-1]):
+            print(f"[warn] watch topic ignored (filler words such as 'into' or 'the' never match): {ph.strip()!r}",
+                  file=sys.stderr); continue
+        try: wt = float(w) if w.strip() else 1.0
+        except ValueError: wt = 1.0
+        out[" ".join(toks)] = max(0.0, min(4.0, wt))
+    return out
+
 def recent_weights(phrases, half_life, now):
     """Recompute the phrases' weights counting each paper 0.5**(age/half_life) (own papers still own_weight
     times), from the years stored by build_network.py; the network itself is unchanged. Old files: as stored."""
@@ -288,10 +307,11 @@ def recent_weights(phrases, half_life, now):
     return {**phrases, "list": out, "half_life": half_life}
 
 # ---------- 4. score ----------
-def score_all(rows, net, co, me_name, phrases=None):
+def score_all(rows, net, co, me_name, phrases=None, watch=None):
     """Score 0-100. With the network's phrases: 35% direct citations, 30% coupling to own papers, 15% coupling to the
     network, 10% authorship, 10% shared topics; without them (older network file): 40/35/15/10."""
     P = {p: w for p, w, *_ in (phrases or {}).get("list", [])}
+    for p, w in (watch or {}).items(): P[p] = max(P.get(p, 0.0), w)     # your watch topics
     D = len(net); df = Counter()
     for v in net.values(): df.update(v["refs"])
     idf = lambda x: math.log((D + 1) / (df.get(x, 0) + 1)) + 1.0
@@ -318,7 +338,8 @@ def score_all(rows, net, co, me_name, phrases=None):
         parts = (s_dir, s_cpl, s_cplE, s_auth) + ((s_top,) if P else ())
         wts = (0.35, 0.30, 0.15, 0.10, 0.10) if P else (0.40, 0.35, 0.15, 0.10)
         r.update(citR=citR, citE=citE, topR=topR, topE=topE, isme=isme, coauthors=coa,
-                 topics=[p for p in tm if P[p] >= 0.3], parts=[round(x, 2) for x in parts],
+                 topics=[p for p in tm if P[p] >= 0.3 and p not in (watch or {})],
+                 watch=[p for p in tm if p in (watch or {})], parts=[round(x, 2) for x in parts],
                  score=round(100 * sum(w * x for w, x in zip(wts, parts)), 1))
     rows.sort(key=lambda r: -r["score"])
 
@@ -339,6 +360,7 @@ def why(r, net):
         if c > 0: bits.append(f"Closest {'of ' if who == 'your papers' else ''}{who}: {lab(b)} "
                               f"(coupling {c:.2f}, {len(refs & net[b]['refs'])} shared references).")
     if r.get("topics"): bits.append("Shared topics: " + ", ".join(r["topics"][:5]) + ".")
+    if r.get("watch"): bits.append("Your watch topics: " + ", ".join(r["watch"]) + ".")
     return " ".join(bits)
 
 def build(rows, net, th, meta, out, nnext=20):
@@ -395,6 +417,8 @@ def main():
     ap.add_argument("--date", help="YYYY-MM-DD, 'yesterday' (default) or 'latest'")
     ap.add_argument("--tz", default="America/Bogota"); ap.add_argument("--category", default="hep-ph")
     ap.add_argument("--threshold", type=float, default=10)
+    ap.add_argument("--extra-topics", default="", help="your watch topics: 'phrase[=weight]; ...' (weight 1 by default, "
+                    "at most 4) added to the network's shared topics")
     ap.add_argument("--topic-half-life", type=float, default=5,
                     help="years for a paper's weight in the shared topics to halve (0: no recency weighting)")
     ap.add_argument("--next", type=int, default=20, help="papers below the threshold shown in the collapsed list")
@@ -444,10 +468,11 @@ def main():
     phrases = recent_weights(load_json(a.network).get("phrases") if a.network else None,
                              a.topic_half_life, int(time.strftime("%Y")))
     if nname and not a.author_name_given: a.author_name, a.author_recid = nname, nrecid
-    score_all(rows, net, co, a.author_name or "", phrases)
+    watch = watch_topics(a.extra_topics)
+    score_all(rows, net, co, a.author_name or "", phrases, watch)
     yr = int("20" + ids[0][:2]) if ids else int(time.strftime("%Y"))
     meta = {"date": label, "url": url, "cat": a.category, "year": yr, "built": time.strftime("%Y-%m-%d"), "topics": bool(phrases),
-            "halfLife": (phrases or {}).get("half_life"),
+            "halfLife": (phrases or {}).get("half_life"), "watch": sorted(watch),
             "nown": sum(1 for v in net.values() if v["kind"] == "R"), "next": sum(1 for v in net.values() if v["kind"] == "E"),
             "onInspire": len(F)}
     nr, nn, ne = build(rows, net, a.threshold, meta, a.out, a.next)

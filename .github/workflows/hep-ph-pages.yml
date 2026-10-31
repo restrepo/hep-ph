@@ -41,6 +41,7 @@ env:
   NEXT_PAPERS: ${{ vars.NEXT_PAPERS || '20' }}              # papers in each page's folded "next" list
   DAYS: ${{ vars.DAYS || '5' }}                             # announcement days shown
   TIMEZONE: ${{ vars.TIMEZONE || 'America/Bogota' }}        # decides which day is "today"
+  EXTRA_TOPICS: ${{ vars.EXTRA_TOPICS || '' }}              # your watch topics: 'phrase[=weight]; ...'
   TOPIC_HALF_LIFE: ${{ vars.TOPIC_HALF_LIFE || '5' }}       # years for a paper's weight in the shared topics to halve (0: off)
   SITE_BRANCH: site
 
@@ -110,7 +111,7 @@ jobs:
         run: |
           python3 -I tools/build_site.py --network "$NETWORK" --site site --include-today --days "$DAYS" \
             --category "$ARXIV_CATEGORY" --threshold "$SCORE_THRESHOLD" --next "$NEXT_PAPERS" --tz "$TIMEZONE" \
-            --topic-half-life "$TOPIC_HALF_LIFE"
+            --topic-half-life "$TOPIC_HALF_LIFE" --extra-topics "$EXTRA_TOPICS"
 
       - name: Save the site on its branch
         working-directory: site
