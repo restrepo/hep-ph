@@ -14,7 +14,7 @@
             arxiv.org/list/<cat>/recent dated before today in --tz; 'latest' = arxiv.org/list/<cat>/new
 If the catchup page for --date is refused, the day's new submissions and cross-lists are read from
 arxiv.org/list/<cat>/recent instead (replacements are then missing).
-Writes PAGE.html (self-contained page, with the next --next (20) papers below the threshold in a collapsed
+Writes PAGE.html (self-contained page, with the papers below the threshold (>= --next-min-score, at least --next) in a collapsed
 list) and PAGE.json (all scored papers).
 """
 import argparse, gzip, io, json, math, os, re, sys, tarfile, time, unicodedata
@@ -363,7 +363,7 @@ def why(r, net):
     if r.get("watch"): bits.append("Your watch topics: " + ", ".join(r["watch"]) + ".")
     return " ".join(bits)
 
-def build(rows, net, th, meta, out, nnext=20):
+def build(rows, net, th, meta, out, nnext=20, nmin=6.0):
     rel = [r for r in rows if r["score"] >= th]
     nodes, edges = {}, set()
     for rank, r in enumerate(rel, 1):
@@ -395,7 +395,8 @@ def build(rows, net, th, meta, out, nnext=20):
     nxt = [{"arxiv": r["arxiv"], "id": r["recid"], "title": r["title"], "authors": ", ".join(r["authors"]),
             "score": r["score"], "section": r["section"], "rank": len(rel) + j, "parts": r["parts"],
             "note": why(r, net), "abstract": r["abstract"]}
-           for j, r in enumerate((r for r in rows if r["score"] < th), 1) if j <= nnext]
+           # below the threshold: every paper scoring at least nmin, and at least nnext papers in all
+           for j, r in enumerate((r for r in rows if r["score"] < th), 1) if j <= nnext or r["score"] >= nmin]
     keys = list(nodes); idx = {k: i for i, k in enumerate(keys)}
     cited = {k for x in [nd.get("note", "") for nd in nodes.values()] + [x["note"] for x in nxt] for k in re.findall(r"\[\[(\d+)\]\]", x)}
     refs = {k: {"first": net[k]["first"], "year": net[k]["year"], "nauth": net[k]["nauth"], "title": net[k]["title"],
@@ -421,7 +422,9 @@ def main():
                     "at most 4) added to the network's shared topics")
     ap.add_argument("--topic-half-life", type=float, default=5,
                     help="years for a paper's weight in the shared topics to halve (0: no recency weighting)")
-    ap.add_argument("--next", type=int, default=20, help="papers below the threshold shown in the collapsed list")
+    ap.add_argument("--next", type=int, default=20, help="at least this many papers below the threshold in the folded list")
+    ap.add_argument("--next-min-score", type=float, default=6,
+                    help="the folded list also has every paper scoring at least this (below the threshold)")
     ap.add_argument("--sections", default="new,cross,replacement")
     ap.add_argument("--author-recid", default="991924"); ap.add_argument("--author-name", help="default: read from the network file or the author's INSPIRE records")
     ap.add_argument("--work", default="hepph_work"); ap.add_argument("--out", required=True)
@@ -472,10 +475,10 @@ def main():
     score_all(rows, net, co, a.author_name or "", phrases, watch)
     yr = int("20" + ids[0][:2]) if ids else int(time.strftime("%Y"))
     meta = {"date": label, "url": url, "cat": a.category, "year": yr, "built": time.strftime("%Y-%m-%d"), "topics": bool(phrases),
-            "halfLife": (phrases or {}).get("half_life"), "watch": sorted(watch),
+            "halfLife": (phrases or {}).get("half_life"), "watch": sorted(watch), "nextMin": a.next_min_score, "nextCount": a.next,
             "nown": sum(1 for v in net.values() if v["kind"] == "R"), "next": sum(1 for v in net.values() if v["kind"] == "E"),
             "onInspire": len(F)}
-    nr, nn, ne = build(rows, net, a.threshold, meta, a.out, a.next)
+    nr, nn, ne = build(rows, net, a.threshold, meta, a.out, a.next, a.next_min_score)
     json.dump([{**{k: v for k, v in r.items() if k not in ("refs",)},
                 "topR": [(round(c, 3), k) for c, k in r["topR"][:3]], "topE": [(round(c, 3), k) for c, k in r["topE"][:3]]}
                for r in rows], open(os.path.splitext(a.out)[0] + ".json", "w"), ensure_ascii=False, indent=0)

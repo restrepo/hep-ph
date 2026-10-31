@@ -38,7 +38,8 @@ env:
   # listing (a change rebuilds the pages on the next run)
   ARXIV_CATEGORY: ${{ vars.ARXIV_CATEGORY || 'hep-ph' }}
   SCORE_THRESHOLD: ${{ vars.SCORE_THRESHOLD || '10' }}
-  NEXT_PAPERS: ${{ vars.NEXT_PAPERS || '20' }}              # papers in each page's folded "next" list
+  NEXT_MIN_SCORE: ${{ vars.NEXT_MIN_SCORE || '6' }}        # folded list: every paper scoring at least this...
+  NEXT_PAPERS: ${{ vars.NEXT_PAPERS || '20' }}              # ...and at least this many papers in the folded list
   DAYS: ${{ vars.DAYS || '5' }}                             # announcement days shown
   TIMEZONE: ${{ vars.TIMEZONE || 'America/Bogota' }}        # decides which day is "today"
   EXTRA_TOPICS: ${{ vars.EXTRA_TOPICS || '' }}              # your watch topics: 'phrase[=weight]; ...'
@@ -110,7 +111,7 @@ jobs:
       - name: Build the daily pages and the index (hep-ph-network-match)
         run: |
           python3 -I tools/build_site.py --network "$NETWORK" --site site --include-today --days "$DAYS" \
-            --category "$ARXIV_CATEGORY" --threshold "$SCORE_THRESHOLD" --next "$NEXT_PAPERS" --tz "$TIMEZONE" \
+            --category "$ARXIV_CATEGORY" --threshold "$SCORE_THRESHOLD" --next "$NEXT_PAPERS" --next-min-score "$NEXT_MIN_SCORE" --tz "$TIMEZONE" \
             --topic-half-life "$TOPIC_HALF_LIFE" --extra-topics "$EXTRA_TOPICS"
 
       - name: Save the site on its branch
