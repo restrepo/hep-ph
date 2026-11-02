@@ -1,9 +1,37 @@
 [
  {
+  "date": "2026-11-02",
+  "page": "hep-ph-2026-11-02.html",
+  "built": "2026-11-02",
+  "code": "5eab29859571",
+  "nlist": 67,
+  "nrel": 3,
+  "top": [
+   {
+    "arxiv": "2508.09579",
+    "title": "Neutrino mass predictions with metaheuristic optimization under $A_4$ modular symmetry",
+    "score": 40.7,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2602.11085",
+    "title": "Sterile neutrino dark matter in conformal Majoron models",
+    "score": 35.8,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2411.19196",
+    "title": "Dark axion portal at $Z$ boson factories",
+    "score": 21.8,
+    "section": "replacement"
+   }
+  ]
+ },
+ {
   "date": "2026-10-30",
   "page": "hep-ph-2026-10-30.html",
-  "built": "2026-10-31",
-  "code": "49026e035a3b",
+  "built": "2026-11-02",
+  "code": "5eab29859571",
   "nlist": 154,
   "nrel": 16,
   "top": [
@@ -30,10 +58,10 @@
  {
   "date": "2026-10-28",
   "page": "hep-ph-2026-10-28.html",
-  "built": "2026-10-30",
-  "code": "49026e035a3b",
-  "nlist": 59,
-  "nrel": 13,
+  "built": "2026-11-02",
+  "code": "5eab29859571",
+  "nlist": 95,
+  "nrel": 19,
   "top": [
    {
     "arxiv": "2610.36060",
@@ -42,26 +70,26 @@
     "section": "new"
    },
    {
-    "arxiv": "2610.36780",
-    "title": "Probing Charged Higgs Bosons through $H^\\pm \\to W^\\pm A$ Decay in the Type-I Two-Higgs Doublet Model",
-    "score": 29.3,
-    "section": "new"
+    "arxiv": "2605.27519",
+    "title": "Probing the dynamical inverse seesaw mechanism with low-frequency gravitational waves",
+    "score": 42.5,
+    "section": "replacement"
    },
    {
-    "arxiv": "2610.37106",
-    "title": "Probing new $C\\!P$-violating sources in $Λ_b\\toΛ_c\\ell^-\\barν_\\ell$",
-    "score": 25.7,
-    "section": "new"
+    "arxiv": "2607.07794",
+    "title": "Universal seesaw mechanism for fermion masses and strong CP problem",
+    "score": 36.1,
+    "section": "replacement"
    }
   ]
  },
  {
   "date": "2026-10-27",
   "page": "hep-ph-2026-10-27.html",
-  "built": "2026-10-30",
-  "code": "49026e035a3b",
-  "nlist": 52,
-  "nrel": 7,
+  "built": "2026-11-02",
+  "code": "5eab29859571",
+  "nlist": 101,
+  "nrel": 24,
   "top": [
    {
     "arxiv": "2610.35444",
@@ -70,15 +98,15 @@
     "section": "new"
    },
    {
+    "arxiv": "2512.24132",
+    "title": "An $A_4$-Symmetric Double Seesaw for Neutrino Masses and Mixing in Light of JUNO results",
+    "score": 37.0,
+    "section": "replacement"
+   },
+   {
     "arxiv": "2610.34880",
     "title": "Light top-flavoured dark matter in dark SMEFT: one-loop matching and phenomenology",
     "score": 36.5,
-    "section": "new"
-   },
-   {
-    "arxiv": "2610.35587",
-    "title": "Neutrino Phenomenology and Leptogenesis from Non-Invertible Fusion Symmetry",
-    "score": 31.0,
     "section": "new"
    }
   ]
@@ -86,10 +114,10 @@
  {
   "date": "2026-10-26",
   "page": "hep-ph-2026-10-26.html",
-  "built": "2026-10-30",
-  "code": "49026e035a3b",
-  "nlist": 23,
-  "nrel": 5,
+  "built": "2026-11-02",
+  "code": "5eab29859571",
+  "nlist": 40,
+  "nrel": 6,
   "top": [
    {
     "arxiv": "2610.32747",
@@ -104,10 +132,10 @@
     "section": "new"
    },
    {
-    "arxiv": "2610.32845",
-    "title": "The Galactic Center Gamma-Ray Excess and the Look-Elsewhere Effect",
-    "score": 17.7,
-    "section": "new"
+    "arxiv": "2609.06750",
+    "title": "GUT-induced collider signatures of the LUX-ZEPLIN event",
+    "score": 31.9,
+    "section": "replacement"
    }
   ]
  },

@@ -437,7 +437,7 @@
 "section": "replacement",
 "recid": "3159206",
 "src": "INSPIRE",
-"nref": 49,
+"nref": 47,
 "title": "A D_5 Model of Quarks with Explicit CP Violation",
 "authors": [
 "Dong-Ping Fu",
@@ -465,15 +465,15 @@
 ],
 "topE": [
 [
-0.089,
+0.087,
 "3095799"
 ],
 [
-0.063,
+0.062,
 "2815355"
 ],
 [
-0.061,
+0.059,
 "2932612"
 ]
 ],
@@ -486,11 +486,11 @@
 "parts": [
 0.48,
 0.02,
-0.26,
+0.25,
 0.0,
 0.2
 ],
-"score": 23.2
+"score": 23.1
 },
 {
 "arxiv": "2610.37987",
@@ -4331,65 +4331,6 @@
 "score": 2.8
 },
 {
-"arxiv": "2607.02485",
-"section": "replacement",
-"recid": "3176571",
-"src": "INSPIRE",
-"nref": 51,
-"title": "Identifying $Σ(1380)$ and $Σ(1430)$ in the $J/ψ\\to Λπ\\barΣ$ reaction",
-"authors": [
-"Wen-Tao Lyu",
-"Eulogio Oset",
-"De-Min Li",
-"En Wang"
-],
-"abstract": "We study the $J/ψ\\to Λπ\\barΣ$ reaction by looking at the $π^+ Λ$ mass distribution at low energies, in search of signals for the low lying $Σ^+$ excited states. Apart from a clear signal of the $Σ(1385) (3/2^+)$ state, we find a smaller peak for the predicted $Σ(1430) (1/2^-)$, which has already been confirmed by the Belle Collaboration. A first analysis, considering only the $πΛ$ interaction, shows that the low energy part of the spectrum is better reproduced including contributions from the $Σ(1430)$ and the predicted $Σ(1380)(1/2^-)$ state that has been claimed before from analyses of different experiments. However, when we consider the $π\\barΣ$ interaction the need for the $Σ(1380)$ disappears.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.004,
-"2690106"
-],
-[
-0.004,
-"2855387"
-],
-[
-0.0,
-"926166"
-]
-],
-"topE": [
-[
-0.008,
-"3095799"
-],
-[
-0.006,
-"3148101"
-],
-[
-0.006,
-"3092850"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.06,
-0.01,
-0.02,
-0.0,
-0.0
-],
-"score": 2.8
-},
-{
 "arxiv": "2507.22006",
 "section": "replacement",
 "recid": "2955239",
@@ -4562,6 +4503,65 @@
 "score": 2.7
 },
 {
+"arxiv": "2607.02485",
+"section": "replacement",
+"recid": "3176571",
+"src": "INSPIRE",
+"nref": 50,
+"title": "Identifying $Σ(1380)$ and $Σ(1430)$ in the $J/ψ\\to Λπ\\barΣ$ reaction",
+"authors": [
+"Wen-Tao Lyu",
+"Eulogio Oset",
+"De-Min Li",
+"En Wang"
+],
+"abstract": "We study the $J/ψ\\to Λπ\\barΣ$ reaction by looking at the $π^+ Λ$ mass distribution at low energies, in search of signals for the low lying $Σ^+$ excited states. Apart from a clear signal of the $Σ(1385) (3/2^+)$ state, we find a smaller peak for the predicted $Σ(1430) (1/2^-)$, which has already been confirmed by the Belle Collaboration. A first analysis, considering only the $πΛ$ interaction, shows that the low energy part of the spectrum is better reproduced including contributions from the $Σ(1430)$ and the predicted $Σ(1380)(1/2^-)$ state that has been claimed before from analyses of different experiments. However, when we consider the $π\\barΣ$ interaction the need for the $Σ(1380)$ disappears.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.004,
+"2690106"
+],
+[
+0.004,
+"2855387"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.008,
+"3095799"
+],
+[
+0.006,
+"3148101"
+],
+[
+0.006,
+"3092850"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.06,
+0.01,
+0.02,
+0.0,
+0.0
+],
+"score": 2.7
+},
+{
 "arxiv": "2607.23943",
 "section": "replacement",
 "recid": "3183618",
@@ -4680,7 +4680,7 @@
 "section": "replacement",
 "recid": "3141849",
 "src": "INSPIRE",
-"nref": 46,
+"nref": 45,
 "title": "LHC di-dijet excesses as signals of fourth-generation tetraquarks",
 "authors": [
 "Hsiang-nan Li"
@@ -5964,7 +5964,7 @@
 "Sudhir Kumar Gupta",
 "Abbas Ali"
 ],
-"abstract": "We extend the horizon wave-function (HWF) formalism to a spherically symmetric, charged, spinless quantum source in $\\mathcal{D} + 1$ dimensional spacetime geometry and construct the HWFs associated with inner- as well as outer-horizons of the Tangherlini--Reissner--Nordström (TRN) black hole. The corresponding black hole formation probabilities, $P_{\\rm BH}^{\\pm}$, are also calculated and their sensitivities due to various source parameters including charge, mass, and $\\mathcal{D}$ are analysed as well. Our analysis reveals that the ratio of inner- to outer-horizon probabilities, $P_{\\rm BH}^{-}/P_{\\rm BH}^{+}$, changes drastically from being unity as the source departs away from being in the extremal limit defined by $α$ ($\\to 1$ for extremal case). Furthermore, black hole formation probabilities are found to be highly suppressed for higher values of $\\mathcal{D}$, particularly for the source mass, $m \\lesssim Λ_{\\mathcal{D}}$, e.g., for $α= 0.5$, the ratio, $P_{\\rm BH}^{+}(\\mathcal{D} = 5)/P_{\\rm BH}^{+}(\\mathcal{D}=10)$ turn out to be approximately associated with $\\mathcal{D}$ spatial-dimensions.",
+"abstract": "We extend the horizon wave-function (HWF) formalism to a spherically symmetric, charged, spinless quantum source in $\\mathcal{D} + 1$ dimensional spacetime geometry and construct the HWFs associated with inner- as well as outer-horizons of the Tangherlini--Reissner--Nordström (TRN) black hole. The corresponding black hole formation probabilities, $P_{\\rm BH}^{\\pm}$, are also calculated and their sensitivities due to various source parameters including charge, mass, and $\\mathcal{D}$ are analysed as well. Our analysis reveals that the ratio of inner- to outer-horizon probabilities, $P_{\\rm BH}^{-}/P_{\\rm BH}^{+}$, changes drastically from being unity as the source departs away from being in the extremal limit defined by $α$ ($\\to 1$ for extremal case). Furthermore, black hole formation probabilities are found to be highly suppressed for higher values of $\\mathcal{D}$, particularly for the source mass, $m \\lesssim Λ_{\\mathcal{D}}$, e.g., for $α= 0.5$, the ratio, $P_{\\rm BH}^{+}(\\mathcal{D} = 5)/P_{\\rm BH}^{+}(\\mathcal{D}=10)$ turn out to be approximately $2.95\\times10^3$, $117$, and $3.35$ respectively for $m/Λ_{\\mathcal{D}} = 0.5, 1$ and $2$, with $Λ_{\\mathcal{D}}$ being the reduced gravity scale associated with $\\mathcal{D}$ spatial-dimensions.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -6284,6 +6284,66 @@
 "score": 1.1
 },
 {
+"arxiv": "2608.18233",
+"section": "replacement",
+"recid": "3192605",
+"src": "INSPIRE",
+"nref": 90,
+"title": "Transferable Fast Calorimeter Shower Generation via Multi-Geometry Pre-training",
+"authors": [
+"Thorsten Buss",
+"Henry Day-Hall",
+"Frank Gaede",
+"Gregor Kasieczka",
+"Katja Krüger",
+"Peter McKeown",
+"Lorenzo Valente"
+],
+"abstract": "Detailed Geant4 simulation of calorimeter showers dominates the computing budget of high-energy physics experiments. Deep generative surrogates reduce this cost, but they have remained tied to the detector they were trained on, so each new geometry needs a large in-domain dataset. We study whether a single point cloud shower generator can be pre-trained on multiple detectors and transferred to unseen calorimeters. The pre-training geometries come from synthetic geometric variation rather than real-detector data. We introduce SimpleBox, a family of $10^4$ box calorimeters spanning the plane of sampling fraction and longitudinal segmentation, and benchmark it against pre-training on realistic detectors. On a calorimeter unseen in pre-training, with $10^3$ target showers for fine-tuning, the two priors reduce the aggregated sliced Wasserstein distance to Geant4 by factors of 5.2 (synthetic) and 8.0 (realistic) relative to training from scratch. At larger target sizes the synthetic prior performs better than the realistic one. Geometric diversity alone is therefore a practical way to pre-train a transferable shower generator.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.004,
+"2690106"
+],
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+]
+],
+"topE": [
+[
+0.019,
+"913031"
+],
+[
+0.012,
+"2716079"
+],
+[
+0.009,
+"2812533"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.01,
+0.06,
+0.0,
+0.0
+],
+"score": 1.1
+},
+{
 "arxiv": "2610.40173",
 "section": "cross",
 "recid": "3220527",
@@ -6559,66 +6619,6 @@
 "score": 0.8
 },
 {
-"arxiv": "2608.18233",
-"section": "replacement",
-"recid": "3192605",
-"src": "INSPIRE",
-"nref": 91,
-"title": "Transferable Fast Calorimeter Shower Generation via Multi-Geometry Pre-training",
-"authors": [
-"Thorsten Buss",
-"Henry Day-Hall",
-"Frank Gaede",
-"Gregor Kasieczka",
-"Katja Krüger",
-"Peter McKeown",
-"Lorenzo Valente"
-],
-"abstract": "Detailed Geant4 simulation of calorimeter showers dominates the computing budget of high-energy physics experiments. Deep generative surrogates reduce this cost, but they have remained tied to the detector they were trained on, so each new geometry needs a large in-domain dataset. We study whether a single point cloud shower generator can be pre-trained on multiple detectors and transferred to unseen calorimeters. The pre-training geometries come from synthetic geometric variation rather than real-detector data. We introduce SimpleBox, a family of $10^4$ box calorimeters spanning the plane of sampling fraction and longitudinal segmentation, and benchmark it against pre-training on realistic detectors. On a calorimeter unseen in pre-training, with $10^3$ target showers for fine-tuning, the two priors reduce the aggregated sliced Wasserstein distance to Geant4 by factors of 5.2 (synthetic) and 8.0 (realistic) relative to training from scratch. At larger target sizes the synthetic prior performs better than the realistic one. Geometric diversity alone is therefore a practical way to pre-train a transferable shower generator.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.019,
-"913031"
-],
-[
-0.009,
-"2812533"
-],
-[
-0.007,
-"2799066"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.05,
-0.0,
-0.0
-],
-"score": 0.8
-},
-{
 "arxiv": "2610.37922",
 "section": "new",
 "recid": "3220089",
@@ -6626,9 +6626,9 @@
 "nref": 46,
 "title": "Meson-baryon final-state interactions in the $ψ(3686)\\to pK^-K_S^0\\barΞ^0$ decay",
 "authors": [
-"F. C. Sobrinho",
-"W. -T. Lyu",
-"E. Oset"
+"Fernando César Sobrinho",
+"Wen-Tao Lyu",
+"Eulogio Oset"
 ],
 "abstract": "We study the decay $ψ(3686)\\to p K^- \\bar K^0 \\barΞ^0$, treating the $ψ(3686)$ as a $c\\bar c$ state and therefore as a singlet under SU(3) transformations in the light-quark sector. We consider all possible combinations of a baryon, an antibaryon, and two pseudoscalar mesons that form an SU(3) singlet, retaining the terms that can lead to the $p K^- \\bar K^0 \\barΞ^0$ final state through $S$-wave final-state interactions. Three independent SU(3)-singlet structures are identified and assigned different weights. We also include the contribution of the $Λ(1520)$ in the meson-baryon $D$-wave. A fit to the data provides a good description of all six invariant-mass distributions. In addition to the $Λ(1520)$ contribution, we find a small contribution from the $Λ(1670)$ in the $K^-p$ invariant-mass distribution, generated by final-state interactions, and a contribution from the $Σ(1430)$, which produces a significant distortion of the $\\bar K^0p$ invariant-mass distribution relative to phase space. This study demonstrates the value of investigating charmonium decays into a baryon-antibaryon pair and two pseudoscalar mesons, complementing the more commonly studied decays into a baryon-antibaryon pair and a single pseudoscalar meson.",
 "citR": [],
