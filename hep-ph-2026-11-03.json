@@ -16,9 +16,9 @@
 "1686334"
 ],
 "citE": [
-"2864372",
-"3131565",
 "3130997",
+"3131565",
+"2864372",
 "2918610",
 "2039562",
 "1393299",
@@ -172,8 +172,8 @@
 "abstract": "We show that a minimal extension of the Standard Model (SM) by a single complex scalar $φ$ provides a viable inelastic exothermic, thermal relic, interpretation of the recently reported nuclear-recoil candidate from LUX-ZEPLIN (LZ). The mass terms and Higgs-portal interactions split $φ$ into two nearly degenerate real scalars, $φ_{1,2}$. For mass-splitting of a few hundred keV, $φ_2$ is cosmologically long-lived and the two states have comparable relic abundances. Taking $φ_{1,2}$ masses to be $\\sim100\\,$GeV, with off-diagonal Higgs coupling fixed by relic abundance, the exothermic down-scattering yields an order-one event expectation for the LZ exposure, without relying on the high-velocity tail of the dark matter velocity distribution required in endothermic scenarios. This scenario can be tested using different nuclear targets and with indirect dark matter searches: $φ_2\\toφ_1γγ$ decays give a broad sub-MeV photon continuum that can be probed by INTEGRAL/SPI and COSI; $φ_1φ_2$ annihilation produces a GeV-scale continuum, extending up to $\\sim$100 GeV, that is probed by Fermi-LAT observations of dwarf galaxies; current CMB constraints are satisfied and annihilation among dark matter particles captured in the Sun is strongly suppressed. Next-generation experiments could probe correlated scattering, decay, and annihilation signatures of this thermal Higgs-portal scenario.",
 "citR": [],
 "citE": [
-"3202840",
 "3201080",
+"3202840",
 "1518747"
 ],
 "topR": [
@@ -1312,7 +1312,7 @@
 "parts": [
 0.0,
 0.0,
-0.13,
+0.12,
 0.0,
 0.0
 ],
@@ -1539,6 +1539,63 @@
 "score": 1.6
 },
 {
+"arxiv": "2610.07818",
+"section": "replacement",
+"recid": "3212179",
+"src": "INSPIRE",
+"nref": 109,
+"title": "Fully charmed tetraquarks on the Lattice with controlled errors",
+"authors": [
+"Zhenyu Zhang",
+"Bing-Nan Lu",
+"Qian Wang",
+"Qiang Zhao"
+],
+"abstract": "We introduce the lattice quark potential model (LQPM), which discretizes the nonrelativistic quark potential model on a periodic cubic lattice and diagonalizes the resulting many-body Hamiltonian exactly. Unlike variational approaches, which provide only upper bounds on the energy, LQPM removes this variational bias, and its remaining finite-volume uncertainty is removed by extrapolation. Formulated directly in coordinate space, the method is indifferent to the specific form of the potential and accommodates arbitrary interactions, such as including three-body forces and spin-orbit and tensor couplings, that are difficult to treat in conventional few-body approaches. As a benchmark, the charmonium and $Ω_{ccc}$ spectra are reproduced within a few MeV of experiment. For the fully charmed tetraquark $cc\\bar{c}\\bar{c}$, we obtain three resonances $J^P = 0^+, 1^+,$ and $2^+$ ground states above the $η_c η_c$, $η_c J/ψ$, $J/ψJ/ψ$ thresholds, respectively. Our results establish exact lattice diagonalization as a controlled, systematically improvable, and broadly applicable route to multiquark spectroscopy, providing a quantitative benchmark for the strong interaction and valuable guidance for future experimental searches for exotic hadrons.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.035,
+"1710056"
+],
+[
+0.023,
+"2817040"
+],
+[
+0.012,
+"2751074"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.1,
+0.0,
+0.0
+],
+"score": 1.5
+},
+{
 "arxiv": "2601.20934",
 "section": "replacement",
 "recid": "3112932",
@@ -1593,63 +1650,6 @@
 0.0
 ],
 "score": 1.5
-},
-{
-"arxiv": "2610.07818",
-"section": "replacement",
-"recid": "3212179",
-"src": "INSPIRE",
-"nref": 106,
-"title": "Fully charmed tetraquarks on the Lattice with controlled errors",
-"authors": [
-"Zhenyu Zhang",
-"Bing-Nan Lu",
-"Qian Wang",
-"Qiang Zhao"
-],
-"abstract": "We introduce the lattice quark potential model (LQPM), which discretizes the nonrelativistic quark potential model on a periodic cubic lattice and diagonalizes the resulting many-body Hamiltonian exactly. Unlike variational approaches, which provide only upper bounds on the energy, LQPM removes this variational bias, and its remaining finite-volume uncertainty is removed by extrapolation. Formulated directly in coordinate space, the method is indifferent to the specific form of the potential and accommodates arbitrary interactions, such as including three-body forces and spin-orbit and tensor couplings, that are difficult to treat in conventional few-body approaches. As a benchmark, the charmonium and $Ω_{ccc}$ spectra are reproduced within a few MeV of experiment. For the fully charmed tetraquark $cc\\bar{c}\\bar{c}$, we obtain three resonances $J^P = 0^+, 1^+,$ and $2^+$ ground states above the $η_c η_c$, $η_c J/ψ$, $J/ψJ/ψ$ thresholds, respectively. Our results establish exact lattice diagonalization as a controlled, systematically improvable, and broadly applicable route to multiquark spectroscopy, providing a quantitative benchmark for the strong interaction and valuable guidance for future experimental searches for exotic hadrons.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.033,
-"1710056"
-],
-[
-0.022,
-"2817040"
-],
-[
-0.012,
-"2751074"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.09,
-0.0,
-0.0
-],
-"score": 1.4
 },
 {
 "arxiv": "2608.19330",
@@ -2271,7 +2271,7 @@
 "section": "replacement",
 "recid": "3220385",
 "src": "INSPIRE",
-"nref": 67,
+"nref": 73,
 "title": "Proton GTMDs and Wigner Distributions in the Chiral Quark Soliton Model: Orbital Angular Momentum and Spin-Orbit Correlation with Sea Quarks",
 "authors": [
 "Josuke Minamiguchi",
@@ -2296,11 +2296,11 @@
 ],
 "topE": [
 [
-0.007,
+0.006,
 "2817040"
 ],
 [
-0.003,
+0.002,
 "1688995"
 ],
 [

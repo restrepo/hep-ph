@@ -1,8 +1,36 @@
 [
  {
+  "date": "2026-11-04",
+  "page": "hep-ph-2026-11-04.html",
+  "built": "2026-11-04",
+  "code": "5eab29859571",
+  "nlist": 82,
+  "nrel": 8,
+  "top": [
+   {
+    "arxiv": "2611.04600",
+    "title": "Light Mediators at the Neutrino-Dark Matter Frontier: Coherent Scattering, Precision Constraints, and Complementary Searches",
+    "score": 35.8,
+    "section": "new"
+   },
+   {
+    "arxiv": "2611.03751",
+    "title": "Electroweak Constraints on Nuclear Neutron Distributions and the Low-Energy Weak Mixing Angle",
+    "score": 33.7,
+    "section": "cross"
+   },
+   {
+    "arxiv": "2611.03893",
+    "title": "Searching for Long-Lived Dark Scalars with MAPP-1 and MAPP-2 at the HL-LHC",
+    "score": 31.1,
+    "section": "new"
+   }
+  ]
+ },
+ {
   "date": "2026-11-03",
   "page": "hep-ph-2026-11-03.html",
-  "built": "2026-11-03",
+  "built": "2026-11-04",
   "code": "5eab29859571",
   "nlist": 50,
   "nrel": 7,
@@ -30,7 +58,7 @@
  {
   "date": "2026-11-02",
   "page": "hep-ph-2026-11-02.html",
-  "built": "2026-11-03",
+  "built": "2026-11-04",
   "code": "5eab29859571",
   "nlist": 67,
   "nrel": 3,
