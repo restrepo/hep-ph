@@ -17,8 +17,8 @@
 ],
 "citE": [
 "3130997",
-"3131565",
 "2864372",
+"3131565",
 "2918610",
 "2039562",
 "1393299",
@@ -99,10 +99,10 @@
 "2962467",
 "2878308",
 "2100409",
-"2940359",
 "2793703",
-"2072357",
+"2940359",
 "2835172",
+"2072357",
 "1989085",
 "2689316",
 "1903588",
@@ -172,8 +172,8 @@
 "abstract": "We show that a minimal extension of the Standard Model (SM) by a single complex scalar $φ$ provides a viable inelastic exothermic, thermal relic, interpretation of the recently reported nuclear-recoil candidate from LUX-ZEPLIN (LZ). The mass terms and Higgs-portal interactions split $φ$ into two nearly degenerate real scalars, $φ_{1,2}$. For mass-splitting of a few hundred keV, $φ_2$ is cosmologically long-lived and the two states have comparable relic abundances. Taking $φ_{1,2}$ masses to be $\\sim100\\,$GeV, with off-diagonal Higgs coupling fixed by relic abundance, the exothermic down-scattering yields an order-one event expectation for the LZ exposure, without relying on the high-velocity tail of the dark matter velocity distribution required in endothermic scenarios. This scenario can be tested using different nuclear targets and with indirect dark matter searches: $φ_2\\toφ_1γγ$ decays give a broad sub-MeV photon continuum that can be probed by INTEGRAL/SPI and COSI; $φ_1φ_2$ annihilation produces a GeV-scale continuum, extending up to $\\sim$100 GeV, that is probed by Fermi-LAT observations of dwarf galaxies; current CMB constraints are satisfied and annihilation among dark matter particles captured in the Sun is strongly suppressed. Next-generation experiments could probe correlated scattering, decay, and annihilation signatures of this thermal Higgs-portal scenario.",
 "citR": [],
 "citE": [
-"3201080",
 "3202840",
+"3201080",
 "1518747"
 ],
 "topR": [
@@ -962,6 +962,63 @@
 0.09
 ],
 "score": 3.4
+},
+{
+"arxiv": "2611.00205",
+"section": "cross",
+"recid": "3221753",
+"src": "INSPIRE",
+"nref": 61,
+"title": "Lightest and heaviest nuclei as keys to the origin of ultrahigh energy cosmic rays",
+"authors": [
+"Anna M. Suliga",
+"Glennys R. Farrar"
+],
+"abstract": "The origin of ultrahigh energy cosmic rays (UHECRs) has been a long-standing mystery. A unique feature of UHECRs originating in binary neutron star mergers (BNSMs) is two distinct populations of light elements -- those directly accelerated in the jets, and photo-disintegration products of massive nuclei accelerated in the bulk outflow. We show that Pierre Auger Observatory spectrum and composition data confirm the existence of the predicted two populations at $\\geq \\!7.2σ$ significance, having rigidity ($R\\equiv E/Ze$) cutoffs agreeing with prior estimates. The data also favor 5-10% of UHECRs originating as r-process nuclei, a signature of a BNSM origin. Our results provide strong evidence that UHECRs are produced by merging neutron stars, and show how UHECRs and UHE-neutrinos elucidate otherwise inaccessible aspects of neutron star mergers.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.004,
+"2690106"
+],
+[
+0.004,
+"2855387"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.016,
+"2716079"
+],
+[
+0.015,
+"3069207"
+],
+[
+0.014,
+"3127309"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.06,
+0.01,
+0.05,
+0.0,
+0.0
+],
+"score": 3.1
 },
 {
 "arxiv": "2611.00234",
@@ -2559,61 +2616,6 @@
 "Sebastian Waeber"
 ],
 "abstract": "The description of heavy quarks inside the QGP medium, especially at low momenta, remains challenging from first principles, due to large coupling strength and gluon occupation numbers. An alternative way to formulate a description in terms of perturbative degrees of freedom is the interaction of the heavy quarks with the collective excitations of the medium in the form of phonons. This description is derived as an effective field theory (EFT) and therefore allows for a natural occurring power counting of the allowed interactions. This EFT has already been established in our previous work, where we have derived the phonon-heavy quark interactions and calculated their thermal scattering cross section. In this work, we use these results, together with the heavy quark expansion, to calculate the heavy quark drag coefficient. Subsequently, we compare our results with the drag coefficient obtained from AdS/CFT calculations to determine the previously unknown Wilson coefficients for the quark-phonon coupling. Finally, we will use these coefficients to solve the Boltzmann equation for the heavy quark distribution, studying its thermalization in the QGP via soft phonon interactions.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
-],
-[
-0.0,
-"914987"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.0,
-0.0,
-0.0
-],
-"score": 0.0
-},
-{
-"arxiv": "2611.00205",
-"section": "cross",
-"recid": "3221753",
-"src": "INSPIRE",
-"nref": 2,
-"title": "Lightest and heaviest nuclei as keys to the origin of ultrahigh energy cosmic rays",
-"authors": [
-"Anna M. Suliga",
-"Glennys R. Farrar"
-],
-"abstract": "The origin of ultrahigh energy cosmic rays (UHECRs) has been a long-standing mystery. A unique feature of UHECRs originating in binary neutron star mergers (BNSMs) is two distinct populations of light elements -- those directly accelerated in the jets, and photo-disintegration products of massive nuclei accelerated in the bulk outflow. We show that Pierre Auger Observatory spectrum and composition data confirm the existence of the predicted two populations at $\\geq \\!7.2σ$ significance, having rigidity ($R\\equiv E/Ze$) cutoffs agreeing with prior estimates. The data also favor 5-10% of UHECRs originating as r-process nuclei, a signature of a BNSM origin. Our results provide strong evidence that UHECRs are produced by merging neutron stars, and show how UHECRs and UHE-neutrinos elucidate otherwise inaccessible aspects of neutron star mergers.",
 "citR": [],
 "citE": [],
 "topR": [
