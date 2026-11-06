@@ -1,39 +1,67 @@
 [
  {
-  "date": "2026-11-05",
-  "page": "hep-ph-2026-11-05.html",
-  "built": "2026-11-05",
+  "date": "2026-11-06",
+  "page": "hep-ph-2026-11-06.html",
+  "built": "2026-11-06",
   "code": "5eab29859571",
-  "nlist": 39,
-  "nrel": 5,
+  "nlist": 89,
+  "nrel": 27,
   "top": [
    {
-    "arxiv": "2611.05475",
-    "title": "Complete set of bounded-from-below conditions for the $A_4$-symmetric three-Higgs-doublet model",
-    "score": 33.9,
+    "arxiv": "2611.07509",
+    "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
+    "score": 59.6,
     "section": "new"
    },
    {
-    "arxiv": "2611.05685",
-    "title": "Probing CP Violation in the Complex 2HDMS with a 95 GeV Scalar at Future $e^+e^-$ Colliders",
-    "score": 30.9,
-    "section": "new"
+    "arxiv": "2608.12497",
+    "title": "Spontaneous Scoto-leptogenesis",
+    "score": 59.4,
+    "section": "replacement"
    },
    {
-    "arxiv": "2611.05501",
-    "title": "Indirect probes of heavy neutral leptons through the dipole portal at FCC-ee",
-    "score": 23.1,
-    "section": "new"
+    "arxiv": "2404.05704",
+    "title": "Novel collider signatures in the type-I 2HDM+$a$ model",
+    "score": 58.0,
+    "section": "replacement"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "page": "hep-ph-2026-11-05.html",
+  "built": "2026-11-06",
+  "code": "5eab29859571",
+  "nlist": 68,
+  "nrel": 15,
+  "top": [
+   {
+    "arxiv": "2606.25936",
+    "title": "Complementary probes of bilinear R-parity violating SUSY models with a winolike LSP via neutrino oscillations and at the LHC",
+    "score": 66.1,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2509.23508",
+    "title": "Type I + II Seesaw Model in light of the New Neutrino Oscillation Measurements",
+    "score": 60.1,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2512.05031",
+    "title": "CNN on `Top': In Search of Scalable & Lightweight Image-based Jet Taggers",
+    "score": 35.9,
+    "section": "replacement"
    }
   ]
  },
  {
   "date": "2026-11-04",
   "page": "hep-ph-2026-11-04.html",
-  "built": "2026-11-05",
+  "built": "2026-11-06",
   "code": "5eab29859571",
   "nlist": 82,
-  "nrel": 8,
+  "nrel": 17,
   "top": [
    {
     "arxiv": "2611.04600",
@@ -50,7 +78,7 @@
    {
     "arxiv": "2611.03893",
     "title": "Searching for Long-Lived Dark Scalars with MAPP-1 and MAPP-2 at the HL-LHC",
-    "score": 31.1,
+    "score": 31.0,
     "section": "new"
    }
   ]
