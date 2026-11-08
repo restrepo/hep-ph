@@ -86,10 +86,10 @@
 "1686334"
 ],
 "citE": [
-"2896713",
+"3183927",
 "2843521",
 "3221793",
-"3183927",
+"2896713",
 "3131565",
 "2862278",
 "2918610",
@@ -2260,6 +2260,63 @@
 "score": 5.7
 },
 {
+"arxiv": "2606.21658",
+"section": "replacement",
+"recid": "3170879",
+"src": "INSPIRE",
+"nref": 39,
+"title": "Towards LLM-Powered Automation of a Dark Matter Constraint Repository",
+"authors": [
+"Lanqing Yuan",
+"Karthik Ramanathan"
+],
+"abstract": "Dark matter constraint repositories are critical community infrastructure, yet the most widely-used are volunteer-maintained, a sustainability risk as results accelerate. Limits are typically published as figures rather than machine-readable records, compounding the burden. We present a large language model (LLM) system that monitors arXiv, extracts limit curves, integrates them as code, and opens pull requests for human review. Extraction uses a tool-using agent that interprets physical conventions and checks its results, with a fixed multi-channel pipeline evaluated as an alternative. We evaluate both approaches on a 329-paper benchmark of measured limits graded against the upstream-curated repository. An extraction is considered successful when the extracted and reference mass ranges overlap by more than 90%, with at least 90% of compared values agreeing within a factor of two. For Fable 5, 52.6% of eligible curve comparisons meet this criterion with the agent, compared with 20.9% with the pipeline. Deployed, the pipeline has generated limit proposals, but none have merged: governance of AI-generated scientific data is itself unsolved.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.027,
+"1607572"
+],
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+]
+],
+"topE": [
+[
+0.033,
+"2697191"
+],
+[
+0.026,
+"2813804"
+],
+[
+0.024,
+"1955022"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [
+"language model"
+],
+"parts": [
+0.0,
+0.07,
+0.09,
+0.0,
+0.22
+],
+"score": 5.6
+},
+{
 "arxiv": "2611.07826",
 "section": "new",
 "recid": "3223917",
@@ -2821,61 +2878,6 @@
 0.21,
 0.0,
 0.0
-],
-"score": 4.1
-},
-{
-"arxiv": "2606.21658",
-"section": "replacement",
-"recid": "3170879",
-"src": "INSPIRE",
-"nref": 39,
-"title": "Towards LLM-Powered Automation of a Dark Matter Constraint Repository",
-"authors": [
-"Lanqing Yuan",
-"Karthik Ramanathan"
-],
-"abstract": "Dark matter constraint repositories are critical community infrastructure, yet the most widely-used are volunteer-maintained, a sustainability risk as results accelerate. Limits are typically published as figures rather than machine-readable records, compounding the burden. We present a large language model (LLM) system that monitors arXiv, extracts limit curves, integrates them as code, and opens pull requests for human review. Extraction uses a tool-using agent that interprets physical conventions and checks its results, with a fixed multi-channel pipeline evaluated as an alternative. We evaluate both approaches on a 329-paper benchmark of measured limits graded against the upstream-curated repository. An extraction is considered successful when the extracted and reference mass ranges overlap by more than 90%, with at least 90% of compared values agreeing within a factor of two. For Fable 5, 52.6% of eligible curve comparisons meet this criterion with the agent, compared with 20.9% with the pipeline. Deployed, the pipeline has generated limit proposals, but none have merged: governance of AI-generated scientific data is itself unsolved.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.027,
-"1607572"
-],
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-]
-],
-"topE": [
-[
-0.033,
-"2697191"
-],
-[
-0.026,
-"2813804"
-],
-[
-0.024,
-"1955022"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.07,
-0.09,
-0.0,
-0.07
 ],
 "score": 4.1
 },
