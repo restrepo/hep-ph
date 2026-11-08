@@ -1,5 +1,76 @@
 [
 {
+"arxiv": "2608.12497",
+"section": "replacement",
+"recid": "3190925",
+"src": "INSPIRE",
+"nref": 112,
+"title": "Spontaneous Scoto-leptogenesis",
+"authors": [
+"Arghyajit Datta",
+"Hyun Min Lee",
+"Jun-Ho Song"
+],
+"abstract": "We propose a low-scale spontaneous leptogenesis scenario within the dynamical minimal scotogenic model for accommodating neutrino masses and inert scalar dark matter simultaneously. Thus, we dub the mechanism Spontaneous Scoto-leptogenesis. In this setup, a rolling Majoron arising from the global $U(1)_{B-L}$ symmetry breaking induces an effective chemical potential for the $B-L$ charge in the presence of $B-L$ violating interactions that allow for the efficient decays and inverse decays of right handed neutrinos (RHN) and RHN mediated scattering, so it gives rise to the observed baryon asymmetry of the Universe through the electroweak sphaleron conversion. The mechanism becomes effective in the strong washout regime and successfully lowers the viable mass scale of the lightest RHN to the range of TeV scales, thereby making the thermal scotogenic leptogenesis with two hierarchical RHNs accessible to direct tests. We identify the roles of the $λ_5$ coupling for spontaneous leptogenesis and inert scalar dark matter through the efficient erasure of the inert scalar asymmetry. We also explore the regime for Majoron dark matter from the kinetic misalignment, showing that a multicomponent dark sector comprising the inert scalar and the Majoron can be realized in the model. The resulting framework provides a unified origin for low-scale baryogenesis, neutrino masses, and multicomponent dark sector, so it can be tested by complementary experimental probes through direct detection experiments, collider searches for inert scalars, and future detection of Majoron dark matter or dark radiation.",
+"citR": [],
+"citE": [
+"2940283",
+"3094526",
+"2623114",
+"1605577",
+"822544",
+"875754",
+"779828",
+"1501489",
+"902365"
+],
+"topR": [
+[
+0.064,
+"1455793"
+],
+[
+0.059,
+"1220579"
+],
+[
+0.054,
+"1402978"
+]
+],
+"topE": [
+[
+0.243,
+"2940283"
+],
+[
+0.236,
+"2851262"
+],
+[
+0.132,
+"2701993"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"scotogenic model",
+"neutrino mass",
+"direct detection",
+"direct detection experiment"
+],
+"watch": [],
+"parts": [
+0.99,
+0.21,
+0.69,
+0.0,
+0.85
+],
+"score": 59.7
+},
+{
 "arxiv": "2611.07509",
 "section": "new",
 "recid": "3224074",
@@ -71,75 +142,6 @@
 0.5
 ],
 "score": 59.6
-},
-{
-"arxiv": "2608.12497",
-"section": "replacement",
-"recid": "3190925",
-"src": "INSPIRE",
-"nref": 96,
-"title": "Spontaneous Scoto-leptogenesis",
-"authors": [
-"Arghyajit Datta",
-"Hyun Min Lee",
-"Jun-Ho Song"
-],
-"abstract": "We propose a low-scale spontaneous leptogenesis scenario within the dynamical minimal scotogenic model for accommodating neutrino masses and inert scalar dark matter simultaneously. Thus, we dub the mechanism Spontaneous Scoto-leptogenesis. In this setup, a rolling Majoron arising from the global $U(1)_{B-L}$ symmetry breaking induces an effective chemical potential for the $B-L$ charge in the presence of $B-L$ violating interactions that allow for the efficient decays and inverse decays of right handed neutrinos (RHN) and RHN mediated scattering, so it gives rise to the observed baryon asymmetry of the Universe through the electroweak sphaleron conversion. The mechanism becomes effective in the strong washout regime and successfully lowers the viable mass scale of the lightest RHN to the range of TeV scales, thereby making the thermal scotogenic leptogenesis with two hierarchical RHNs accessible to direct tests. We identify the roles of the $λ_5$ coupling for spontaneous leptogenesis and inert scalar dark matter through the efficient erasure of the inert scalar asymmetry. We also explore the regime for Majoron dark matter from the kinetic misalignment, showing that a multicomponent dark sector comprising the inert scalar and the Majoron can be realized in the model. The resulting framework provides a unified origin for low-scale baryogenesis, neutrino masses, and multicomponent dark sector, so it can be tested by complementary experimental probes through direct detection experiments, collider searches for inert scalars, and future detection of Majoron dark matter or dark radiation.",
-"citR": [],
-"citE": [
-"2940283",
-"2623114",
-"1605577",
-"822544",
-"875754",
-"779828",
-"1501489"
-],
-"topR": [
-[
-0.066,
-"1455793"
-],
-[
-0.066,
-"1220579"
-],
-[
-0.055,
-"1402978"
-]
-],
-"topE": [
-[
-0.242,
-"2851262"
-],
-[
-0.188,
-"2940283"
-],
-[
-0.14,
-"3121627"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"scotogenic model",
-"neutrino mass",
-"direct detection",
-"direct detection experiment"
-],
-"watch": [],
-"parts": [
-0.97,
-0.22,
-0.69,
-0.0,
-0.85
-],
-"score": 59.4
 },
 {
 "arxiv": "2404.05704",
@@ -343,7 +345,7 @@
 "section": "replacement",
 "recid": "3222604",
 "src": "INSPIRE",
-"nref": 77,
+"nref": 232,
 "title": "Light Mediators at the Neutrino-Dark Matter Frontier: Coherent Scattering, Precision Constraints, and Complementary Searches",
 "authors": [
 "Raoul Serao",
@@ -359,30 +361,30 @@
 ],
 "topR": [
 [
-0.02,
+0.023,
 "2080612"
 ],
 [
-0.011,
+0.014,
 "2855387"
 ],
 [
-0.008,
+0.013,
 "1741056"
 ]
 ],
 "topE": [
 [
-0.151,
+0.131,
 "2085162"
 ],
 [
-0.126,
-"2513697"
+0.12,
+"2762109"
 ],
 [
-0.121,
-"2762109"
+0.11,
+"2513697"
 ]
 ],
 "isme": false,
@@ -393,12 +395,12 @@
 "watch": [],
 "parts": [
 0.7,
-0.06,
-0.43,
+0.07,
+0.37,
 0.0,
 0.32
 ],
-"score": 35.8
+"score": 35.3
 },
 {
 "arxiv": "2512.17695",
@@ -460,8 +462,8 @@
 {
 "arxiv": "2611.08440",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3225492",
+"src": "INSPIRE",
 "nref": 93,
 "title": "Signatures of Neutrinophilic Pion Dark Matter",
 "authors": [
@@ -702,66 +704,6 @@
 "score": 25.5
 },
 {
-"arxiv": "2611.08459",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 63,
-"title": "Testing the Spin of New Physics with Top Precision Measurements",
-"authors": [
-"André Lessa",
-"Vinícius Rocca",
-"Veronica Sanz"
-],
-"abstract": "Precision measurements can reveal not only the presence of new physics, but also information about the dynamics that generated it. We study this question in top-pair production by comparing three top-philic scenarios: a colored scalar top partner, a colored vector-like fermion, and a spin-one $Z^\\prime$ mediator. The first two contribute through loop corrections, while the $Z^\\prime$ contributes at tree level. We show that the scalar and vector-like fermion scenarios match onto the same effective operator structure at low energies,making their distinction unfeasible using the EFT approach. However, near or above threshold their full loop amplitudes develop distinct momentum-dependent interference patterns. Using the top transverse momentum spectrum we find that resonant and loop-induced effects are relatively easy to distinguish, whereas separating the scalar and vector-like hypotheses is substantially more challenging. Nevertheless, their different analytic structures leave measurable information in the shape of the distribution. These results illustrate how precision differential measurements can probe the spin and dynamics of virtual new states even when they are not directly reconstructed, and motivate more powerful multidimensional analyses.",
-"citR": [],
-"citE": [
-"1982681"
-],
-"topR": [
-[
-0.04,
-"2855387"
-],
-[
-0.019,
-"1746620"
-],
-[
-0.012,
-"1671831"
-]
-],
-"topE": [
-[
-0.076,
-"2173030"
-],
-[
-0.047,
-"2625199"
-],
-[
-0.043,
-"2864372"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"vector-like fermion"
-],
-"watch": [],
-"parts": [
-0.45,
-0.11,
-0.22,
-0.0,
-0.28
-],
-"score": 25.2
-},
-{
 "arxiv": "2611.07578",
 "section": "new",
 "recid": "3224034",
@@ -817,6 +759,66 @@
 0.1,
 0.5,
 0.0
+],
+"score": 25.0
+},
+{
+"arxiv": "2611.08459",
+"section": "new",
+"recid": "3225516",
+"src": "INSPIRE",
+"nref": 64,
+"title": "Testing the Spin of New Physics with Top Precision Measurements",
+"authors": [
+"André Lessa",
+"Vinícius Rocca",
+"Veronica Sanz"
+],
+"abstract": "Precision measurements can reveal not only the presence of new physics, but also information about the dynamics that generated it. We study this question in top-pair production by comparing three top-philic scenarios: a colored scalar top partner, a colored vector-like fermion, and a spin-one $Z^\\prime$ mediator. The first two contribute through loop corrections, while the $Z^\\prime$ contributes at tree level. We show that the scalar and vector-like fermion scenarios match onto the same effective operator structure at low energies,making their distinction unfeasible using the EFT approach. However, near or above threshold their full loop amplitudes develop distinct momentum-dependent interference patterns. Using the top transverse momentum spectrum we find that resonant and loop-induced effects are relatively easy to distinguish, whereas separating the scalar and vector-like hypotheses is substantially more challenging. Nevertheless, their different analytic structures leave measurable information in the shape of the distribution. These results illustrate how precision differential measurements can probe the spin and dynamics of virtual new states even when they are not directly reconstructed, and motivate more powerful multidimensional analyses.",
+"citR": [],
+"citE": [
+"1982681"
+],
+"topR": [
+[
+0.044,
+"2855387"
+],
+[
+0.021,
+"1746620"
+],
+[
+0.013,
+"1671831"
+]
+],
+"topE": [
+[
+0.064,
+"2173030"
+],
+[
+0.051,
+"2625199"
+],
+[
+0.047,
+"2864372"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"vector-like fermion"
+],
+"watch": [],
+"parts": [
+0.45,
+0.12,
+0.18,
+0.0,
+0.28
 ],
 "score": 25.0
 },
@@ -1301,8 +1303,8 @@
 {
 "arxiv": "2611.08387",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3225521",
+"src": "INSPIRE",
 "nref": 79,
 "title": "Algorithmic Construction of Vector-Valued Modular Forms and Application to an $A_4\\times\\mathbb{Z}_4$-invariant Model of Leptons",
 "authors": [
@@ -1676,7 +1678,7 @@
 "section": "replacement",
 "recid": "3179642",
 "src": "INSPIRE",
-"nref": 129,
+"nref": 132,
 "title": "Leptogenesis with sub-electroweak-scale reheating temperature",
 "authors": [
 "Basabendu Barman",
@@ -1691,7 +1693,7 @@
 ],
 "topR": [
 [
-0.026,
+0.025,
 "922002"
 ],
 [
@@ -1705,15 +1707,15 @@
 ],
 "topE": [
 [
-0.097,
+0.096,
 "2736974"
 ],
 [
-0.07,
+0.069,
 "3121627"
 ],
 [
-0.066,
+0.065,
 "2688973"
 ]
 ],
@@ -1723,18 +1725,18 @@
 "watch": [],
 "parts": [
 0.06,
-0.08,
-0.28,
+0.07,
+0.27,
 0.0,
 0.05
 ],
-"score": 9.0
+"score": 8.9
 },
 {
 "arxiv": "2611.08187",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3225487",
+"src": "INSPIRE",
 "nref": 97,
 "title": "Light Primordial Black Holes from a First-Order Phase Transition near the End of Inflation: Baryogenesis and Gravitational Wave Signatures",
 "authors": [
@@ -1969,9 +1971,9 @@
 {
 "arxiv": "2611.08221",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 175,
+"recid": "3225490",
+"src": "INSPIRE",
+"nref": 181,
 "title": "DIS-secting the universe with high-energy neutrinos",
 "authors": [
 "Rhorry Gauld",
@@ -2714,9 +2716,9 @@
 {
 "arxiv": "2611.08183",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 43,
+"recid": "3225481",
+"src": "INSPIRE",
+"nref": 46,
 "title": "Investigating bottom quark effects in Higgs boson pair production",
 "authors": [
 "David Bürg",
@@ -3510,60 +3512,6 @@
 "score": 2.0
 },
 {
-"arxiv": "2610.40451",
-"section": "replacement",
-"recid": "3220545",
-"src": "INSPIRE",
-"nref": 8,
-"title": "FCC-μe: High Energy, High Luminosity Muon-Electron Collider & Neutrino Factory at CERN",
-"authors": [
-"K. Piotrzkowski"
-],
-"abstract": "The concept is presented of making at the FCC-$ee$ (or CEPC) facility $μ^+e^-$ collisions at the centre-of-mass energy between 1 and 2 TeV and the average luminosity above $10^{34}$cm$^{-2}$s$^{-1}$, concurrently to the $e^+e^-$ collisions. First, a concise scientific motivation is given, including the exciting prospect of measurements of the Higgs boson self-interaction, and is followed by a presentation of the FCC-$μe$ layout -- from the source of ultra-cold anti-muons, through the muon booster, to the main muon ring. Basic considerations are also given regarding the machine-detector interface and the performance of the FCC-$μe$ and associated neutrino factory. The paper concludes with an outlook underlying relevance of such anti-muon beams for any future high energy storage ring as well as for neutrino science.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.044,
-"2917228"
-],
-[
-0.025,
-"1866947"
-],
-[
-0.004,
-"3193100"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.13,
-0.0,
-0.0
-],
-"score": 1.9
-},
-{
 "arxiv": "1303.1523",
 "section": "replacement",
 "recid": "1222779",
@@ -3673,10 +3621,64 @@
 "score": 1.7
 },
 {
+"arxiv": "2610.40451",
+"section": "replacement",
+"recid": "3220545",
+"src": "INSPIRE",
+"nref": 11,
+"title": "FCC-μe: High Energy, High Luminosity Muon-Electron Collider & Neutrino Factory at CERN",
+"authors": [
+"K. Piotrzkowski"
+],
+"abstract": "The concept is presented of making at the FCC-$ee$ (or CEPC) facility $μ^+e^-$ collisions at the centre-of-mass energy between 1 and 2 TeV and the average luminosity above $10^{34}$cm$^{-2}$s$^{-1}$, concurrently to the $e^+e^-$ collisions. First, a concise scientific motivation is given, including the exciting prospect of measurements of the Higgs boson self-interaction, and is followed by a presentation of the FCC-$μe$ layout -- from the source of ultra-cold anti-muons, through the muon booster, to the main muon ring. Basic considerations are also given regarding the machine-detector interface and the performance of the FCC-$μe$ and associated neutrino factory. The paper concludes with an outlook underlying relevance of such anti-muon beams for any future high energy storage ring as well as for neutrino science.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.035,
+"2917228"
+],
+[
+0.02,
+"1866947"
+],
+[
+0.003,
+"3193100"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.1,
+0.0,
+0.0
+],
+"score": 1.5
+},
+{
 "arxiv": "2611.08272",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3225479",
+"src": "INSPIRE",
 "nref": 9,
 "title": "Analytic parametrisations of the scale dependence of proton parton distributions",
 "authors": [
@@ -3729,8 +3731,8 @@
 {
 "arxiv": "2611.08463",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3225501",
+"src": "INSPIRE",
 "nref": 44,
 "title": "Joint Bayesian Inference for Extraction of Charmonium Long Distance Matrix Elements Using PYTHIA",
 "authors": [
@@ -3756,16 +3758,16 @@
 ],
 "topE": [
 [
-0.023,
+0.028,
 "1127719"
 ],
 [
-0.016,
+0.019,
 "1381281"
 ],
 [
-0.014,
-"2065775"
+0.015,
+"2878308"
 ]
 ],
 "isme": false,
@@ -3775,11 +3777,11 @@
 "parts": [
 0.0,
 0.0,
-0.06,
+0.08,
 0.0,
 0.0
 ],
-"score": 1.0
+"score": 1.2
 },
 {
 "arxiv": "2601.13308",
@@ -3901,7 +3903,7 @@
 "section": "replacement",
 "recid": "2938364",
 "src": "INSPIRE",
-"nref": 132,
+"nref": 153,
 "title": "Dark Energy Crosses the Line: Quantifying and Testing the Evidence for Phantom Crossing",
 "authors": [
 "Emre Özülker",
@@ -3913,7 +3915,7 @@
 "citE": [],
 "topR": [
 [
-0.002,
+0.001,
 "1686334"
 ],
 [
@@ -3927,15 +3929,15 @@
 ],
 "topE": [
 [
-0.021,
+0.02,
 "3193100"
 ],
 [
-0.02,
+0.019,
 "2940283"
 ],
 [
-0.017,
+0.016,
 "2051195"
 ]
 ],
@@ -3992,60 +3994,6 @@
 [
 0.017,
 "2775818"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.05,
-0.0,
-0.0
-],
-"score": 0.8
-},
-{
-"arxiv": "2611.08204",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 9,
-"title": "Quantum Fourier integration of decay rates at next-to-leading order",
-"authors": [
-"David F. Rentería-Estrada"
-],
-"abstract": "We discuss the use of quantum neural networks (QNNs) as a tool for integrating decay rates at next-to-leading order (NLO) in perturbation theory. Data-encoding quantum circuits admit a truncated Fourier-series representation, enabling a trained QNN to approximate a target integrand and provide the coefficients subsequently integrated with Quantum Fourier Iterative Amplitude Estimation (QFIAE). The causal-unitary formulation of the Loop-Tree Duality (LTD) combines virtual and real contributions into locally finite integrands suitable for this representation. We consider $H\\to q\\bar q(g)$, $γ^*\\to q\\bar q(g)$ and $Φ\\toφφ(φ)$, comparing quantum-simulator and quantum-hardware results with analytic NLO predictions. The study illustrates the potential of Fourier-based QNN integration for high-energy physics.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.019,
-"3127309"
-],
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
 ]
 ],
 "isme": false,
@@ -4210,6 +4158,60 @@
 [
 0.01,
 "2062672"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.04,
+0.0,
+0.0
+],
+"score": 0.7
+},
+{
+"arxiv": "2611.08204",
+"section": "new",
+"recid": "3225480",
+"src": "INSPIRE",
+"nref": 10,
+"title": "Quantum Fourier integration of decay rates at next-to-leading order",
+"authors": [
+"David F. Rentería-Estrada"
+],
+"abstract": "We discuss the use of quantum neural networks (QNNs) as a tool for integrating decay rates at next-to-leading order (NLO) in perturbation theory. Data-encoding quantum circuits admit a truncated Fourier-series representation, enabling a trained QNN to approximate a target integrand and provide the coefficients subsequently integrated with Quantum Fourier Iterative Amplitude Estimation (QFIAE). The causal-unitary formulation of the Loop-Tree Duality (LTD) combines virtual and real contributions into locally finite integrands suitable for this representation. We consider $H\\to q\\bar q(g)$, $γ^*\\to q\\bar q(g)$ and $Φ\\toφφ(φ)$, comparing quantum-simulator and quantum-hardware results with analytic NLO predictions. The study illustrates the potential of Fourier-based QNN integration for high-energy physics.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.015,
+"3127309"
+],
+[
+0.0,
+"939581"
+],
+[
+0.0,
+"922180"
 ]
 ],
 "isme": false,
@@ -4516,9 +4518,9 @@
 {
 "arxiv": "2611.08482",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 59,
+"recid": "3225494",
+"src": "INSPIRE",
+"nref": 60,
 "title": "Hypersurface covariance in relativistic local equilibrium",
 "authors": [
 "You-yu Li",
@@ -4681,8 +4683,8 @@
 {
 "arxiv": "2611.08279",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3225499",
+"src": "INSPIRE",
 "nref": 104,
 "title": "Has Quarkyonic Matter Been Seen in Lattice Simulations?",
 "authors": [
@@ -4739,9 +4741,9 @@
 {
 "arxiv": "2611.08122",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 137,
+"recid": "3225497",
+"src": "INSPIRE",
+"nref": 140,
 "title": "Linking chiral nuclear forces to light-ion collisions: a global sensitivity analysis",
 "authors": [
 "Thomas Duguet",

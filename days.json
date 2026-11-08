@@ -2,22 +2,22 @@
  {
   "date": "2026-11-06",
   "page": "hep-ph-2026-11-06.html",
-  "built": "2026-11-06",
-  "code": "5eab29859571",
+  "built": "2026-11-08",
+  "code": "9ce8316673b1",
   "nlist": 89,
   "nrel": 27,
   "top": [
+   {
+    "arxiv": "2608.12497",
+    "title": "Spontaneous Scoto-leptogenesis",
+    "score": 59.7,
+    "section": "replacement"
+   },
    {
     "arxiv": "2611.07509",
     "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
     "score": 59.6,
     "section": "new"
-   },
-   {
-    "arxiv": "2608.12497",
-    "title": "Spontaneous Scoto-leptogenesis",
-    "score": 59.4,
-    "section": "replacement"
    },
    {
     "arxiv": "2404.05704",
@@ -30,8 +30,8 @@
  {
   "date": "2026-11-05",
   "page": "hep-ph-2026-11-05.html",
-  "built": "2026-11-06",
-  "code": "5eab29859571",
+  "built": "2026-11-08",
+  "code": "9ce8316673b1",
   "nlist": 68,
   "nrel": 15,
   "top": [
@@ -58,8 +58,8 @@
  {
   "date": "2026-11-04",
   "page": "hep-ph-2026-11-04.html",
-  "built": "2026-11-06",
-  "code": "5eab29859571",
+  "built": "2026-11-08",
+  "code": "9ce8316673b1",
   "nlist": 82,
   "nrel": 17,
   "top": [
@@ -86,21 +86,21 @@
  {
   "date": "2026-11-03",
   "page": "hep-ph-2026-11-03.html",
-  "built": "2026-11-05",
-  "code": "5eab29859571",
+  "built": "2026-11-08",
+  "code": "9ce8316673b1",
   "nlist": 50,
-  "nrel": 7,
+  "nrel": 13,
   "top": [
    {
     "arxiv": "2611.00232",
     "title": "Interacting scalar-fermion two-component dark matter in a gauged $\\boldsymbol{U(1)_{B-L}}$ model",
-    "score": 66.4,
+    "score": 74.9,
     "section": "new"
    },
    {
     "arxiv": "2611.00930",
     "title": "From Kination to Detection: Scotogenic Scalar Dark Matter",
-    "score": 57.5,
+    "score": 63.8,
     "section": "new"
    },
    {
@@ -114,15 +114,15 @@
  {
   "date": "2026-11-02",
   "page": "hep-ph-2026-11-02.html",
-  "built": "2026-11-04",
-  "code": "5eab29859571",
+  "built": "2026-11-08",
+  "code": "9ce8316673b1",
   "nlist": 67,
-  "nrel": 3,
+  "nrel": 8,
   "top": [
    {
     "arxiv": "2508.09579",
     "title": "Neutrino mass predictions with metaheuristic optimization under $A_4$ modular symmetry",
-    "score": 40.7,
+    "score": 40.6,
     "section": "replacement"
    },
    {
@@ -132,10 +132,10 @@
     "section": "replacement"
    },
    {
-    "arxiv": "2411.19196",
-    "title": "Dark axion portal at $Z$ boson factories",
-    "score": 21.8,
-    "section": "replacement"
+    "arxiv": "2610.40821",
+    "title": "The Yottascale at Tera-$Z$: Petascale SUSY?",
+    "score": 23.4,
+    "section": "new"
    }
   ]
  },

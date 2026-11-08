@@ -29,29 +29,29 @@
 ],
 "topR": [
 [
-0.076,
+0.078,
 "1686334"
 ],
 [
-0.07,
+0.072,
 "2859009"
 ],
 [
-0.066,
+0.068,
 "2855387"
 ]
 ],
 "topE": [
 [
-0.157,
+1.0,
+"3221793"
+],
+[
+0.16,
 "2843521"
 ],
 [
-0.146,
-"3131565"
-],
-[
-0.145,
+0.147,
 "1990302"
 ]
 ],
@@ -61,8 +61,8 @@
 "Yaguna, Carlos E."
 ],
 "topics": [
-"neutrino mass",
 "discrete symmetry",
+"neutrino mass",
 "seesaw mechanism",
 "dark matter model"
 ],
@@ -70,11 +70,11 @@
 "parts": [
 1.0,
 0.25,
-0.45,
 1,
-0.73
+1,
+0.74
 ],
-"score": 66.4
+"score": 74.9
 },
 {
 "arxiv": "2611.00930",
@@ -99,8 +99,8 @@
 "2962467",
 "2878308",
 "2100409",
-"2793703",
 "2940359",
+"2793703",
 "2835172",
 "2072357",
 "1989085",
@@ -114,30 +114,30 @@
 ],
 "topR": [
 [
-0.055,
-"1402978"
-],
-[
-0.055,
+0.056,
 "1746620"
 ],
 [
-0.051,
+0.056,
+"1402978"
+],
+[
+0.052,
 "1365306"
 ]
 ],
 "topE": [
 [
+1.0,
+"3221883"
+],
+[
 0.205,
 "2962467"
 ],
 [
-0.188,
+0.186,
 "2940359"
-],
-[
-0.147,
-"3205155"
 ]
 ],
 "isme": false,
@@ -152,11 +152,11 @@
 "parts": [
 1.0,
 0.18,
-0.59,
+1,
 0.0,
 0.83
 ],
-"score": 57.5
+"score": 63.8
 },
 {
 "arxiv": "2611.01158",
@@ -178,7 +178,7 @@
 ],
 "topR": [
 [
-0.023,
+0.024,
 "2859009"
 ],
 [
@@ -192,11 +192,11 @@
 ],
 "topE": [
 [
-0.503,
+0.504,
 "3202840"
 ],
 [
-0.2,
+0.201,
 "3201080"
 ],
 [
@@ -215,7 +215,7 @@
 0.07,
 1,
 0.0,
-0.28
+0.29
 ],
 "score": 45.2
 },
@@ -237,7 +237,7 @@
 ],
 "topR": [
 [
-0.025,
+0.024,
 "2859009"
 ],
 [
@@ -251,7 +251,7 @@
 ],
 "topE": [
 [
-0.209,
+0.21,
 "3202840"
 ],
 [
@@ -259,7 +259,7 @@
 "3201080"
 ],
 [
-0.052,
+0.051,
 "2736781"
 ]
 ],
@@ -271,12 +271,70 @@
 "watch": [],
 "parts": [
 0.45,
-0.08,
+0.07,
 0.6,
 0.0,
 0.35
 ],
 "score": 30.5
+},
+{
+"arxiv": "2611.00349",
+"section": "new",
+"recid": "3221811",
+"src": "INSPIRE",
+"nref": 49,
+"title": "Top quark couplings at the muon collider",
+"authors": [
+"Nicolás Urcelay",
+"Antonio O. Bouzas",
+"F. Larios"
+],
+"abstract": "We present an overview of the sensitivity of a muon collider to the flavor-diagonal electroweak couplings of the top quark, using dimension-six operators of the Warsaw basis. Of the nine fermion-boson operators involving the top quark, the bounds on three are not competitive with existing limits, and we focus on the remaining six. We estimate individual $95\\%$ CL limits on the corresponding Wilson coefficients at $\\sqrt{s} = 3$, $6$, $10$, and $14$~TeV from $2σ$ statistical cross-section uncertainties, and assess the effect of an assumed systematic uncertainty. We consider six top-quark production modes: $t\\bar t$, $t \\bar t h$, $t \\bar t ν\\bar ν$, $t \\bar t μ^+ μ^-$, single-top $t\\bar b μ^- \\bar ν_μ$, and single-top-plus-Higgs, the last three for several rapidity coverages of the final-state muons. The $s$-channel $t\\bar t$ and $t\\bar t h$ processes give the strongest sensitivity to the electroweak dipole couplings, with allowed intervals narrower than the current LHC ones by factors of about $3$ to $6$ at $\\sqrt{s} = 3$ and $6$ TeV, and by an order of magnitude or more at $10$ and $14$ TeV. The left- and right-handed $ttZ$ couplings, as well as the Yukawa $tth$ couplings (for $\\sqrt{s} \\geq 6$ TeV), are best probed in $t \\bar t ν\\bar ν$ production, while the right-handed $tbW$ coupling is best probed in single-top production. For the $ttZ$ and $tbW$ couplings, the limits improve on the current LHC bounds by factors from about $1.5$ to more than an order of magnitude. Our results agree with previous analyses of the Yukawa and the dipole couplings, and provide a roadmap for more in-depth studies.",
+"citR": [],
+"citE": [
+"3193100"
+],
+"topR": [
+[
+0.02,
+"1627633"
+],
+[
+0.015,
+"2859009"
+],
+[
+0.015,
+"1615477"
+]
+],
+"topE": [
+[
+0.053,
+"2115290"
+],
+[
+0.051,
+"3206672"
+],
+[
+0.039,
+"2665284"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.45,
+0.06,
+0.15,
+0.0,
+0.0
+],
+"score": 19.9
 },
 {
 "arxiv": "2511.11100",
@@ -306,12 +364,12 @@
 ],
 [
 0.02,
-"509514"
+"713693"
 ]
 ],
 "topE": [
 [
-0.162,
+0.163,
 "779828"
 ],
 [
@@ -338,6 +396,238 @@
 0.48
 ],
 "score": 19.5
+},
+{
+"arxiv": "2610.35818",
+"section": "replacement",
+"recid": "3219126",
+"src": "INSPIRE",
+"nref": 615,
+"title": "Holographic Approaches to Hadron Structure",
+"authors": [
+"Luigi Cappiello",
+"Anton Rebhan",
+"Shigeki Sugimoto"
+],
+"abstract": "We give an introduction to and an overview of holographic approaches to QCD and hadron structure. After an introduction to the string-theoretic foundations of holographic QCD, we review the predictions of top-down and bottom-up models for the phenomenology of mesons, baryons, and glueballs. We focus on the top-down model following from probe flavor branes in the Witten model of low-energy Yang-Mills theory and, in the more phenomenological approach of bottom-up models, mostly on minimal models based on five-dimensional anti-de Sitter space, which also implement global symmetries and their anomalies consistently, but allow the high-energy behavior to better match real QCD.",
+"citR": [],
+"citE": [
+"3193100",
+"2817040"
+],
+"topR": [
+[
+0.006,
+"1397629"
+],
+[
+0.004,
+"2690106"
+],
+[
+0.001,
+"2855387"
+]
+],
+"topE": [
+[
+0.027,
+"813721"
+],
+[
+0.02,
+"3193100"
+],
+[
+0.02,
+"1873642"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.48,
+0.02,
+0.08,
+0.0,
+0.0
+],
+"score": 18.6
+},
+{
+"arxiv": "2607.24550",
+"section": "replacement",
+"recid": "3183654",
+"src": "INSPIRE",
+"nref": 78,
+"title": "Decay constants of the two-pole $D_0^*(2300)$",
+"authors": [
+"Qi-Wei Yuan",
+"Jia-Ting Zhang",
+"Ming-Zhu Liu"
+],
+"abstract": "The nature of the scalar charmed meson $D_0^*(2300)$ remains one of the most intriguing questions in hadron spectroscopy. A prominent interpretation is a two-pole structure generated by the coupled channels $Dπ$, $Dη$, $D_s\\bar K$, and $Dη'$, in which the lower pole couples mainly to $Dπ$ and the higher pole to $D_s\\bar K$. Following this picture, we calculate the decay constants of these two poles using the effective Lagrangian approach. The resulting values, $f_{D_0^*}^{(\\mathrm{lower})}=68.46^{+0.93}_{-1.25}\\,\\mathrm{MeV}$ and $f_{D_0^*}^{(\\mathrm{higher})}=90.51^{+5.91}_{-11.64}\\,\\mathrm{MeV}$, are substantially smaller than those predicted by conventional $c\\bar q$ excited-state scenarios. This difference suggests that decay constants can serve as a sensitive probe to discriminate between different internal structures of the $D_0^*(2300)$. As a phenomenological application, we further predict the branching fractions for the Cabibbo-favored decays $B_s \\to D_s D_0^*$, $Λ_b \\to Λ_c D_0^*$, and $Ξ_b \\to Ξ_c D_0^*$ within the factorization approach. These predictions provide crucial tests to validate the two-pole interpretation of the $D_0^*(2300)$.",
+"citR": [],
+"citE": [
+"3193100"
+],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.044,
+"1710056"
+],
+[
+0.034,
+"3193100"
+],
+[
+0.024,
+"2817040"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.45,
+0.0,
+0.13,
+0.0,
+0.0
+],
+"score": 17.7
+},
+{
+"arxiv": "2611.01154",
+"section": "new",
+"recid": "3221900",
+"src": "INSPIRE",
+"nref": 82,
+"title": "Behavior of the zero modes in the Light-front for pseudo scalar particles: pion case",
+"authors": [
+"J. Pacheco B. C. de melo"
+],
+"abstract": "Light-front Quantum Field Theory (LFQFT) stands as an optimal framework for delving into the intricate substructure of hadronic bound states. In this study, we employ a Light-Front Constituent Quark Model (LFCQM) to investigate the pion's internal structure. This model has previously demonstrated significant success in describing the properties of pseudoscalar mesons. A crucial consideration within the light-front formalism is the dependence on the chosen reference frame, stemming from the explicit breaking of covariance. Herein, we meticulously analyze the contribution of zero modes to the pion's electromagnetic current. Subsequently, we explore the impact of these zero modes on observable quantities, including electromagnetic form factors, the pion's electromagnetic radius, and its weak decay constant, $f_π$. Furthermore, we comprehensively investigate the behavior of zero modes and their dependence on both the momentum transfer, $Q^2$, and the model's intrinsic parameters, such as constituent quark masses ($m_{(q,\\bar{q})}$) and the regulator mass ($m_R$). Our findings reveal a substantial dependence of light-front zero modes on the specific frame employed for the calculation of the electromagnetic current. Interestingly, we observe that the maximal contribution of the zero mode occurs at a specific four-momentum transfer, denoted as $Q^2 = -q^2 = q_Z^{2(Max.)}$.",
+"citR": [],
+"citE": [
+"3193100"
+],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.026,
+"3127309"
+],
+[
+0.012,
+"3214449"
+],
+[
+0.011,
+"3206672"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.45,
+0.0,
+0.08,
+0.0,
+0.0
+],
+"score": 16.9
+},
+{
+"arxiv": "2611.00666",
+"section": "new",
+"recid": "3221864",
+"src": "INSPIRE",
+"nref": 92,
+"title": "Exploring the properties of low-lying excited $Ξ_c$ and $Ξ_c'$ baryons",
+"authors": [
+"Yi-Heng Wang",
+"Xin-Yu Chang",
+"Hui-Hua Zhong",
+"Li-Ye Xiao"
+],
+"abstract": "Motivated by the rapidly accumulating experimental data, we systematically calculate the $Ξ_c$ and $Ξ_c'$ mass spectra for the $1S$-, $1P$-, and $1D$-wave states and investigate the strong decay properties of the $1P$- and $1D$-wave states, thereby interpreting the internal structure of the currently controversial excited states and providing useful guidance for future experimental searches. The main conclusions are summarized as follows. $Ξ_c(2790)$ and $Ξ_c(2815)$ can be well explained as $Ξ_c1P\\big|J^P=1/2^-,1\\big\\rangle_λ$ and $Ξ_c1P\\big|J^P=3/2^-,1\\big\\rangle_λ$, respectively. $Ξ_c(2882)$ may correspond to $Ξ_c1P\\big|J^P=1/2^-,0\\big\\rangle_ρ$ or $Ξ_c1P\\big|J^P=1/2^-,1\\big\\rangle_ρ$; under this interpretation, $Ξ_cπ$ and $Ξ_c'π$ would be promising channels for its detection. $Ξ_c(2923)$ might be assigned to $Ξ_c'1P\\big|J^P=3/2^-,1\\big\\rangle_λ$, but further confirmation is required. $Ξ_c(2939)$ is very likely to be $Ξ_c'1P\\big|J^P=3/2^-,2\\big\\rangle_λ$ and has a good potential to be observed in the final states $Ξ_cπ$ and $Ξ_c'^{*}π$. $Ξ_c(2965)$ can be explained as $Ξ_c'1P\\big|J^P=5/2^-,2\\big\\rangle_λ$ and $Ξ_cπ$ decay channel is a promising additional mode for future experimental searches. $Ξ_c(3055)$ and $Ξ_c(3080)$ can be assigned as the quark configurations $Ξ_c1D\\big|J^P=3/2^+,2\\big\\rangle_{λλ}$ and $Ξ_c1D\\big|J^P=5/2^+,2\\big\\rangle_{λλ}$, respectively. $Ξ_c(3123)$ is possibly state $Ξ_c'1D\\big|J^P=1/2^+,1\\big\\rangle_{λλ}$ or $Ξ_c'1D\\big|J^P=5/2^+,3\\big\\rangle_{λλ}$, with the latter being more favorable. Decay channels $Λ/ΣD$ are very likely to serve as a criterion for distinguishing between these two possible candidates.",
+"citR": [],
+"citE": [
+"3193100"
+],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.019,
+"1710056"
+],
+[
+0.012,
+"3214449"
+],
+[
+0.011,
+"3206672"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.45,
+0.0,
+0.05,
+0.0,
+0.0
+],
+"score": 16.6
 },
 {
 "arxiv": "2611.01305",
@@ -369,7 +659,7 @@
 ],
 "topE": [
 [
-0.087,
+0.088,
 "1263385"
 ],
 [
@@ -392,7 +682,7 @@
 0.24,
 0.25,
 0.0,
-0.22
+0.21
 ],
 "score": 13.1
 },
@@ -451,7 +741,7 @@
 0.11,
 0.31,
 0.0,
-0.1
+0.09
 ],
 "score": 11.0
 },
@@ -476,7 +766,7 @@
 "2855387"
 ],
 [
-0.008,
+0.007,
 "1746620"
 ],
 [
@@ -486,7 +776,7 @@
 ],
 "topE": [
 [
-0.181,
+0.182,
 "3213801"
 ],
 [
@@ -509,7 +799,7 @@
 0.0,
 0.0
 ],
-"score": 9.9
+"score": 10.0
 },
 {
 "arxiv": "2611.00133",
@@ -532,7 +822,7 @@
 "1746620"
 ],
 [
-0.008,
+0.007,
 "2855387"
 ],
 [
@@ -542,7 +832,7 @@
 ],
 "topE": [
 [
-0.043,
+0.044,
 "1866947"
 ],
 [
@@ -599,7 +889,7 @@
 ],
 "topE": [
 [
-0.07,
+0.071,
 "1862804"
 ],
 [
@@ -672,7 +962,7 @@
 "parts": [
 0.0,
 0.06,
-0.21,
+0.22,
 0.0,
 0.0
 ],
@@ -704,7 +994,7 @@
 "1615477"
 ],
 [
-0.009,
+0.008,
 "859733"
 ]
 ],
@@ -715,11 +1005,11 @@
 ],
 [
 0.03,
-"2665284"
+"3221883"
 ],
 [
 0.029,
-"2824738"
+"2665284"
 ]
 ],
 "isme": false,
@@ -772,11 +1062,11 @@
 "2697191"
 ],
 [
-0.044,
+0.043,
 "1944631"
 ],
 [
-0.044,
+0.043,
 "3088651"
 ]
 ],
@@ -792,120 +1082,6 @@
 0.0
 ],
 "score": 4.6
-},
-{
-"arxiv": "2611.00349",
-"section": "new",
-"recid": "3221811",
-"src": "INSPIRE",
-"nref": 49,
-"title": "Top quark couplings at the muon collider",
-"authors": [
-"Nicolás Urcelay",
-"Antonio O. Bouzas",
-"F. Larios"
-],
-"abstract": "We present an overview of the sensitivity of a muon collider to the flavor-diagonal electroweak couplings of the top quark, using dimension-six operators of the Warsaw basis. Of the nine fermion-boson operators involving the top quark, the bounds on three are not competitive with existing limits, and we focus on the remaining six. We estimate individual $95\\%$ CL limits on the corresponding Wilson coefficients at $\\sqrt{s} = 3$, $6$, $10$, and $14$~TeV from $2σ$ statistical cross-section uncertainties, and assess the effect of an assumed systematic uncertainty. We consider six top-quark production modes: $t\\bar t$, $t \\bar t h$, $t \\bar t ν\\bar ν$, $t \\bar t μ^+ μ^-$, single-top $t\\bar b μ^- \\bar ν_μ$, and single-top-plus-Higgs, the last three for several rapidity coverages of the final-state muons. The $s$-channel $t\\bar t$ and $t\\bar t h$ processes give the strongest sensitivity to the electroweak dipole couplings, with allowed intervals narrower than the current LHC ones by factors of about $3$ to $6$ at $\\sqrt{s} = 3$ and $6$ TeV, and by an order of magnitude or more at $10$ and $14$ TeV. The left- and right-handed $ttZ$ couplings, as well as the Yukawa $tth$ couplings (for $\\sqrt{s} \\geq 6$ TeV), are best probed in $t \\bar t ν\\bar ν$ production, while the right-handed $tbW$ coupling is best probed in single-top production. For the $ttZ$ and $tbW$ couplings, the limits improve on the current LHC bounds by factors from about $1.5$ to more than an order of magnitude. Our results agree with previous analyses of the Yukawa and the dipole couplings, and provide a roadmap for more in-depth studies.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.02,
-"1627633"
-],
-[
-0.015,
-"2859009"
-],
-[
-0.015,
-"1615477"
-]
-],
-"topE": [
-[
-0.053,
-"2115290"
-],
-[
-0.051,
-"3206672"
-],
-[
-0.04,
-"2665284"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.06,
-0.15,
-0.0,
-0.0
-],
-"score": 4.1
-},
-{
-"arxiv": "2610.35818",
-"section": "replacement",
-"recid": "3219126",
-"src": "INSPIRE",
-"nref": 615,
-"title": "Holographic Approaches to Hadron Structure",
-"authors": [
-"Luigi Cappiello",
-"Anton Rebhan",
-"Shigeki Sugimoto"
-],
-"abstract": "We give an introduction to and an overview of holographic approaches to QCD and hadron structure. After an introduction to the string-theoretic foundations of holographic QCD, we review the predictions of top-down and bottom-up models for the phenomenology of mesons, baryons, and glueballs. We focus on the top-down model following from probe flavor branes in the Witten model of low-energy Yang-Mills theory and, in the more phenomenological approach of bottom-up models, mostly on minimal models based on five-dimensional anti-de Sitter space, which also implement global symmetries and their anomalies consistently, but allow the high-energy behavior to better match real QCD.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.006,
-"1397629"
-],
-[
-0.004,
-"2690106"
-],
-[
-0.001,
-"2855387"
-]
-],
-"topE": [
-[
-0.027,
-"813721"
-],
-[
-0.02,
-"1873642"
-],
-[
-0.015,
-"3178456"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.06,
-0.02,
-0.08,
-0.0,
-0.0
-],
-"score": 3.7
 },
 {
 "arxiv": "2611.00201",
@@ -938,11 +1114,11 @@
 ],
 "topE": [
 [
-0.059,
+0.06,
 "3157653"
 ],
 [
-0.059,
+0.06,
 "3188391"
 ],
 [
@@ -959,7 +1135,7 @@
 0.0,
 0.17,
 0.0,
-0.09
+0.08
 ],
 "score": 3.4
 },
@@ -995,16 +1171,16 @@
 ],
 "topE": [
 [
-0.016,
-"2716079"
+0.019,
+"3193100"
 ],
 [
 0.015,
-"3069207"
+"2716079"
 ],
 [
 0.014,
-"3127309"
+"3069207"
 ]
 ],
 "isme": false,
@@ -1018,7 +1194,7 @@
 0.0,
 0.0
 ],
-"score": 3.1
+"score": 3.2
 },
 {
 "arxiv": "2611.00234",
@@ -1051,15 +1227,15 @@
 ],
 "topE": [
 [
-0.071,
+0.073,
 "3187354"
 ],
 [
-0.034,
+0.032,
 "3171459"
 ],
 [
-0.029,
+0.028,
 "2716079"
 ]
 ],
@@ -1070,7 +1246,7 @@
 "parts": [
 0.0,
 0.0,
-0.2,
+0.21,
 0.0,
 0.0
 ],
@@ -1107,7 +1283,7 @@
 ],
 "topE": [
 [
-0.047,
+0.045,
 "2693756"
 ],
 [
@@ -1130,7 +1306,7 @@
 0.0,
 0.0
 ],
-"score": 3.0
+"score": 2.9
 },
 {
 "arxiv": "2611.00214",
@@ -1186,7 +1362,7 @@
 "3157653"
 ],
 [
-0.048,
+0.049,
 "3188391"
 ],
 [
@@ -1238,11 +1414,11 @@
 ],
 "topE": [
 [
-0.052,
+0.051,
 "2796272"
 ],
 [
-0.031,
+0.03,
 "1862804"
 ],
 [
@@ -1292,16 +1468,16 @@
 ],
 "topE": [
 [
-0.048,
-"2933568"
-],
-[
-0.046,
+0.047,
 "1344030"
 ],
 [
-0.0,
-"939581"
+0.043,
+"2933568"
+],
+[
+0.004,
+"3193100"
 ]
 ],
 "isme": false,
@@ -1311,11 +1487,65 @@
 "parts": [
 0.0,
 0.0,
-0.14,
+0.13,
 0.0,
 0.0
 ],
-"score": 2.1
+"score": 2.0
+},
+{
+"arxiv": "2510.10333",
+"section": "replacement",
+"recid": "3068489",
+"src": "INSPIRE",
+"nref": 61,
+"title": "Covariance and the use of the Schrodinger equation in quantum field theory",
+"authors": [
+"J. D. Franson"
+],
+"abstract": "The Schrodinger equation is not covariant. Nevertheless, quantum field theory is often formulated using the Schrodinger equation to describe the time evolution of the system, which is equivalent to using Feynman path integrals. It is well known that scattering theory gives covariant results provided that the interaction vanishes in the asymptotic limit of $t \\rightarrow \\pm \\infty$, but there are other situations of interest that do not satisfy those conditions. As an example, the Aharonov-Bohm effect is derived here using second-quantized field theory to describe all the electrons as well as the electromagnetic field, which allows the effects of retarded vector potentials to be calculated in a straightforward way using the Feynman propagator. The results are in agreement with the usual expression for the Aharonov-Bohm effect when the retardation of the electromagnetic field is negligible, but they predict a fractional phase shift, a lack of covariance, and violations of causality when retardation effects are significant. These results suggest that quantum field theory based on the Schrodinger equation or Feynman path integrals is incomplete in the sense that it cannot give a correct description of all observable phenomena.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.044,
+"1344030"
+],
+[
+0.037,
+"2743646"
+],
+[
+0.032,
+"1944631"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.12,
+0.0,
+0.0
+],
+"score": 1.9
 },
 {
 "arxiv": "2611.00198",
@@ -1350,7 +1580,7 @@
 ],
 "topE": [
 [
-0.044,
+0.042,
 "2796272"
 ],
 [
@@ -1373,117 +1603,7 @@
 0.0,
 0.0
 ],
-"score": 1.9
-},
-{
-"arxiv": "2607.24550",
-"section": "replacement",
-"recid": "3183654",
-"src": "INSPIRE",
-"nref": 78,
-"title": "Decay constants of the two-pole $D_0^*(2300)$",
-"authors": [
-"Qi-Wei Yuan",
-"Jia-Ting Zhang",
-"Ming-Zhu Liu"
-],
-"abstract": "The nature of the scalar charmed meson $D_0^*(2300)$ remains one of the most intriguing questions in hadron spectroscopy. A prominent interpretation is a two-pole structure generated by the coupled channels $Dπ$, $Dη$, $D_s\\bar K$, and $Dη'$, in which the lower pole couples mainly to $Dπ$ and the higher pole to $D_s\\bar K$. Following this picture, we calculate the decay constants of these two poles using the effective Lagrangian approach. The resulting values, $f_{D_0^*}^{(\\mathrm{lower})}=68.46^{+0.93}_{-1.25}\\,\\mathrm{MeV}$ and $f_{D_0^*}^{(\\mathrm{higher})}=90.51^{+5.91}_{-11.64}\\,\\mathrm{MeV}$, are substantially smaller than those predicted by conventional $c\\bar q$ excited-state scenarios. This difference suggests that decay constants can serve as a sensitive probe to discriminate between different internal structures of the $D_0^*(2300)$. As a phenomenological application, we further predict the branching fractions for the Cabibbo-favored decays $B_s \\to D_s D_0^*$, $Λ_b \\to Λ_c D_0^*$, and $Ξ_b \\to Ξ_c D_0^*$ within the factorization approach. These predictions provide crucial tests to validate the two-pole interpretation of the $D_0^*(2300)$.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.045,
-"1710056"
-],
-[
-0.025,
-"2817040"
-],
-[
-0.017,
-"1688995"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.13,
-0.0,
-0.0
-],
-"score": 1.9
-},
-{
-"arxiv": "2510.10333",
-"section": "replacement",
-"recid": "3068489",
-"src": "INSPIRE",
-"nref": 61,
-"title": "Covariance and the use of the Schrodinger equation in quantum field theory",
-"authors": [
-"J. D. Franson"
-],
-"abstract": "The Schrodinger equation is not covariant. Nevertheless, quantum field theory is often formulated using the Schrodinger equation to describe the time evolution of the system, which is equivalent to using Feynman path integrals. It is well known that scattering theory gives covariant results provided that the interaction vanishes in the asymptotic limit of $t \\rightarrow \\pm \\infty$, but there are other situations of interest that do not satisfy those conditions. As an example, the Aharonov-Bohm effect is derived here using second-quantized field theory to describe all the electrons as well as the electromagnetic field, which allows the effects of retarded vector potentials to be calculated in a straightforward way using the Feynman propagator. The results are in agreement with the usual expression for the Aharonov-Bohm effect when the retardation of the electromagnetic field is negligible, but they predict a fractional phase shift, a lack of covariance, and violations of causality when retardation effects are significant. These results suggest that quantum field theory based on the Schrodinger equation or Feynman path integrals is incomplete in the sense that it cannot give a correct description of all observable phenomena.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.045,
-"1344030"
-],
-[
-0.037,
-"2743646"
-],
-[
-0.032,
-"1944631"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.13,
-0.0,
-0.0
-],
-"score": 1.9
+"score": 1.8
 },
 {
 "arxiv": "2611.00200",
@@ -1523,7 +1643,7 @@
 "1709434"
 ],
 [
-0.009,
+0.01,
 "2654052"
 ]
 ],
@@ -1538,7 +1658,7 @@
 0.0,
 0.07
 ],
-"score": 1.6
+"score": 1.7
 },
 {
 "arxiv": "2611.01093",
@@ -1579,7 +1699,7 @@
 ],
 [
 0.002,
-"2817040"
+"3193100"
 ]
 ],
 "isme": false,
@@ -1627,16 +1747,16 @@
 ],
 "topE": [
 [
-0.035,
+0.034,
 "1710056"
 ],
 [
-0.023,
-"2817040"
+0.028,
+"3193100"
 ],
 [
-0.012,
-"2751074"
+0.022,
+"2817040"
 ]
 ],
 "isme": false,
@@ -1683,11 +1803,11 @@
 ],
 "topE": [
 [
-0.036,
+0.035,
 "2796272"
 ],
 [
-0.009,
+0.008,
 "2941092"
 ],
 [
@@ -1746,7 +1866,7 @@
 ],
 [
 0.002,
-"2817040"
+"3193100"
 ]
 ],
 "isme": false,
@@ -1761,60 +1881,6 @@
 0.0
 ],
 "score": 1.2
-},
-{
-"arxiv": "2611.01154",
-"section": "new",
-"recid": "3221900",
-"src": "INSPIRE",
-"nref": 82,
-"title": "Behavior of the zero modes in the Light-front for pseudo scalar particles: pion case",
-"authors": [
-"J. Pacheco B. C. de melo"
-],
-"abstract": "Light-front Quantum Field Theory (LFQFT) stands as an optimal framework for delving into the intricate substructure of hadronic bound states. In this study, we employ a Light-Front Constituent Quark Model (LFCQM) to investigate the pion's internal structure. This model has previously demonstrated significant success in describing the properties of pseudoscalar mesons. A crucial consideration within the light-front formalism is the dependence on the chosen reference frame, stemming from the explicit breaking of covariance. Herein, we meticulously analyze the contribution of zero modes to the pion's electromagnetic current. Subsequently, we explore the impact of these zero modes on observable quantities, including electromagnetic form factors, the pion's electromagnetic radius, and its weak decay constant, $f_π$. Furthermore, we comprehensively investigate the behavior of zero modes and their dependence on both the momentum transfer, $Q^2$, and the model's intrinsic parameters, such as constituent quark masses ($m_{(q,\\bar{q})}$) and the regulator mass ($m_R$). Our findings reveal a substantial dependence of light-front zero modes on the specific frame employed for the calculation of the electromagnetic current. Interestingly, we observe that the maximal contribution of the zero mode occurs at a specific four-momentum transfer, denoted as $Q^2 = -q^2 = q_Z^{2(Max.)}$.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.026,
-"3127309"
-],
-[
-0.012,
-"3214449"
-],
-[
-0.011,
-"3206672"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.07,
-0.0,
-0.0
-],
-"score": 1.1
 },
 {
 "arxiv": "2603.12032",
@@ -1855,7 +1921,7 @@
 "3187354"
 ],
 [
-0.021,
+0.022,
 "2693756"
 ],
 [
@@ -1916,8 +1982,8 @@
 "2094416"
 ],
 [
-0.006,
-"2940359"
+0.005,
+"3193100"
 ]
 ],
 "isme": false,
@@ -1927,125 +1993,11 @@
 "parts": [
 0.0,
 0.0,
-0.07,
+0.06,
 0.0,
 0.0
 ],
 "score": 1.0
-},
-{
-"arxiv": "2611.00666",
-"section": "new",
-"recid": "3221864",
-"src": "INSPIRE",
-"nref": 92,
-"title": "Exploring the properties of low-lying excited $Ξ_c$ and $Ξ_c'$ baryons",
-"authors": [
-"Yi-Heng Wang",
-"Xin-Yu Chang",
-"Hui-Hua Zhong",
-"Li-Ye Xiao"
-],
-"abstract": "Motivated by the rapidly accumulating experimental data, we systematically calculate the $Ξ_c$ and $Ξ_c'$ mass spectra for the $1S$-, $1P$-, and $1D$-wave states and investigate the strong decay properties of the $1P$- and $1D$-wave states, thereby interpreting the internal structure of the currently controversial excited states and providing useful guidance for future experimental searches. The main conclusions are summarized as follows. $Ξ_c(2790)$ and $Ξ_c(2815)$ can be well explained as $Ξ_c1P\\big|J^P=1/2^-,1\\big\\rangle_λ$ and $Ξ_c1P\\big|J^P=3/2^-,1\\big\\rangle_λ$, respectively. $Ξ_c(2882)$ may correspond to $Ξ_c1P\\big|J^P=1/2^-,0\\big\\rangle_ρ$ or $Ξ_c1P\\big|J^P=1/2^-,1\\big\\rangle_ρ$; under this interpretation, $Ξ_cπ$ and $Ξ_c'π$ would be promising channels for its detection. $Ξ_c(2923)$ might be assigned to $Ξ_c'1P\\big|J^P=3/2^-,1\\big\\rangle_λ$, but further confirmation is required. $Ξ_c(2939)$ is very likely to be $Ξ_c'1P\\big|J^P=3/2^-,2\\big\\rangle_λ$ and has a good potential to be observed in the final states $Ξ_cπ$ and $Ξ_c'^{*}π$. $Ξ_c(2965)$ can be explained as $Ξ_c'1P\\big|J^P=5/2^-,2\\big\\rangle_λ$ and $Ξ_cπ$ decay channel is a promising additional mode for future experimental searches. $Ξ_c(3055)$ and $Ξ_c(3080)$ can be assigned as the quark configurations $Ξ_c1D\\big|J^P=3/2^+,2\\big\\rangle_{λλ}$ and $Ξ_c1D\\big|J^P=5/2^+,2\\big\\rangle_{λλ}$, respectively. $Ξ_c(3123)$ is possibly state $Ξ_c'1D\\big|J^P=1/2^+,1\\big\\rangle_{λλ}$ or $Ξ_c'1D\\big|J^P=5/2^+,3\\big\\rangle_{λλ}$, with the latter being more favorable. Decay channels $Λ/ΣD$ are very likely to serve as a criterion for distinguishing between these two possible candidates.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.019,
-"1710056"
-],
-[
-0.012,
-"3214449"
-],
-[
-0.011,
-"3206672"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.05,
-0.0,
-0.0
-],
-"score": 0.8
-},
-{
-"arxiv": "2506.08083",
-"section": "replacement",
-"recid": "2933166",
-"src": "INSPIRE",
-"nref": 88,
-"title": "Perturbative Kähler Moduli Inflation",
-"authors": [
-"Mishaal Hai",
-"Ahmed Rakin Kamal",
-"Noshin Ferdous Shamma",
-"Md Shaikot Jahan Shuvo"
-],
-"abstract": "In this work, we present two classes of inflationary models in the framework of type IIB string theory. The inflatons correspond to blow-up Kähler modulus arising from compactifying type IIB string theory on a Calabi-Yau. Using perturbative corrections, we first highlight a procedure for stabilising more than one Kähler modulus. For the case of two Kähler moduli, we explicitly construct two classes of inflationary potentials within the Kähler cone which satisfy both EFT and cosmological constraints. The first class of models, arising from moduli redefinition of the blow-up mode, garners a potential of the form $V(φ)=V_{0}(1+C_{1} φ^{2/3})$ align with CMB data with tensor-to-scalar ratio $r\\lesssim 10^{-2}$. The second class of models, which have been recently proposed as loop blow-up inflation, have a form $V(φ)=V_{0}(1+C_{2}φ^{-2/3})$, also agrees with CMB data with tensor-to-scalar ratio $r\\lesssim 10^{-8}$. Our work differs from the original loop blow-up inflation in terms of stabilization mechanism and subsequently the tensor-to-scalar ratio.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.019,
-"2931725"
-],
-[
-0.015,
-"3083722"
-],
-[
-0.014,
-"2940283"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.05,
-0.0,
-0.0
-],
-"score": 0.8
 },
 {
 "arxiv": "2605.02541",
@@ -2102,6 +2054,63 @@
 "score": 0.7
 },
 {
+"arxiv": "2506.08083",
+"section": "replacement",
+"recid": "2933166",
+"src": "INSPIRE",
+"nref": 88,
+"title": "Perturbative Kähler Moduli Inflation",
+"authors": [
+"Mishaal Hai",
+"Ahmed Rakin Kamal",
+"Noshin Ferdous Shamma",
+"Md Shaikot Jahan Shuvo"
+],
+"abstract": "In this work, we present two classes of inflationary models in the framework of type IIB string theory. The inflatons correspond to blow-up Kähler modulus arising from compactifying type IIB string theory on a Calabi-Yau. Using perturbative corrections, we first highlight a procedure for stabilising more than one Kähler modulus. For the case of two Kähler moduli, we explicitly construct two classes of inflationary potentials within the Kähler cone which satisfy both EFT and cosmological constraints. The first class of models, arising from moduli redefinition of the blow-up mode, garners a potential of the form $V(φ)=V_{0}(1+C_{1} φ^{2/3})$ align with CMB data with tensor-to-scalar ratio $r\\lesssim 10^{-2}$. The second class of models, which have been recently proposed as loop blow-up inflation, have a form $V(φ)=V_{0}(1+C_{2}φ^{-2/3})$, also agrees with CMB data with tensor-to-scalar ratio $r\\lesssim 10^{-8}$. Our work differs from the original loop blow-up inflation in terms of stabilization mechanism and subsequently the tensor-to-scalar ratio.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.017,
+"2931725"
+],
+[
+0.014,
+"3083722"
+],
+[
+0.013,
+"2940283"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.05,
+0.0,
+0.0
+],
+"score": 0.7
+},
+{
 "arxiv": "2611.00268",
 "section": "new",
 "recid": "3221807",
@@ -2130,16 +2139,16 @@
 ],
 "topE": [
 [
-0.014,
+0.015,
+"3193100"
+],
+[
+0.013,
 "2817040"
 ],
 [
 0.008,
 "2923681"
-],
-[
-0.005,
-"2102705"
 ]
 ],
 "isme": false,
@@ -2298,16 +2307,16 @@
 ],
 "topE": [
 [
-0.008,
-"1710056"
+0.007,
+"3193100"
 ],
 [
 0.007,
-"1494411"
+"1710056"
 ],
 [
-0.004,
-"1127719"
+0.006,
+"1494411"
 ]
 ],
 "isme": false,
@@ -2354,15 +2363,15 @@
 "topE": [
 [
 0.006,
+"3193100"
+],
+[
+0.006,
 "2817040"
 ],
 [
 0.002,
 "1688995"
-],
-[
-0.0,
-"939581"
 ]
 ],
 "isme": false,
@@ -2408,7 +2417,7 @@
 ],
 "topE": [
 [
-0.006,
+0.005,
 "813721"
 ],
 [
@@ -2427,69 +2436,11 @@
 "parts": [
 0.0,
 0.0,
-0.02,
+0.01,
 0.0,
 0.0
 ],
 "score": 0.2
-},
-{
-"arxiv": "2604.00960",
-"section": "replacement",
-"recid": "3138534",
-"src": "INSPIRE",
-"nref": 84,
-"title": "Stability analysis and double critical phenomenon in the Einstein-Maxwell-scalar theory",
-"authors": [
-"Zi-Qiang Zhao",
-"Mei-Ling Yan",
-"Zhang-Yu Nie",
-"Jing-Fei Zhang",
-"Xin Zhang"
-],
-"abstract": "We investigate the dynamical stability and phase transition behavior in a holographic superfluid model incorporating higher-order self-interaction terms $λ|ψ|^4$, $τ|ψ|^6$, and a non-minimal coupling $h(ψ)=e^{α|ψ|^2}$. Thermodynamic and dynamical stability analyzes show that the thermodynamic stability and dynamical stability of the system are consistent. Phase diagram analysis reveals rich critical and supercritical phenomena. For fixed $λ<0$ and $α$, increasing $τ$ shrinks the first-order phase transition region to a critical point and then enters the supercritical region. When varying $α$, the system can exhibit no critical point and, most notably, a double critical phenomenon in which, as $α$ increases, the system first enters the supercritical region and then re-enters the first-order phase transition region. This double critical phenomenon driven by a single parameter is reported for the first time in holographic superfluid models, revealing a complex nonmonotonic coupling effect between the non-minimal coupling and higher-order interaction terms.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.001,
-"1688995"
-],
-[
-0.001,
-"2817040"
-],
-[
-0.0,
-"939581"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.0,
-0.0,
-0.0
-],
-"score": 0.1
 },
 {
 "arxiv": "2611.00239",
@@ -2745,16 +2696,74 @@
 ],
 "topE": [
 [
+0.001,
+"3193100"
+],
+[
 0.0,
 "939581"
 ],
 [
 0.0,
 "922180"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.0,
+0.0,
+0.0
+],
+"score": 0.0
+},
+{
+"arxiv": "2604.00960",
+"section": "replacement",
+"recid": "3138534",
+"src": "INSPIRE",
+"nref": 84,
+"title": "Stability analysis and double critical phenomenon in the Einstein-Maxwell-scalar theory",
+"authors": [
+"Zi-Qiang Zhao",
+"Mei-Ling Yan",
+"Zhang-Yu Nie",
+"Jing-Fei Zhang",
+"Xin Zhang"
+],
+"abstract": "We investigate the dynamical stability and phase transition behavior in a holographic superfluid model incorporating higher-order self-interaction terms $λ|ψ|^4$, $τ|ψ|^6$, and a non-minimal coupling $h(ψ)=e^{α|ψ|^2}$. Thermodynamic and dynamical stability analyzes show that the thermodynamic stability and dynamical stability of the system are consistent. Phase diagram analysis reveals rich critical and supercritical phenomena. For fixed $λ<0$ and $α$, increasing $τ$ shrinks the first-order phase transition region to a critical point and then enters the supercritical region. When varying $α$, the system can exhibit no critical point and, most notably, a double critical phenomenon in which, as $α$ increases, the system first enters the supercritical region and then re-enters the first-order phase transition region. This double critical phenomenon driven by a single parameter is reported for the first time in holographic superfluid models, revealing a complex nonmonotonic coupling effect between the non-minimal coupling and higher-order interaction terms.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
 ],
 [
 0.0,
-"914987"
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.001,
+"1688995"
+],
+[
+0.001,
+"3193100"
+],
+[
+0.001,
+"2817040"
 ]
 ],
 "isme": false,
@@ -2859,16 +2868,16 @@
 ],
 "topE": [
 [
+0.001,
+"3193100"
+],
+[
 0.0,
 "939581"
 ],
 [
 0.0,
 "922180"
-],
-[
-0.0,
-"914987"
 ]
 ],
 "isme": false,
