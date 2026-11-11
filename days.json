@@ -1,11 +1,39 @@
 [
  {
+  "date": "2026-11-11",
+  "page": "hep-ph-2026-11-11.html",
+  "built": "2026-11-11",
+  "code": "fe3c41287942",
+  "nlist": 73,
+  "nrel": 22,
+  "top": [
+   {
+    "arxiv": "2611.13617",
+    "title": "Self-interacting dark matter and neutrino masses from MeV-scale lepton-number breaking",
+    "score": 49.1,
+    "section": "new"
+   },
+   {
+    "arxiv": "2611.13842",
+    "title": "Ultra-Heavy Dark Matter Through Exponential Production Mechanism",
+    "score": 46.2,
+    "section": "new"
+   },
+   {
+    "arxiv": "2502.13002",
+    "title": "Fermionic Dark Matter and Neutrino Masses in a Minimal $U(1)_{\\rm PQ}$ Inverse Seesaw Framework",
+    "score": 43.4,
+    "section": "replacement"
+   }
+  ]
+ },
+ {
   "date": "2026-11-10",
   "page": "hep-ph-2026-11-10.html",
-  "built": "2026-11-10",
+  "built": "2026-11-11",
   "code": "fe3c41287942",
   "nlist": 128,
-  "nrel": 26,
+  "nrel": 31,
   "top": [
    {
     "arxiv": "2611.12148",
@@ -14,27 +42,33 @@
     "section": "new"
    },
    {
-    "arxiv": "2611.12234",
-    "title": "Constraints on the Real Singlet Scalar Dark Matter Model from Higgs Self-Couplings",
-    "score": 36.9,
-    "section": "new"
-   },
-   {
     "arxiv": "2611.10465",
     "title": "NuSTEC Review: Current Experimental and Theoretical Challenges of Neutrino-Nucleus Scattering",
-    "score": 36.5,
+    "score": 40.4,
     "section": "cross"
+   },
+   {
+    "arxiv": "2611.12234",
+    "title": "Constraints on the Real Singlet Scalar Dark Matter Model from Higgs Self-Couplings",
+    "score": 37.6,
+    "section": "new"
    }
   ]
  },
  {
   "date": "2026-11-09",
   "page": "hep-ph-2026-11-09.html",
-  "built": "2026-11-10",
+  "built": "2026-11-11",
   "code": "fe3c41287942",
-  "nlist": 39,
-  "nrel": 10,
+  "nlist": 76,
+  "nrel": 17,
   "top": [
+   {
+    "arxiv": "2606.05962",
+    "title": "Probing TeV-scale Majorana neutrinos at a muon-proton collider via a lepton-number-violating fat-jet signature",
+    "score": 46.5,
+    "section": "replacement"
+   },
    {
     "arxiv": "2611.09775",
     "title": "Uncovering TeV-scale dark matter with Z-fusion at a muon collider",
@@ -45,12 +79,6 @@
     "arxiv": "2611.09478",
     "title": "An interrelation of three neutrino mixing angles",
     "score": 30.9,
-    "section": "new"
-   },
-   {
-    "arxiv": "2611.08690",
-    "title": "Exact and hybrid neutrino oscillation probabilities via the evolution operator",
-    "score": 20.8,
     "section": "new"
    }
   ]
