@@ -15,8 +15,8 @@
 "citE": [
 "3221883",
 "3205155",
-"1982681",
 "2962467",
+"1982681",
 "2940359",
 "1692611",
 "1907141",
@@ -118,8 +118,8 @@
 "abstract": "The precise measurement of neutrino properties is among the highest priorities in fundamental particle physics, involving many experimental and theoretical efforts worldwide. Since the experiments rely on the interactions of neutrinos in the nuclear environment, the planned advances in the scope and precision of these experiments require a commensurate effort in understanding and modeling the hadronic and nuclear physics of these interactions, as incorporated in neutrino event generators. This modeling is essential to every phase of the experimental analyses, and the theoretical uncertainties play an important role in interpreting experimental results. In this Review of current challenges, we summarize the open questions in neutrino-nucleus interactions at GeV-scale energies, and discuss in detail the potential impacts of these unknowns on the measurement of neutrino properties, using the determination of oscillation parameters as a central example. After an Executive Summary and a concise Overview of the issues, we address how the neutrino event generators treat these challenges, how electron-nucleus interactions can help understanding these challenges and the important unanswered questions for each underlying physics process---from quasi-elastic to deep-inelastic scattering. Across every topic, we find that current challenges can be met only through active support and collaboration among specialists in strong interactions and electroweak physics, including theorists and experimentalists from both the nuclear and high-energy physics communities.",
 "citR": [],
 "citE": [
-"2917228",
 "2102705",
+"2917228",
 "2824738",
 "2626424"
 ],
@@ -253,8 +253,8 @@
 "abstract": "We establish a unified theory-to-simulation framework for self-interacting dark matter (SIDM) that integrates three components: (i) a comprehensive, self-contained treatment of its particle-physics foundations and a broad range of model classes; (ii) a systematic, quantitative mapping from microscopic dark-sector physics to structure-formation simulation inputs through explicit expressions and numerical prescriptions; and (iii) the development, implementation, and validation of a broad suite of SIDM algorithms and a dedicated DM decay module in the moving-mesh code AREPO-2. Under (i), we detail the particle content, symmetries, interactions, production mechanisms, and constraints of a broad landscape of elementary and composite SIDM models, and present representative viable benchmark models. Under (ii), the mapping specifies cosmological initial conditions, internal-state masses and populations, reaction networks, velocity- and angle-dependent cross sections, dissipative energy loss, and decay rates and recoil kinematics. We then apply this mapping to a broad range of SIDM model classes. Under (iii), we implement and validate SIDM algorithms with constant and velocity-dependent cross sections, covering isotropic and anisotropic scattering, multi-state elastic and inelastic reactions, and dissipative processes, alongside a dedicated DM decay module in AREPO-2. We validate the implementations through beam-lattice deflection, thermalization and decay tests, isolated-halo gravothermal core-collapse simulations, and cosmological box and zoom-in simulations. The results recover analytical predictions and published benchmarks and demonstrate agreement across numerical schemes. Our theory-to-simulation framework serves as a cross-disciplinary reference and a practical bridge between SIDM particle physics and simulations of nonlinear structure formation.",
 "citR": [],
 "citE": [
-"3070028",
 "3128103",
+"3070028",
 "1518747",
 "2817040"
 ],
@@ -2324,6 +2324,72 @@
 "score": 8.0
 },
 {
+"arxiv": "2512.11486",
+"section": "replacement",
+"recid": "3092472",
+"src": "INSPIRE",
+"nref": 162,
+"title": "CANTON-$μ$ Proposal: A Next-Generation Muon $g-2$ Measurement at Sub-0.1 ppm Precision",
+"authors": [
+"Ce Zhang",
+"Yu Xu",
+"On Kim",
+"Bingzhi Li",
+"Zejia Lu",
+"Saskia Charity",
+"Guodong Shen",
+"Liangwen Chen",
+"Fedor Ignatov",
+"Liang Li",
+"Qiang Li",
+"Xueheng Zhang",
+"Zhiyu Sun"
+],
+"abstract": "We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g-2) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as CANTON-$μ$ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF's intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total precisions of 0.1 ppm in Phase-I, comparable to the current Fermilab precision, with the potential to reach the 0.05 ppm level in Phase-II following the planned HIAF upgrade. At the ultimate projected precision, the measurement would provide a stringent test of the Standard Model and probe new physics at multi-TeV scales. A focus on negative-muon measurements would enable direct comparison with existing high-precision positive-muon results and strengthen tests of CPT symmetry in the muon sector within the Standard-Model Extension, with a projected sensitivity at the $10^{-24}$ GeV level, an order of magnitude beyond current limits.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.035,
+"2690106"
+],
+[
+0.008,
+"1402978"
+],
+[
+0.006,
+"1708009"
+]
+],
+"topE": [
+[
+0.123,
+"2706495"
+],
+[
+0.113,
+"1938335"
+],
+[
+0.084,
+"2059568"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.09,
+0.35,
+0.0,
+0.0
+],
+"score": 8.0
+},
+{
 "arxiv": "2611.11458",
 "section": "new",
 "recid": "3226560",
@@ -2376,72 +2442,6 @@
 0.0
 ],
 "score": 7.9
-},
-{
-"arxiv": "2512.11486",
-"section": "replacement",
-"recid": "3092472",
-"src": "INSPIRE",
-"nref": 165,
-"title": "CANTON-$μ$ Proposal: A Next-Generation Muon $g-2$ Measurement at Sub-0.1 ppm Precision",
-"authors": [
-"Ce Zhang",
-"Yu Xu",
-"On Kim",
-"Bingzhi Li",
-"Zejia Lu",
-"Saskia Charity",
-"Guodong Shen",
-"Liangwen Chen",
-"Fedor Ignatov",
-"Liang Li",
-"Qiang Li",
-"Xueheng Zhang",
-"Zhiyu Sun"
-],
-"abstract": "We propose a next-generation precision measurement of the muon anomalous magnetic moment (muon g-2) at the High Intensity Heavy-Ion Accelerator Facility (HIAF) in Huizhou, China. We refer to this proposed experimental programme as CANTON-$μ$ (Coherent Anomalous magNetic momenT ObservatioN with muon). HIAF's intense, pulsed GeV-scale muon beams, particularly for negative muons, provide a promising basis for this programme. Building on two previously proposed storage-ring concepts, this work develops HIAF-specific experimental schemes that relax the conventional magic-momentum constraint and allow greater flexibility in the choice of beam momentum. We assess the expected muon intensity at HIAF and the corresponding statistical sensitivity. For each scheme, we identify its distinctive systematic effects, examine feasible control strategies, and propose quantitative systematic-uncertainty targets. Together, the statistical projections and systematic-uncertainty targets indicate prospective total precisions of 0.1 ppm in Phase-I, comparable to the current Fermilab precision, with the potential to reach the 0.05 ppm level in Phase-II following the planned HIAF upgrade. At the ultimate projected precision, the measurement would provide a stringent test of the Standard Model and probe new physics at multi-TeV scales. A focus on negative-muon measurements would enable direct comparison with existing high-precision positive-muon results and strengthen tests of CPT symmetry in the muon sector within the Standard-Model Extension, with a projected sensitivity at the $10^{-24}$ GeV level, an order of magnitude beyond current limits.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.029,
-"2690106"
-],
-[
-0.008,
-"1402978"
-],
-[
-0.006,
-"1708009"
-]
-],
-"topE": [
-[
-0.123,
-"2706495"
-],
-[
-0.109,
-"1938335"
-],
-[
-0.081,
-"2059568"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.08,
-0.35,
-0.0,
-0.0
-],
-"score": 7.6
 },
 {
 "arxiv": "2611.11211",
@@ -4392,7 +4392,7 @@
 "section": "replacement",
 "recid": "3179597",
 "src": "INSPIRE",
-"nref": 68,
+"nref": 66,
 "title": "Perusing confining pseudoreal theories: hints of emerging massless spin-1 bosons",
 "authors": [
 "Giacomo Cacciapaglia",
@@ -4403,11 +4403,11 @@
 "citE": [],
 "topR": [
 [
-0.01,
+0.011,
 "1663960"
 ],
 [
-0.009,
+0.01,
 "468209"
 ],
 [
@@ -4417,15 +4417,15 @@
 ],
 "topE": [
 [
-0.042,
+0.045,
 "1944631"
 ],
 [
-0.028,
+0.027,
 "1966767"
 ],
 [
-0.025,
+0.026,
 "2946768"
 ]
 ],
@@ -4436,11 +4436,11 @@
 "parts": [
 0.0,
 0.03,
-0.12,
+0.13,
 0.0,
 0.0
 ],
-"score": 2.6
+"score": 2.8
 },
 {
 "arxiv": "2607.03840",

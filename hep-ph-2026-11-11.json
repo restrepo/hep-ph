@@ -195,69 +195,6 @@
 "score": 43.4
 },
 {
-"arxiv": "2609.17412",
-"section": "replacement",
-"recid": "3204104",
-"src": "INSPIRE",
-"nref": 84,
-"title": "Cosmological Constrained Axion-Portal Inelastic Dark Matter for the LZ Event",
-"authors": [
-"Haipeng An",
-"Fei Gao",
-"Jia Liu",
-"Minghao Liu",
-"Changlong Xu"
-],
-"abstract": "The recent high-recoil candidate event reported by LUX-ZEPLIN (LZ) motivates dark-matter scenarios with nonstandard kinematics and momentum-dependent interactions. We study a two-state inelastic dark-matter model in which $χ_1$ and $χ_2$ couple off-diagonally to an axion-like particle (ALP) that also couples to gluons and photons. Unlike treatments that assume only one dark-matter state is present today, we track the cosmological evolution of both states. The excited state $χ_2$ is sufficiently long-lived to survive to the present, with its relic fraction determined by the dark-sector conversion process $χ_2χ_2\\leftrightarrowχ_1χ_1$. We find that this fraction depends strongly on the Lorentz structure of the DM--ALP interaction. Scalar transition couplings lead to nonperturbative conversion rates with a pronounced resonant structure, yielding a final excited-state fraction that varies nonmonotonically with the mediator mass, from $f_2\\sim10^{-4}$ to approximately $1/2$ over the parameter range studied. The relative importance of endothermic and exothermic scattering is therefore parameter dependent. By contrast, pseudoscalar transition couplings preserve $f_2\\simeq1/2$, yielding recoil spectra dominated by exothermic $χ_2 N\\toχ_1 N$ down-scattering for the benchmarks considered. Benchmark spectra in all four scenarios can peak near the observed recoil energy of $250\\,\\mathrm{keV}$. Our results demonstrate that the dominant direction of inelastic scattering in direct detection can be dynamically selected by the early-Universe evolution of the dark sector. With additional data, annual modulation measurements could distinguish these scenarios. We further show that the ALP portal can be directly probed at colliders.",
-"citR": [],
-"citE": [
-"3202840",
-"3201080"
-],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.75,
-"3202840"
-],
-[
-0.296,
-"3201080"
-],
-[
-0.038,
-"3206672"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"direct detection"
-],
-"watch": [],
-"parts": [
-0.7,
-0.0,
-1,
-0.0,
-0.26
-],
-"score": 42.1
-},
-{
 "arxiv": "2609.38316",
 "section": "replacement",
 "recid": "3209712",
@@ -272,8 +209,8 @@
 "abstract": "One of the most convincing realizations of particle dark matter is provided by models based on electroweak multiplets. The lightest neutral state of such a multiplet can be a stable Majorana fermion or a real scalar, and its phenomenology is governed by two parameters: the dark matter mass and the mass splitting $\\{m_χ,δ\\}$. The sub-MeV range for $δ$ is particularly important as it allows for a large inelastic scattering cross section. In this paper, we analyze solar capture, energy loss, and annihilation of scalar and fermionic electroweak multiplet dark matter, generalizing earlier results for the Higgsino to other representations. We find that, while the case of a doublet is somewhat special, higher representations behave in a self-similar way. For the higher multiplets, IceCube results constrain the splitting to $δ\\gtrsim 350$ keV for all dark matter masses up to $100$ TeV. Assuming thermal freeze-out and a Standard Halo Model velocity distribution, this rules out most models of electroweak dark matter as a possible origin of the single high-recoil event reported by the LZ collaboration. We also show that a high-velocity tail in the dark matter distribution, such as that induced by the Large Magellanic Cloud, raises the splitting preferred by the LZ event above the solar bounds for many of the multiplets.",
 "citR": [],
 "citE": [
-"3202840",
-"3201080"
+"3201080",
+"3202840"
 ],
 "topR": [
 [
@@ -321,7 +258,7 @@
 "section": "replacement",
 "recid": "3216300",
 "src": "INSPIRE",
-"nref": 121,
+"nref": 126,
 "title": "Exothermic Dark Matter with a Dark Higgs: The LZ 248 keV Event and the Galactic Center Excess",
 "authors": [
 "Jinheung Kim",
@@ -331,34 +268,34 @@
 "abstract": "LUX-ZEPLIN (LZ) reported a $248~\\mathrm{keV}$ nuclear-recoil candidate. Exothermic dark matter can explain it in a dark $U(1)$ model whose dark Higgs generates the dark photon mass and the mass splitting. Since the dark photon mass sets both the excited-state fraction and the scattering rate, two dark photon masses explain the event, near $1$ and $25~\\mathrm{GeV}$ for kinetic mixing $ε=10^{-4}$. Cosmic microwave background limits exclude most of the lighter branch. On the heavier branch, the southern-sky Galactic Center $γ$-ray excess complements the LZ event by selecting a dark matter mass of $40$-$44~\\mathrm{GeV}$, and its fit favors a dark Higgs boson near the dark photon mass.",
 "citR": [],
 "citE": [
-"3202840",
-"3201080"
+"3201080",
+"3202840"
 ],
 "topR": [
 [
-0.016,
+0.015,
 "1421624"
+],
+[
+0.012,
+"677884"
 ],
 [
 0.011,
 "2859009"
-],
-[
-0.01,
-"1741056"
 ]
 ],
 "topE": [
 [
-0.45,
+0.451,
 "3202840"
 ],
 [
-0.206,
+0.214,
 "3201080"
 ],
 [
-0.048,
+0.047,
 "2674992"
 ]
 ],
@@ -569,9 +506,9 @@
 {
 "arxiv": "2611.14370",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 235,
+"recid": "3210725",
+"src": "INSPIRE",
+"nref": 239,
 "title": "The Higgs boson, naturalness, and the Universe",
 "authors": [
 "Mikhail Shaposhnikov"
@@ -589,7 +526,7 @@
 "793723"
 ],
 [
-0.018,
+0.019,
 "1607572"
 ],
 [
@@ -599,15 +536,15 @@
 ],
 "topE": [
 [
-0.093,
+0.094,
 "1863157"
 ],
 [
-0.085,
+0.084,
 "1362180"
 ],
 [
-0.067,
+0.07,
 "2051136"
 ]
 ],
@@ -618,11 +555,11 @@
 "parts": [
 0.51,
 0.1,
-0.26,
+0.27,
 0.0,
 0.0
 ],
-"score": 24.9
+"score": 25.0
 },
 {
 "arxiv": "2611.13629",
@@ -686,8 +623,8 @@
 {
 "arxiv": "2611.14103",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227222",
+"src": "INSPIRE",
 "nref": 52,
 "title": "Nucleon sigma terms in lattice QCD at physical pion mass and in the continuum",
 "authors": [
@@ -745,10 +682,70 @@
 "score": 18.6
 },
 {
+"arxiv": "2609.17412",
+"section": "replacement",
+"recid": "3204104",
+"src": "INSPIRE",
+"nref": 64,
+"title": "Cosmological Constrained Axion-Portal Inelastic Dark Matter for the LZ Event",
+"authors": [
+"Haipeng An",
+"Fei Gao",
+"Jia Liu",
+"Minghao Liu",
+"Changlong Xu"
+],
+"abstract": "The recent high-recoil candidate event reported by LUX-ZEPLIN (LZ) motivates dark-matter scenarios with nonstandard kinematics and momentum-dependent interactions. We study a two-state inelastic dark-matter model in which $χ_1$ and $χ_2$ couple off-diagonally to an axion-like particle (ALP) that also couples to gluons and photons. Unlike treatments that assume only one dark-matter state is present today, we track the cosmological evolution of both states. The excited state $χ_2$ is sufficiently long-lived to survive to the present, with its relic fraction determined by the dark-sector conversion process $χ_2χ_2\\leftrightarrowχ_1χ_1$. We find that this fraction depends strongly on the Lorentz structure of the DM--ALP interaction. Scalar transition couplings lead to nonperturbative conversion rates with a pronounced resonant structure, yielding a final excited-state fraction that varies nonmonotonically with the mediator mass, from $f_2\\sim10^{-4}$ to approximately $1/2$ over the parameter range studied. The relative importance of endothermic and exothermic scattering is therefore parameter dependent. By contrast, pseudoscalar transition couplings preserve $f_2\\simeq1/2$, yielding recoil spectra dominated by exothermic $χ_2 N\\toχ_1 N$ down-scattering for the benchmarks considered. Benchmark spectra in all four scenarios can peak near the observed recoil energy of $250\\,\\mathrm{keV}$. Our results demonstrate that the dominant direction of inelastic scattering in direct detection can be dynamically selected by the early-Universe evolution of the dark sector. With additional data, annual modulation measurements could distinguish these scenarios. We further show that the ALP portal can be directly probed at colliders.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.457,
+"3202840"
+],
+[
+0.325,
+"3201080"
+],
+[
+0.041,
+"1843058"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"direct detection"
+],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+1,
+0.0,
+0.26
+],
+"score": 17.6
+},
+{
 "arxiv": "2611.14473",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227293",
+"src": "INSPIRE",
 "nref": 106,
 "title": "Running out of Field Range: Nonlinear Sourcing of Light Scalars",
 "authors": [
@@ -864,8 +861,8 @@
 {
 "arxiv": "2611.14251",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227230",
+"src": "INSPIRE",
 "nref": 30,
 "title": "The $χ_{c1}(3872)$ Multiplet in the Diabatic Dynamical Diquark Model",
 "authors": [
@@ -912,7 +909,7 @@
 "parts": [
 0.45,
 0.0,
-0.07,
+0.08,
 0.0,
 0.0
 ],
@@ -1540,8 +1537,8 @@
 {
 "arxiv": "2611.14170",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227220",
+"src": "INSPIRE",
 "nref": 26,
 "title": "Projected sensitivity of the ANUBUIS detector to tau-coupled Heavy Neutral Leptons",
 "authors": [
@@ -1555,29 +1552,29 @@
 "citE": [],
 "topR": [
 [
-0.038,
+0.037,
 "1615477"
 ],
 [
-0.023,
+0.022,
 "1671831"
 ],
 [
-0.018,
+0.017,
 "1455793"
 ]
 ],
 "topE": [
 [
-0.104,
+0.101,
 "3171459"
 ],
 [
-0.072,
+0.07,
 "3158084"
 ],
 [
-0.057,
+0.055,
 "2174629"
 ]
 ],
@@ -1588,11 +1585,11 @@
 "parts": [
 0.0,
 0.11,
-0.3,
+0.29,
 0.0,
 0.0
 ],
-"score": 7.8
+"score": 7.6
 },
 {
 "arxiv": "2611.13073",
@@ -1937,8 +1934,8 @@
 {
 "arxiv": "2611.14318",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227265",
+"src": "INSPIRE",
 "nref": 50,
 "title": "Resolved $Q_1^q$-$Q_{7γ}$ interference in $\\bar{B}\\to X_sγ$ at NLO: Hard matching and radiative charm-loop jet function for $m_c \\to 0$",
 "authors": [
@@ -3356,9 +3353,9 @@
 {
 "arxiv": "2611.14086",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 65,
+"recid": "3227215",
+"src": "INSPIRE",
+"nref": 70,
 "title": "Cosmic String Networks with Time-Varying Tension: Field-Theory Simulations and an Analytic Model",
 "authors": [
 "José Correia",
@@ -3387,7 +3384,7 @@
 "2053590"
 ],
 [
-0.029,
+0.03,
 "2736974"
 ],
 [
@@ -3682,6 +3679,60 @@
 "score": 1.0
 },
 {
+"arxiv": "2611.14388",
+"section": "new",
+"recid": "3227273",
+"src": "INSPIRE",
+"nref": 78,
+"title": "The two-component picture of soft hadron production: Regge exchange, duality, and resonance cascades",
+"authors": [
+"Ondrej Chvala"
+],
+"abstract": "The fragmentation regions of soft hadronic collisions approach energy-independent limits. Benecke, Chou, Yang, and Yen stated this hypothesis of limiting fragmentation in 1969. Feynman gave it a parton-model formulation the same year. Measurements from the CERN Intersecting Storage Rings (ISR) to the Large Hadron Collider (LHC) still show this approach. Fischer and co-workers interpret the NA49 spectra from the CERN Super Proton Synchrotron (SPS) as the sum of a target and a projectile component, each the decay of an excited hadronic system. This review traces the theory behind that two-component picture. It examines the hypothesis that the hadronic tools that predate quantum chromodynamics (QCD) suffice for the soft, non-perturbative domain of QCD. Regge exchange organizes the fragmentation region in triple-Regge form. It supplies the diffractive mass law of the excited systems, with the shrinkage of the Pomeron in its transfer dependence. Finite-energy sum rules and the two-component duality of Harari and Freund equate averaged towers of resonances with that exchange. Duality therefore motivates describing the excited systems in hadronic degrees of freedom. The review follows the cascade description through its predecessors, namely the fireballs of Niu, the novas of Jacob and Slansky, the clusters of Hwa, Good-Walker diffraction, and the two-stage dissociation of Hama. HEART (Hadronic Excitations And Resonance Transitions) assembles these pieces into an event-level cascade of two-body hadronic transitions. A companion paper (arXiv:2611.11570) defines it and tests it against the NA49 data. The review closes with the fragmentation-region measurements that would separate a resonance cascade from a string, namely the isospin of forward baryons, the local balance of strangeness in associated production, and forward resonance signals with their mass tails.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.02,
+"2946993"
+],
+[
+0.012,
+"2824738"
+],
+[
+0.01,
+"2878308"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.06,
+0.0,
+0.0
+],
+"score": 0.9
+},
+{
 "arxiv": "2611.13102",
 "section": "cross",
 "recid": "3226944",
@@ -3796,60 +3847,6 @@
 "score": 0.7
 },
 {
-"arxiv": "2611.14388",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 70,
-"title": "The two-component picture of soft hadron production: Regge exchange, duality, and resonance cascades",
-"authors": [
-"Ondrej Chvala"
-],
-"abstract": "The fragmentation regions of soft hadronic collisions approach energy-independent limits. Benecke, Chou, Yang, and Yen stated this hypothesis of limiting fragmentation in 1969. Feynman gave it a parton-model formulation the same year. Measurements from the CERN Intersecting Storage Rings (ISR) to the Large Hadron Collider (LHC) still show this approach. Fischer and co-workers interpret the NA49 spectra from the CERN Super Proton Synchrotron (SPS) as the sum of a target and a projectile component, each the decay of an excited hadronic system. This review traces the theory behind that two-component picture. It examines the hypothesis that the hadronic tools that predate quantum chromodynamics (QCD) suffice for the soft, non-perturbative domain of QCD. Regge exchange organizes the fragmentation region in triple-Regge form. It supplies the diffractive mass law of the excited systems, with the shrinkage of the Pomeron in its transfer dependence. Finite-energy sum rules and the two-component duality of Harari and Freund equate averaged towers of resonances with that exchange. Duality therefore motivates describing the excited systems in hadronic degrees of freedom. The review follows the cascade description through its predecessors, namely the fireballs of Niu, the novas of Jacob and Slansky, the clusters of Hwa, Good-Walker diffraction, and the two-stage dissociation of Hama. HEART (Hadronic Excitations And Resonance Transitions) assembles these pieces into an event-level cascade of two-body hadronic transitions. A companion paper (arXiv:2611.11570) defines it and tests it against the NA49 data. The review closes with the fragmentation-region measurements that would separate a resonance cascade from a string, namely the isospin of forward baryons, the local balance of strangeness in associated production, and forward resonance signals with their mass tails.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.014,
-"2824738"
-],
-[
-0.014,
-"2946993"
-],
-[
-0.012,
-"2878308"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.04,
-0.0,
-0.0
-],
-"score": 0.6
-},
-{
 "arxiv": "2611.13087",
 "section": "new",
 "recid": "3226927",
@@ -3907,8 +3904,8 @@
 {
 "arxiv": "2611.14351",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227247",
+"src": "INSPIRE",
 "nref": 47,
 "title": "Renormalization-group flow of nucleon--$Δ$ contact interactions with an explicit $Δ$: decoupling and the scale dependence of large-$N_c$ relations",
 "authors": [
@@ -3939,12 +3936,12 @@
 "3206672"
 ],
 [
-0.009,
-"2148109"
+0.011,
+"2788951"
 ],
 [
-0.007,
-"1796007"
+0.008,
+"2148109"
 ]
 ],
 "isme": false,
@@ -4022,7 +4019,7 @@
 "section": "replacement",
 "recid": "3179608",
 "src": "INSPIRE",
-"nref": 121,
+"nref": 124,
 "title": "High Energy Photon Polarimetry at Lepton Colliders: Quantum Information from Converted Photons",
 "authors": [
 "Carlos Henrique de Lima",
@@ -4067,7 +4064,7 @@
 "parts": [
 0.0,
 0.0,
-0.04,
+0.03,
 0.0,
 0.0
 ],
@@ -4076,8 +4073,8 @@
 {
 "arxiv": "2611.14331",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
+"recid": "3227268",
+"src": "INSPIRE",
 "nref": 30,
 "title": "Perturbative QCD Constraints on Hot Neutron-Star Matter",
 "authors": [
@@ -4186,9 +4183,9 @@
 {
 "arxiv": "2611.14243",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 196,
+"recid": "3227174",
+"src": "INSPIRE",
+"nref": 198,
 "title": "Relativistic tidal response and mode excitation in neutron-star binaries",
 "authors": [
 "Yong Gao",
