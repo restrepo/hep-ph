@@ -4,7 +4,7 @@
 "section": "replacement",
 "recid": "3105005",
 "src": "INSPIRE",
-"nref": 138,
+"nref": 133,
 "title": "Heavy Neutrinos across the Electroweak-to-Multi-TeV Frontier via Novel ML-Enhanced Probes",
 "authors": [
 "Yin-Fa Shen",
@@ -18,18 +18,18 @@
 "1615477"
 ],
 "citE": [
-"2842150",
 "2850596",
+"2842150",
 "2678842",
-"2173030",
 "1847826",
+"2173030",
 "1843058",
 "1634858",
 "2817040"
 ],
 "topR": [
 [
-0.185,
+0.184,
 "1615477"
 ],
 [
@@ -43,15 +43,15 @@
 ],
 "topE": [
 [
-1.0,
+0.995,
 "3105005"
 ],
 [
-0.367,
+0.379,
 "3139191"
 ],
 [
-0.303,
+0.302,
 "2850596"
 ]
 ],
@@ -66,12 +66,12 @@
 "watch": [],
 "parts": [
 0.99,
-0.5,
+0.49,
 1,
 1,
 0.33
 ],
-"score": 78.0
+"score": 77.9
 },
 {
 "arxiv": "2611.14616",
@@ -1285,7 +1285,7 @@
 "section": "replacement",
 "recid": "3198461",
 "src": "INSPIRE",
-"nref": 81,
+"nref": 77,
 "title": "Mixing-angle sensitivity of inclusive $Ξ_{bc} $ and $Ω_{bc}$ lifetimes",
 "authors": [
 "Hai-Yang Cheng",
@@ -1698,8 +1698,8 @@
 "title": "Connecting Electroweak Fine-Tuning, Tens-of-GeV Dark Matter, and Exotic Higgs Decays in the GNMSSM",
 "authors": [
 "Zhaoxia Heng",
-"Haijing Zhou",
-"Fei Li"
+"Fei Li",
+"Haijing Zhou"
 ],
 "abstract": "In the general next-to-minimal supersymmetric standard model (GNMSSM), we connect electroweak fine-tuning, a singlino dark matter candidate with mass around tens of GeV, and Exotic Higgs Decays, identifying a natural region characterized by the mass hierarchy $m_{\\tilde{S}}<m_{\\tilde{B}}<m_{\\tilde{H}}$ and $μ_{\\rm tot}\\in [200, 500]$ GeV. For fine-tuning measure $Δ\\leq 40$, the branching ratio $\\mathrm{Br}(h\\to a_sa_s)$ falls in the range 7\\%$-$25\\%, with the pseudoscalar mass $m_{a_s}$ lying mostly between 10 and 20 GeV. This region splits into two viable scenarios consistent with LZ 2024 direct detection: one where the lightest CP-even Higgs $h_1$ is SM-like ($h_1$ case), and another where the second-lightest $h_2$ is SM-like ($h_2$ case). LHC searches for $h\\to a_sa_s \\to b\\bar{b}τ^+τ^-$ exclude 12\\% (10\\%) of samples with 12 GeV $\\leq m_{a_s} \\leq$ 15.5 GeV in the $h_1$ ($h_2$) case, while a substantial fraction remains accessible at the HL-LHC in the $h_2$ case. Our analysis unifies naturalness, dark matter, and observable exotic Higgs decays, yielding concrete targets for future experiments.",
 "citR": [],
@@ -2041,7 +2041,7 @@
 "section": "replacement",
 "recid": "2854064",
 "src": "INSPIRE",
-"nref": 89,
+"nref": 87,
 "title": "Generating the Dark Matter mass from the QCD vacuum: A new approach to the mass aspect of the Dark Matter-Baryon coincidence problem",
 "authors": [
 "Yi Chung"
@@ -3207,7 +3207,7 @@
 ],
 "topE": [
 [
-0.091,
+0.09,
 "2942451"
 ],
 [
@@ -4200,6 +4200,61 @@
 "score": 3.6
 },
 {
+"arxiv": "2611.16394",
+"section": "new",
+"recid": "3228862",
+"src": "INSPIRE",
+"nref": 39,
+"title": "Disentangling the Effects of Phase-Specific Transport Properties on Elliptic Flow Centrality Dependence in the AMPT Model",
+"authors": [
+"Yao Zhang",
+"Xipei Zhao"
+],
+"abstract": "The centrality dependence of charged hadron elliptic flow $v_{2}$ in Au+Au collisions at $\\sqrt{s_{NN}}=200~\\rm{GeV}$ is studied using the AMPT model with phase-specific control of partonic and hadronic transport properties. By separately varying the shear viscosity $η/s$, phase transition temperature $T_{tr}$, and hadronic scattering cross sections, we isolate their distinct effects on anisotropic flow. Hadronic rescattering is found to contribute increasingly to $v_{2}$ with centrality, with the contribution becoming dominant in peripheral collisions. Scaling up hadronic cross sections by a factor of four substantially amplifies $v_{2}$ in peripheral collisions and improves agreement with STAR data, suggesting that the flattening of $v_{2}$ at high centrality may reflect a larger effective hadronic cross section and highlighting the significant role of the hadronic phase in small systems.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.023,
+"794086"
+],
+[
+0.017,
+"796080"
+],
+[
+0.015,
+"1118587"
+]
+],
+"topE": [
+[
+0.03,
+"884965"
+],
+[
+0.028,
+"638517"
+],
+[
+0.016,
+"450497"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.07,
+0.09,
+0.0,
+0.0
+],
+"score": 3.4
+},
+{
 "arxiv": "2611.17139",
 "section": "cross",
 "recid": "3228242",
@@ -4587,7 +4642,7 @@
 "3188391"
 ],
 [
-0.011,
+0.012,
 "2923681"
 ]
 ],
@@ -5122,7 +5177,7 @@
 "section": "replacement",
 "recid": "3191799",
 "src": "INSPIRE",
-"nref": 127,
+"nref": 130,
 "title": "Quantum Simulation of QCD in Axial Gauge",
 "authors": [
 "Xiaojun Yao"
@@ -5910,7 +5965,7 @@
 "section": "replacement",
 "recid": "3157141",
 "src": "INSPIRE",
-"nref": 47,
+"nref": 46,
 "title": "Sequential Bayesian inference with correlated heavy-ion datasets",
 "authors": [
 "Lipei Du"
@@ -5934,11 +5989,11 @@
 ],
 "topE": [
 [
-0.025,
+0.026,
 "1881670"
 ],
 [
-0.013,
+0.014,
 "3216109"
 ],
 [
@@ -6244,13 +6299,13 @@
 "section": "cross",
 "recid": "3228168",
 "src": "INSPIRE",
-"nref": 36,
+"nref": 37,
 "title": "Resolving Radiogenic Heterogeneity in the Earth's Mantle with Multi-Site Geo-neutrino Measurements",
 "authors": [
 "Michael Leyton",
 "Stephen T. Dye"
 ],
-"abstract": "We present a global fit to geo-neutrino measurements at four underground sites (Kamioka, Gran Sasso, Sudbury, Jiangmen), combining signal rates with site-specific predictions of the lithospheric contribution to constrain the quantity and distribution of radioactivity in the Earth's mantle. Assuming a uniform distribution of radioactivity in the mantle, we find a geo-neutrino rate of $S_\\text{mantle} = 14.8 \\pm 4.5$ NIU when the lithospheric predictions are allowed to vary within their uncertainties. This uniform mantle signal rate corresponds to radiogenic heating of $18.5 \\pm 5.6$ TW. Although the uniform-mantle signal is resolved at $\\sim3.2σ$, there is noticeable tension between the inferred mantle signals at Jiangmen and Kamioka, which may indicate non-uniform geo-neutrino production in the mantle. We explore six families of models to describe the heterogeneous spatial distribution of radiogenic elements in the Earth's mantle. Each model contains anomalous bodies or reservoirs carrying an excess of heat-producing elements over a depleted mantle (DM) background, with total inventory set by bulk-silicate-Earth mass balance and by a geochemical Th/U constraint. For each model, we compute the geo-response at each detector site and fit the resulting signals to the four measurements. A total of 968,274 individual model configurations are defined and tested. The results of $\\sim$3 million distinct fits show that no plausible mantle or lithosphere model applied uniformly to all four sites reproduces the difference between the inferred mantle signals at the Jiangmen and Kamioka sites. Only local, site-specific prescriptions are able to reach the observed difference, suggesting that the Kamioka-Jiangmen tension is due to a local effect or statistical scatter, rather than large-scale mantle structure.",
+"abstract": "We present a global fit to geo-neutrino measurements at four underground sites (Kamioka, Gran Sasso, Sudbury, Jiangmen), combining signal rates with site-specific predictions of the lithospheric contribution to constrain the quantity and distribution of radioactivity in the Earth's mantle. Assuming a uniform distribution of radioactivity in the mantle, we find a geo-neutrino rate of $S_\\text{mantle} = 14.8 \\pm 4.5$ NIU when the lithospheric predictions are allowed to vary within their uncertainties. This uniform-mantle signal rate corresponds to radiogenic heating of $18.5 \\pm 5.6$ TW. Although the uniform-mantle signal is resolved at $\\sim3.2σ$, there is noticeable tension between the inferred mantle signals at Jiangmen and Kamioka, which may indicate non-uniform geo-neutrino production in the mantle. We explore six families of models to describe the heterogeneous spatial distribution of radiogenic elements in the Earth's mantle. Each model contains anomalous bodies or reservoirs carrying an excess of heat-producing elements over a depleted mantle (DM) background, with total inventory set by bulk-silicate-Earth mass balance and by a geochemical Th/U constraint. For each model, we compute the geo-response at each detector site and fit the resulting signals to the four measurements. A total of 968,274 individual model configurations are defined and tested. The results of $\\sim$3 million distinct fits show that no plausible mantle or lithosphere model applied uniformly to all four sites reproduces the difference between the inferred mantle signals at the Jiangmen and Kamioka sites. Only local, site-specific prescriptions are able to reach the observed difference, suggesting that the Kamioka-Jiangmen tension is due to a local effect or statistical scatter, rather than large-scale mantle structure.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -7705,61 +7760,6 @@
 "Bence Szentkuti"
 ],
 "abstract": "Femtoscopic measurements in heavy-ion collisions indicate that the pion source is Lévy-stable rather than Gaussian, while the source radii still follow the hydrodynamic scaling $R^2\\propto 1/m_T$. We call this coexistence the Lévy hydro puzzle. For a perfect fluid with $\\varepsilon=κp$ and $p=nT$, flow and pressure form a closed system, and density and temperature can be ``dressed'' by an arbitrary comoving function, generalising a freedom known from Hubble-type solutions to arbitrary flows. We show that, at nonzero pair momentum, the source is bounded by the pressure on the freeze-out hypersurface, so its tail can never be heavier than the pressure tail. This yields a criterion for power-law source tails with two routes: either the outer flow is ultra-relativistic and the temperature grows at least linearly (Hubble-type solutions), or the flow is slow, the temperature uniform, and the proper acceleration falls off as $1/r$. We present a new family of relativistic, accelerating, self-similar potential flows ($λ$-PF) and a new dressing of Gubser's flow. The acceleration of $λ$-PF generates no power-law tail, but with a Hubble-type dressing its source tail is Lévy-stable in a range of parameters, generalising the Hubble-type Lévy source to accelerating cores. The isothermally dressed Gubser flow realises the $1/r$ route: its tail exponent lies outside the Lévy-stable range, but over the measured range it gives Lévy-like sources with $1/R^2$ linear in $m_T$. Thus Lévy-like sources and the hydrodynamic $m_T$ scaling are compatible in perfect-fluid hydrodynamics, but hydrodynamics does not create the power-law tail: it is either inherited from a power-law pressure, requiring a $1/r$ acceleration, or put in through the dressing. We outline extensions towards non-spherical geometries and elliptic flow.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
-],
-[
-0.0,
-"914987"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.0,
-0.0,
-0.0
-],
-"score": 0.0
-},
-{
-"arxiv": "2611.16394",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 39,
-"title": "Disentangling the Effects of Phase-Specific Transport Properties on Elliptic Flow Centrality Dependence in the AMPT Model",
-"authors": [
-"Yao Zhang",
-"Xipei Zhao"
-],
-"abstract": "The centrality dependence of charged hadron elliptic flow $v_{2}$ in Au+Au collisions at $\\sqrt{s_{NN}}=200~\\rm{GeV}$ is studied using the AMPT model with phase-specific control of partonic and hadronic transport properties. By separately varying the shear viscosity $η/s$, phase transition temperature $T_{tr}$, and hadronic scattering cross sections, we isolate their distinct effects on anisotropic flow. Hadronic rescattering is found to contribute increasingly to $v_{2}$ with centrality, with the contribution becoming dominant in peripheral collisions. Scaling up hadronic cross sections by a factor of four substantially amplifies $v_{2}$ in peripheral collisions and improves agreement with STAR data, suggesting that the flattening of $v_{2}$ at high centrality may reflect a larger effective hadronic cross section and highlighting the significant role of the hadronic phase in small systems.",
 "citR": [],
 "citE": [],
 "topR": [

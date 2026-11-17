@@ -1,8 +1,64 @@
 [
  {
+  "date": "2026-11-17",
+  "page": "hep-ph-2026-11-17.html",
+  "built": "2026-11-17",
+  "code": "fe3c41287942",
+  "nlist": 89,
+  "nrel": 21,
+  "top": [
+   {
+    "arxiv": "2611.21278",
+    "title": "Mono-Z Signatures of Vector Dark Matter Detection at Future Electron-Positron Colliders: FCC-ee and ILC",
+    "score": 39.7,
+    "section": "new"
+   },
+   {
+    "arxiv": "2605.12946",
+    "title": "Minimal Majoron Dark Matter",
+    "score": 36.1,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2609.05291",
+    "title": "Inelastic from the Other Side: Xenon Excitation Signals in Light of the LZ High-Recoil Event",
+    "score": 31.3,
+    "section": "replacement"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "page": "hep-ph-2026-11-16.html",
+  "built": "2026-11-17",
+  "code": "fe3c41287942",
+  "nlist": 71,
+  "nrel": 11,
+  "top": [
+   {
+    "arxiv": "2611.18060",
+    "title": "Probing Dirac Heavy Neutral Leptons through EFT-Induced Meson Decays",
+    "score": 35.9,
+    "section": "new"
+   },
+   {
+    "arxiv": "2503.17727",
+    "title": "The Large Hadron electron Collider as a bridge project for CERN",
+    "score": 30.8,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2609.00121",
+    "title": "Neutrino Electroweak Couplings and the Neutrino Fog at Belle II",
+    "score": 30.6,
+    "section": "replacement"
+   }
+  ]
+ },
+ {
   "date": "2026-11-13",
   "page": "hep-ph-2026-11-13.html",
-  "built": "2026-11-14",
+  "built": "2026-11-17",
   "code": "fe3c41287942",
   "nlist": 140,
   "nrel": 31,
@@ -10,7 +66,7 @@
    {
     "arxiv": "2601.09095",
     "title": "Heavy Neutrinos across the Electroweak-to-Multi-TeV Frontier via Novel ML-Enhanced Probes",
-    "score": 78.0,
+    "score": 77.9,
     "section": "replacement"
    },
    {
