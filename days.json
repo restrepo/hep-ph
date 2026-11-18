@@ -1,8 +1,36 @@
 [
  {
+  "date": "2026-11-18",
+  "page": "hep-ph-2026-11-18.html",
+  "built": "2026-11-18",
+  "code": "fe3c41287942",
+  "nlist": 89,
+  "nrel": 19,
+  "top": [
+   {
+    "arxiv": "2611.21729",
+    "title": "Supernova Bounds on Neutrino Dipole Moments from a Modern Perspective",
+    "score": 43.7,
+    "section": "new"
+   },
+   {
+    "arxiv": "2511.10731",
+    "title": "Keeping It Renormalizable: Minimal Baryogenesis induced Asymmetric Dark Matter",
+    "score": 31.9,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2611.22421",
+    "title": "Top-Quark Physics after Evidence for Toponium",
+    "score": 29.5,
+    "section": "new"
+   }
+  ]
+ },
+ {
   "date": "2026-11-17",
   "page": "hep-ph-2026-11-17.html",
-  "built": "2026-11-17",
+  "built": "2026-11-18",
   "code": "fe3c41287942",
   "nlist": 89,
   "nrel": 21,
@@ -22,7 +50,7 @@
    {
     "arxiv": "2609.05291",
     "title": "Inelastic from the Other Side: Xenon Excitation Signals in Light of the LZ High-Recoil Event",
-    "score": 31.3,
+    "score": 31.6,
     "section": "replacement"
    }
   ]
@@ -30,7 +58,7 @@
  {
   "date": "2026-11-16",
   "page": "hep-ph-2026-11-16.html",
-  "built": "2026-11-17",
+  "built": "2026-11-18",
   "code": "fe3c41287942",
   "nlist": 71,
   "nrel": 11,
