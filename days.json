@@ -1,11 +1,39 @@
 [
  {
+  "date": "2026-11-19",
+  "page": "hep-ph-2026-11-19.html",
+  "built": "2026-11-19",
+  "code": "fe3c41287942",
+  "nlist": 74,
+  "nrel": 12,
+  "top": [
+   {
+    "arxiv": "2601.22740",
+    "title": "Radiative Dirac Neutrino Masses from Modular $S_3$ Symmetry in an Axion Model",
+    "score": 55.9,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2611.09478",
+    "title": "An interrelation of three neutrino mixing angles",
+    "score": 30.8,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2611.24241",
+    "title": "Search for Heavy Charged Higgs Bosons in Boosted Top and Bottom Quark Final States at a 1.4 TeV Future Lepton Collider",
+    "score": 27.0,
+    "section": "new"
+   }
+  ]
+ },
+ {
   "date": "2026-11-18",
   "page": "hep-ph-2026-11-18.html",
-  "built": "2026-11-18",
+  "built": "2026-11-19",
   "code": "fe3c41287942",
   "nlist": 89,
-  "nrel": 19,
+  "nrel": 18,
   "top": [
    {
     "arxiv": "2611.21729",
@@ -16,7 +44,7 @@
    {
     "arxiv": "2511.10731",
     "title": "Keeping It Renormalizable: Minimal Baryogenesis induced Asymmetric Dark Matter",
-    "score": 31.9,
+    "score": 43.2,
     "section": "replacement"
    },
    {
@@ -30,7 +58,7 @@
  {
   "date": "2026-11-17",
   "page": "hep-ph-2026-11-17.html",
-  "built": "2026-11-18",
+  "built": "2026-11-19",
   "code": "fe3c41287942",
   "nlist": 89,
   "nrel": 21,
