@@ -1,8 +1,36 @@
 [
  {
+  "date": "2026-11-20",
+  "page": "hep-ph-2026-11-20.html",
+  "built": "2026-11-20",
+  "code": "fe3c41287942",
+  "nlist": 82,
+  "nrel": 19,
+  "top": [
+   {
+    "arxiv": "2609.08918",
+    "title": "Probing the Inert Scalar Sector of the Inert Doublet Model via Vector-Boson Fusion at a Muon Collider",
+    "score": 47.5,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2605.27519",
+    "title": "Probing the dynamical inverse seesaw mechanism with low-frequency gravitational waves",
+    "score": 41.9,
+    "section": "replacement"
+   },
+   {
+    "arxiv": "2611.26274",
+    "title": "Photon-Mediated Axino-Bino Scattering Process for the LZ High-Energy Recoil Event",
+    "score": 33.6,
+    "section": "new"
+   }
+  ]
+ },
+ {
   "date": "2026-11-19",
   "page": "hep-ph-2026-11-19.html",
-  "built": "2026-11-19",
+  "built": "2026-11-20",
   "code": "fe3c41287942",
   "nlist": 74,
   "nrel": 12,
@@ -20,17 +48,17 @@
     "section": "replacement"
    },
    {
-    "arxiv": "2611.24241",
-    "title": "Search for Heavy Charged Higgs Bosons in Boosted Top and Bottom Quark Final States at a 1.4 TeV Future Lepton Collider",
-    "score": 27.0,
-    "section": "new"
+    "arxiv": "2608.23713",
+    "title": "Soft Scale Symmetry Breaking with Laguerre Explicit Regulators",
+    "score": 26.9,
+    "section": "replacement"
    }
   ]
  },
  {
   "date": "2026-11-18",
   "page": "hep-ph-2026-11-18.html",
-  "built": "2026-11-19",
+  "built": "2026-11-20",
   "code": "fe3c41287942",
   "nlist": 89,
   "nrel": 18,
