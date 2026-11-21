@@ -847,7 +847,7 @@
 "section": "replacement",
 "recid": "3167932",
 "src": "INSPIRE",
-"nref": 82,
+"nref": 80,
 "title": "Mass Varying Neutrino Oscillation in Teleparallel Gravity",
 "authors": [
 "H. Mohseni Sadjadi",
@@ -860,7 +860,7 @@
 ],
 "topR": [
 [
-0.04,
+0.039,
 "1854224"
 ],
 [
@@ -878,7 +878,7 @@
 "1796007"
 ],
 [
-0.041,
+0.04,
 "1864802"
 ],
 [
@@ -894,12 +894,12 @@
 "watch": [],
 "parts": [
 0.06,
-0.11,
+0.1,
 0.15,
 0.0,
 0.44
 ],
-"score": 11.8
+"score": 11.7
 },
 {
 "arxiv": "2611.26303",
@@ -1136,7 +1136,7 @@
 "section": "replacement",
 "recid": "3140676",
 "src": "INSPIRE",
-"nref": 131,
+"nref": 130,
 "title": "Aspects of a Five-Dimensional $U(1)_{L_μ- L_τ}$ Model at Future Muon-Based Colliders",
 "authors": [
 "Dibyendu Chakraborty",
@@ -1164,7 +1164,7 @@
 ],
 "topE": [
 [
-0.131,
+0.13,
 "1918090"
 ],
 [
@@ -1172,7 +1172,7 @@
 "2890702"
 ],
 [
-0.054,
+0.053,
 "1873642"
 ]
 ],
@@ -1189,7 +1189,7 @@
 0.0,
 0.18
 ],
-"score": 9.0
+"score": 8.9
 },
 {
 "arxiv": "2611.25795",
