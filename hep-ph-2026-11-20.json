@@ -32,7 +32,7 @@
 "1402978"
 ],
 [
-0.026,
+0.025,
 "1627633"
 ]
 ],
@@ -42,7 +42,7 @@
 "3188716"
 ],
 [
-0.131,
+0.132,
 "2115290"
 ],
 [
@@ -63,7 +63,7 @@
 0.0,
 0.52
 ],
-"score": 47.5
+"score": 47.4
 },
 {
 "arxiv": "2605.27519",
@@ -102,7 +102,7 @@
 ],
 "topE": [
 [
-0.218,
+0.219,
 "3190827"
 ],
 [
@@ -110,7 +110,7 @@
 "2969254"
 ],
 [
-0.103,
+0.104,
 "3085923"
 ]
 ],
@@ -222,7 +222,7 @@
 ],
 "topE": [
 [
-0.276,
+0.277,
 "3202840"
 ],
 [
@@ -230,7 +230,7 @@
 "3201080"
 ],
 [
-0.044,
+0.045,
 "2794409"
 ]
 ],
@@ -274,7 +274,7 @@
 "2080612"
 ],
 [
-0.022,
+0.023,
 "922002"
 ]
 ],
@@ -325,11 +325,11 @@
 "citE": [],
 "topR": [
 [
-0.093,
+0.094,
 "1220579"
 ],
 [
-0.081,
+0.08,
 "2859009"
 ],
 [
@@ -339,11 +339,11 @@
 ],
 "topE": [
 [
-0.211,
+0.212,
 "2962467"
 ],
 [
-0.064,
+0.065,
 "3139191"
 ],
 [
@@ -362,11 +362,11 @@
 "parts": [
 0.0,
 0.29,
-0.6,
+0.61,
 0.0,
 0.68
 ],
-"score": 24.5
+"score": 24.6
 },
 {
 "arxiv": "2611.21252",
@@ -390,7 +390,7 @@
 "1708009"
 ],
 [
-0.01,
+0.011,
 "1854224"
 ],
 [
@@ -404,7 +404,7 @@
 "2721859"
 ],
 [
-0.032,
+0.033,
 "3127309"
 ],
 [
@@ -449,7 +449,7 @@
 ],
 "topR": [
 [
-0.025,
+0.026,
 "1455793"
 ],
 [
@@ -467,7 +467,7 @@
 "1857809"
 ],
 [
-0.034,
+0.033,
 "2850123"
 ],
 [
@@ -486,7 +486,7 @@
 0.0,
 0.0
 ],
-"score": 20.3
+"score": 20.4
 },
 {
 "arxiv": "2506.20113",
@@ -508,11 +508,11 @@
 ],
 "topR": [
 [
-0.03,
+0.031,
 "2859009"
 ],
 [
-0.027,
+0.028,
 "1627633"
 ],
 [
@@ -522,15 +522,15 @@
 ],
 "topE": [
 [
-0.136,
+0.135,
 "1976965"
 ],
 [
-0.108,
+0.105,
 "2775441"
 ],
 [
-0.1,
+0.098,
 "1932468"
 ]
 ],
@@ -546,8 +546,8 @@
 "watch": [],
 "parts": [
 0.11,
-0.09,
-0.39,
+0.1,
+0.38,
 0.0,
 0.76
 ],
@@ -592,7 +592,7 @@
 "1127719"
 ],
 [
-0.034,
+0.033,
 "1710056"
 ],
 [
@@ -709,12 +709,12 @@
 "813721"
 ],
 [
-0.016,
-"3193100"
-],
-[
 0.014,
 "3227657"
+],
+[
+0.013,
+"3214449"
 ]
 ],
 "isme": false,
@@ -874,7 +874,7 @@
 ],
 "topE": [
 [
-0.051,
+0.049,
 "1796007"
 ],
 [
@@ -882,7 +882,7 @@
 "1864802"
 ],
 [
-0.04,
+0.039,
 "1873642"
 ]
 ],
@@ -895,11 +895,67 @@
 "parts": [
 0.06,
 0.1,
-0.15,
+0.14,
 0.0,
-0.44
+0.43
 ],
-"score": 11.7
+"score": 11.6
+},
+{
+"arxiv": "2611.25872",
+"section": "new",
+"recid": "3231299",
+"src": "INSPIRE",
+"nref": 39,
+"title": "Majorana dark matter from a thick-to-thin brane junction: Modal stability, real-mediator coannihilation, and a dark-radiation imprint",
+"authors": [
+"F. A. Brito"
+],
+"abstract": "We show that the localized spectrum of a $D=7$ thick-to-thin brane junction can host a thermal Majorana dark-matter candidate. The anisotropy of the wall widths isolates a light junction fermion, which a four-dimensional Majorana mass splits into two nearby states. The factorized transverse profiles impose a modal selection rule on all cubic couplings, and together with the relaxation of the softly deformed background this makes the lighter state stable without an imposed dark parity. Because the localized mediator is a real scalar, identical Majorana particles annihilate in the $s$ wave, and the relic coupling becomes nearly independent of the Majorana mass. The junction sector is a Standard-Model singlet whose light chiral mode is a source of dark radiation. Current CMB data restrict its decoupling temperature and imply $0.05\\lesssim\\dNeff\\lesssim0.076$ for dark-matter masses between $10\\GeV$ and $1.5\\TeV$, a range accessible to next-generation CMB surveys.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.044,
+"1746620"
+],
+[
+0.037,
+"1220579"
+],
+[
+0.027,
+"2080612"
+]
+],
+"topE": [
+[
+0.101,
+"2958466"
+],
+[
+0.071,
+"3139191"
+],
+[
+0.067,
+"3070024"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"majorana mass"
+],
+"watch": [],
+"parts": [
+0.0,
+0.13,
+0.29,
+0.0,
+0.27
+],
+"score": 11.1
 },
 {
 "arxiv": "2611.26303",
@@ -957,62 +1013,6 @@
 0.46
 ],
 "score": 11.1
-},
-{
-"arxiv": "2611.25872",
-"section": "new",
-"recid": "3231299",
-"src": "INSPIRE",
-"nref": 39,
-"title": "Majorana dark matter from a thick-to-thin brane junction: Modal stability, real-mediator coannihilation, and a dark-radiation imprint",
-"authors": [
-"F. A. Brito"
-],
-"abstract": "We show that the localized spectrum of a $D=7$ thick-to-thin brane junction can host a thermal Majorana dark-matter candidate. The anisotropy of the wall widths isolates a light junction fermion, which a four-dimensional Majorana mass splits into two nearby states. The factorized transverse profiles impose a modal selection rule on all cubic couplings, and together with the relaxation of the softly deformed background this makes the lighter state stable without an imposed dark parity. Because the localized mediator is a real scalar, identical Majorana particles annihilate in the $s$ wave, and the relic coupling becomes nearly independent of the Majorana mass. The junction sector is a Standard-Model singlet whose light chiral mode is a source of dark radiation. Current CMB data restrict its decoupling temperature and imply $0.05\\lesssim\\dNeff\\lesssim0.076$ for dark-matter masses between $10\\GeV$ and $1.5\\TeV$, a range accessible to next-generation CMB surveys.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.043,
-"1746620"
-],
-[
-0.037,
-"1220579"
-],
-[
-0.027,
-"2080612"
-]
-],
-"topE": [
-[
-0.101,
-"2958466"
-],
-[
-0.07,
-"3139191"
-],
-[
-0.067,
-"3070024"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"majorana mass"
-],
-"watch": [],
-"parts": [
-0.0,
-0.13,
-0.29,
-0.0,
-0.27
-],
-"score": 11.0
 },
 {
 "arxiv": "2605.01318",
@@ -1110,7 +1110,7 @@
 "3219721"
 ],
 [
-0.151,
+0.152,
 "2862278"
 ],
 [
@@ -1129,7 +1129,7 @@
 0.0,
 0.0
 ],
-"score": 10.4
+"score": 10.3
 },
 {
 "arxiv": "2604.05041",
@@ -1172,7 +1172,7 @@
 "2890702"
 ],
 [
-0.053,
+0.054,
 "1873642"
 ]
 ],
@@ -1214,7 +1214,7 @@
 "1708009"
 ],
 [
-0.013,
+0.014,
 "599285"
 ],
 [
@@ -1224,15 +1224,15 @@
 ],
 "topE": [
 [
-0.108,
+0.109,
 "2917228"
 ],
 [
-0.095,
+0.096,
 "2728774"
 ],
 [
-0.084,
+0.085,
 "2085162"
 ]
 ],
@@ -1242,12 +1242,12 @@
 "watch": [],
 "parts": [
 0.06,
-0.06,
+0.07,
 0.31,
 0.0,
 0.0
 ],
-"score": 8.6
+"score": 8.7
 },
 {
 "arxiv": "2611.26549",
@@ -1339,7 +1339,7 @@
 ],
 "topE": [
 [
-0.061,
+0.062,
 "2719600"
 ],
 [
@@ -1360,10 +1360,10 @@
 "watch": [],
 "parts": [
 0.0,
-0.03,
+0.04,
 0.18,
 0.0,
-0.41
+0.4
 ],
 "score": 7.7
 },
@@ -1449,12 +1449,12 @@
 "1494411"
 ],
 [
-0.067,
-"3193100"
-],
-[
 0.06,
 "1724453"
+],
+[
+0.056,
+"2817040"
 ]
 ],
 "isme": false,
@@ -1599,7 +1599,7 @@
 "1394206"
 ],
 [
-0.022,
+0.021,
 "824906"
 ],
 [
@@ -1609,11 +1609,11 @@
 ],
 "topE": [
 [
-0.092,
+0.093,
 "1410582"
 ],
 [
-0.089,
+0.09,
 "2829800"
 ],
 [
@@ -1628,11 +1628,11 @@
 "parts": [
 0.0,
 0.1,
-0.26,
+0.27,
 0.0,
 0.0
 ],
-"score": 6.9
+"score": 7.0
 },
 {
 "arxiv": "2611.25016",
@@ -1670,11 +1670,11 @@
 "2630211"
 ],
 [
-0.045,
+0.046,
 "2778553"
 ],
 [
-0.04,
+0.041,
 "3073459"
 ]
 ],
@@ -1765,7 +1765,7 @@
 "citE": [],
 "topR": [
 [
-0.027,
+0.028,
 "2855387"
 ],
 [
@@ -1779,15 +1779,15 @@
 ],
 "topE": [
 [
-0.077,
+0.078,
 "1955022"
 ],
 [
-0.068,
+0.069,
 "2697191"
 ],
 [
-0.056,
+0.057,
 "2736974"
 ]
 ],
@@ -1820,25 +1820,25 @@
 "citE": [],
 "topR": [
 [
-0.028,
+0.029,
 "1615477"
 ],
 [
-0.024,
+0.025,
 "1627633"
 ],
 [
-0.017,
+0.018,
 "1455793"
 ]
 ],
 "topE": [
 [
-0.082,
+0.077,
 "1866947"
 ],
 [
-0.075,
+0.076,
 "2115290"
 ],
 [
@@ -1853,11 +1853,11 @@
 "parts": [
 0.0,
 0.09,
-0.23,
+0.22,
 0.0,
 0.0
 ],
-"score": 6.1
+"score": 6.0
 },
 {
 "arxiv": "2611.26418",
@@ -1880,12 +1880,12 @@
 "1854224"
 ],
 [
-0.015,
-"599285"
+0.014,
+"796080"
 ],
 [
 0.014,
-"796080"
+"599285"
 ]
 ],
 "topE": [
@@ -1894,12 +1894,12 @@
 "3158607"
 ],
 [
-0.067,
+0.068,
 "2049444"
 ],
 [
 0.033,
-"1814631"
+"2942840"
 ]
 ],
 "isme": false,
@@ -2143,7 +2143,7 @@
 0.0,
 0.0
 ],
-"score": 4.4
+"score": 4.5
 },
 {
 "arxiv": "2611.25044",
@@ -2176,11 +2176,11 @@
 ],
 "topE": [
 [
-0.064,
+0.065,
 "1494411"
 ],
 [
-0.063,
+0.064,
 "1857809"
 ],
 [
@@ -2195,7 +2195,7 @@
 "parts": [
 0.0,
 0.04,
-0.18,
+0.19,
 0.0,
 0.0
 ],
@@ -2404,11 +2404,11 @@
 "3206672"
 ],
 [
-0.03,
+0.031,
 "1674879"
 ],
 [
-0.027,
+0.028,
 "2146683"
 ]
 ],
@@ -2547,7 +2547,7 @@
 "recid": "3230906",
 "src": "INSPIRE",
 "nref": 30,
-"title": "Reproducing $J/ψ\\to γ+3P$ data with meson spectroscopy and understanding $X(2370)$",
+"title": "$X(2370)$ without exceptionalism from reanalyzing $J/ψ\\to γ+ 3P$ data",
 "authors": [
 "Tian-Cai Peng",
 "Xiang Liu"
@@ -2577,7 +2577,7 @@
 "1932468"
 ],
 [
-0.016,
+0.017,
 "3193100"
 ],
 [
@@ -2597,120 +2597,6 @@
 0.0
 ],
 "score": 3.3
-},
-{
-"arxiv": "2604.27993",
-"section": "replacement",
-"recid": "3150539",
-"src": "INSPIRE",
-"nref": 364,
-"title": "Hadron properties at finite temperature",
-"authors": [
-"Juan M. Torres-Rincon",
-"Glòria Montaña"
-],
-"abstract": "This review provides an overview of thermal effects on hadron properties, focusing on the theoretical frameworks used to describe in-medium modifications of masses, decay widths, and spectral functions. We examine the application of finite-temperature quantum field theory---specifically the imaginary-time formalism (ITF)---to analyze both light- and heavy-hadron sectors. For light hadrons, we discuss the role of chiral symmetry restoration and the different definitions of thermal masses in effective field theories, like chiral perturbation theory. In the heavy-flavor sector, we review recent progress in describing open-heavy mesons and quarkonia using self-consistent unitarized approaches and nonrelativistic effective field theories. All these results are complemented by analyses of recent lattice-QCD calculations using the Euclidean formulation of QCD at finite temperature, relevant to extracting screening masses and reconstructing spectral functions. Finally, we discuss the phenomenological impact of the thermal modifications on experimental observables in relativistic heavy-ion collisions, including numerical simulations, dilepton spectra, transport coefficients, and hadron femtoscopy. By combining phenomenological considerations with robust theoretical tools, this review provides a coherent picture of how thermal effects emerge in the hadronic phase and how they can be systematically studied within controlled frameworks. Ultimately, the discussion serves as a bridge between experimental observations in relativistic heavy-ion collisions and fundamental developments in finite-temperature QCD and effective field theories for hadronic systems.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.005,
-"783258"
-],
-[
-0.002,
-"2690106"
-],
-[
-0.001,
-"2855387"
-]
-],
-"topE": [
-[
-0.017,
-"3193100"
-],
-[
-0.015,
-"1710056"
-],
-[
-0.014,
-"2817040"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.06,
-0.01,
-0.05,
-0.0,
-0.0
-],
-"score": 3.2
-},
-{
-"arxiv": "2611.26291",
-"section": "new",
-"recid": "3231053",
-"src": "INSPIRE",
-"nref": 389,
-"title": "Who Moved My $Z$ Boson? Revealing Resonance Features Inside a Neural Network",
-"authors": [
-"Kevin Alberto Urquía Calderón",
-"Midori Kato",
-"Inar Timiryasov",
-"Oleg Ruchayskiy"
-],
-"abstract": "Methods used in mechanistic interpretability have revealed human-aligned concepts inside language and image models. In this paper, we search for physics concepts inside a neural a generative collider physics model trained on real LHC data (ShellFlow). We discover features inside ShellFlow that represent resonances, such as the $Z$, $J/ψ$, and $Υ$. The network was never told which muons come from a resonance, it was only trained to generate the kinematics of the final-state particles. We use these features to alter aspects of the $Z$ boson: we change its mass between $\\sim80$ and $105$ GeV, and removing such a feature from the neural network produces a broader $Z$ peak. In both cases the rest of the invariant mass spectrum remains mostly unchanged. The feature was built from the gradients of the neural network, and its selectivity was built using pattern recognition methods. A generative particle physics model trained on unlabeled data can be modified internally to change a physical quantity.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.018,
-"1615477"
-],
-[
-0.016,
-"796080"
-],
-[
-0.0,
-"926166"
-]
-],
-"topE": [
-[
-0.036,
-"2035302"
-],
-[
-0.035,
-"2808396"
-],
-[
-0.031,
-"2104699"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.05,
-0.1,
-0.0,
-0.0
-],
-"score": 3.1
 },
 {
 "arxiv": "2607.06255",
@@ -2749,7 +2635,7 @@
 "1688995"
 ],
 [
-0.01,
+0.012,
 "3193100"
 ],
 [
@@ -2769,6 +2655,120 @@
 0.0
 ],
 "score": 3.1
+},
+{
+"arxiv": "2604.27993",
+"section": "replacement",
+"recid": "3150539",
+"src": "INSPIRE",
+"nref": 364,
+"title": "Hadron properties at finite temperature",
+"authors": [
+"Juan M. Torres-Rincon",
+"Glòria Montaña"
+],
+"abstract": "This review provides an overview of thermal effects on hadron properties, focusing on the theoretical frameworks used to describe in-medium modifications of masses, decay widths, and spectral functions. We examine the application of finite-temperature quantum field theory---specifically the imaginary-time formalism (ITF)---to analyze both light- and heavy-hadron sectors. For light hadrons, we discuss the role of chiral symmetry restoration and the different definitions of thermal masses in effective field theories, like chiral perturbation theory. In the heavy-flavor sector, we review recent progress in describing open-heavy mesons and quarkonia using self-consistent unitarized approaches and nonrelativistic effective field theories. All these results are complemented by analyses of recent lattice-QCD calculations using the Euclidean formulation of QCD at finite temperature, relevant to extracting screening masses and reconstructing spectral functions. Finally, we discuss the phenomenological impact of the thermal modifications on experimental observables in relativistic heavy-ion collisions, including numerical simulations, dilepton spectra, transport coefficients, and hadron femtoscopy. By combining phenomenological considerations with robust theoretical tools, this review provides a coherent picture of how thermal effects emerge in the hadronic phase and how they can be systematically studied within controlled frameworks. Ultimately, the discussion serves as a bridge between experimental observations in relativistic heavy-ion collisions and fundamental developments in finite-temperature QCD and effective field theories for hadronic systems.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.005,
+"783258"
+],
+[
+0.002,
+"2690106"
+],
+[
+0.001,
+"2855387"
+]
+],
+"topE": [
+[
+0.015,
+"1710056"
+],
+[
+0.014,
+"2923681"
+],
+[
+0.014,
+"2817040"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.06,
+0.01,
+0.04,
+0.0,
+0.0
+],
+"score": 3.1
+},
+{
+"arxiv": "2611.26291",
+"section": "new",
+"recid": "3231053",
+"src": "INSPIRE",
+"nref": 389,
+"title": "Who Moved My $Z$ Boson? Revealing Resonance Features Inside a Neural Network",
+"authors": [
+"Kevin Alberto Urquía Calderón",
+"Midori Kato",
+"Inar Timiryasov",
+"Oleg Ruchayskiy"
+],
+"abstract": "Methods used in mechanistic interpretability have revealed human-aligned concepts inside language and image models. In this paper, we search for physics concepts inside a neural a generative collider physics model trained on real LHC data (ShellFlow). We discover features inside ShellFlow that represent resonances, such as the $Z$, $J/ψ$, and $Υ$. The network was never told which muons come from a resonance, it was only trained to generate the kinematics of the final-state particles. We use these features to alter aspects of the $Z$ boson: we change its mass between $\\sim80$ and $105$ GeV, and removing such a feature from the neural network produces a broader $Z$ peak. In both cases the rest of the invariant mass spectrum remains mostly unchanged. The feature was built from the gradients of the neural network, and its selectivity was built using pattern recognition methods. A generative particle physics model trained on unlabeled data can be modified internally to change a physical quantity.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.017,
+"1615477"
+],
+[
+0.016,
+"796080"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.036,
+"3231959"
+],
+[
+0.034,
+"2035302"
+],
+[
+0.032,
+"2808396"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.05,
+0.1,
+0.0,
+0.0
+],
+"score": 3.0
 },
 {
 "arxiv": "2611.26362",
@@ -2807,7 +2807,7 @@
 "1710056"
 ],
 [
-0.005,
+0.003,
 "3193100"
 ]
 ],
@@ -2823,6 +2823,64 @@
 0.0
 ],
 "score": 3.0
+},
+{
+"arxiv": "2611.26357",
+"section": "cross",
+"recid": "3231386",
+"src": "INSPIRE",
+"nref": 157,
+"title": "The antibaryon-baryon interaction based on chiral EFT with a focus on $\\bar pp$ and $\\barΛΛ$ reactions",
+"authors": [
+"Qin-He Yang",
+"Johann Haidenbauer",
+"Ulf-G. Meißner"
+],
+"abstract": "The antibaryon-baryon ($\\bar BB$) interaction is reviewed in the context of the hyperon(Y)-production reactions $\\bar NN\\to\\bar YY$ with special emphasis on the $\\bar ΛΛ$ system. The experimental situation for $\\bar BB\\to\\bar YY$ from threshold up to antiproton lab momenta of $2$ GeV/c is discussed and likewise past theoretical approaches and results. The formalism for a description of the $\\bar BB$ interaction in terms of potentials derived within SU(3) chiral effective field theory (EFT) is outlined. Constraints from SU(3) flavor symmetry on the $\\bar BB$ interaction in the various reaction channels are discussed. As concrete application a new analysis of the reaction $\\bar pp\\to\\bar ΛΛ$ is performed utilizing potentials for the $\\bar NN$ and $\\bar ΛΛ$ channels, and for the $\\bar NN\\to\\barΛΛ$ transition, up to next-to-leading order in the chiral expansion, supplemented by a phenomenological part to account for annihilation processes. An excellent reproduction of data from the PS185 experiment at CERN up to momenta of $1.55$ GeV/c is achieved. When including higher-order contact terms in the analysis the range of agreement can be extended up to momenta around $1.65$ GeV/c, where a complete set of scattering observables is available. Predictions for $\\barΛΛ$ scattering are provided and compared to results from the literature.",
+"citR": [],
+"citE": [
+"2817040"
+],
+"topR": [
+[
+0.003,
+"2690106"
+],
+[
+0.002,
+"2855387"
+],
+[
+0.0,
+"926166"
+]
+],
+"topE": [
+[
+0.015,
+"3193100"
+],
+[
+0.005,
+"2817040"
+],
+[
+0.005,
+"651524"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.06,
+0.01,
+0.04,
+0.0,
+0.0
+],
+"score": 2.9
 },
 {
 "arxiv": "2512.21642",
@@ -2862,12 +2920,12 @@
 "2817040"
 ],
 [
-0.011,
-"3193100"
-],
-[
 0.009,
 "2946993"
+],
+[
+0.008,
+"3193100"
 ]
 ],
 "isme": false,
@@ -3027,7 +3085,7 @@
 ],
 "topE": [
 [
-0.04,
+0.041,
 "2104699"
 ],
 [
@@ -3105,64 +3163,6 @@
 0.06,
 0.0,
 0.07
-],
-"score": 2.5
-},
-{
-"arxiv": "2611.26357",
-"section": "cross",
-"recid": "3231386",
-"src": "INSPIRE",
-"nref": 157,
-"title": "The antibaryon-baryon interaction based on chiral EFT with a focus on $\\bar pp$ and $\\barΛΛ$ reactions",
-"authors": [
-"Qin-He Yang",
-"Johann Haidenbauer",
-"Ulf-G. Meißner"
-],
-"abstract": "The antibaryon-baryon ($\\bar BB$) interaction is reviewed in the context of the hyperon(Y)-production reactions $\\bar NN\\to\\bar YY$ with special emphasis on the $\\bar ΛΛ$ system. The experimental situation for $\\bar BB\\to\\bar YY$ from threshold up to antiproton lab momenta of $2$ GeV/c is discussed and likewise past theoretical approaches and results. The formalism for a description of the $\\bar BB$ interaction in terms of potentials derived within SU(3) chiral effective field theory (EFT) is outlined. Constraints from SU(3) flavor symmetry on the $\\bar BB$ interaction in the various reaction channels are discussed. As concrete application a new analysis of the reaction $\\bar pp\\to\\bar ΛΛ$ is performed utilizing potentials for the $\\bar NN$ and $\\bar ΛΛ$ channels, and for the $\\bar NN\\to\\barΛΛ$ transition, up to next-to-leading order in the chiral expansion, supplemented by a phenomenological part to account for annihilation processes. An excellent reproduction of data from the PS185 experiment at CERN up to momenta of $1.55$ GeV/c is achieved. When including higher-order contact terms in the analysis the range of agreement can be extended up to momenta around $1.65$ GeV/c, where a complete set of scattering observables is available. Predictions for $\\barΛΛ$ scattering are provided and compared to results from the literature.",
-"citR": [],
-"citE": [
-"2817040"
-],
-"topR": [
-[
-0.002,
-"2690106"
-],
-[
-0.002,
-"2855387"
-],
-[
-0.0,
-"926166"
-]
-],
-"topE": [
-[
-0.007,
-"3193100"
-],
-[
-0.005,
-"2817040"
-],
-[
-0.004,
-"3095799"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.06,
-0.01,
-0.02,
-0.0,
-0.0
 ],
 "score": 2.5
 },
@@ -3445,7 +3445,7 @@
 0.0,
 0.0
 ],
-"score": 1.7
+"score": 1.8
 },
 {
 "arxiv": "2611.25473",
@@ -3601,8 +3601,8 @@
 "2817040"
 ],
 [
-0.015,
-"3193100"
+0.014,
+"1688995"
 ]
 ],
 "isme": false,
@@ -3617,6 +3617,62 @@
 0.0
 ],
 "score": 1.6
+},
+{
+"arxiv": "2611.25910",
+"section": "new",
+"recid": "3231896",
+"src": "INSPIRE",
+"nref": 66,
+"title": "New unintegrated gluon density in proton and nuclei tested with small $x$ processes at modern colliders",
+"authors": [
+"Maxim Malyshev",
+"Artem Lipatov",
+"Gennady Lykasov"
+],
+"abstract": "We present a new unintegrated, or transverse momentum dependent (TMD) gluon density in proton and nuclei. Parameters of the new function have been obtained from a fit on inclusive soft charged hadron production and structure functions at low scales, and from comparison with data on a number of processes at higher scales results taken at LHC and HERA, such as heavy quarks production, prompt photon photoproduction and Higgs boson production. A modification employing the geometric scaling approach has been made to extend the obtained parton density to the case of light and heavy nuclei. As a test of the nuclear TMD distribution we perform a calculation of the charged hadrons multiplicity spectra in pPb collisions at the LHC energies.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.034,
+"2946993"
+],
+[
+0.031,
+"2102705"
+],
+[
+0.022,
+"2824738"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.1,
+0.0,
+0.0
+],
+"score": 1.5
 },
 {
 "arxiv": "2611.25913",
@@ -3839,62 +3895,6 @@
 "score": 1.3
 },
 {
-"arxiv": "2611.25910",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 66,
-"title": "New unintegrated gluon density in proton and nuclei tested with small $x$ processes at modern colliders",
-"authors": [
-"Maxim Malyshev",
-"Artem Lipatov",
-"Gennady Lykasov"
-],
-"abstract": "We present a new unintegrated, or transverse momentum dependent (TMD) gluon density in proton and nuclei. Parameters of the new function have been obtained from a fit on inclusive soft charged hadron production and structure functions at low scales, and from comparison with data on a number of processes at higher scales results taken at LHC and HERA, such as heavy quarks production, prompt photon photoproduction and Higgs boson production. A modification employing the geometric scaling approach has been made to extend the obtained parton density to the case of light and heavy nuclei. As a test of the nuclear TMD distribution we perform a calculation of the charged hadrons multiplicity spectra in pPb collisions at the LHC energies.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.027,
-"2824738"
-],
-[
-0.017,
-"2102705"
-],
-[
-0.016,
-"2946993"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.08,
-0.0,
-0.0
-],
-"score": 1.1
-},
-{
 "arxiv": "2611.26013",
 "section": "cross",
 "recid": "3231348",
@@ -3986,12 +3986,12 @@
 "2946993"
 ],
 [
-0.02,
-"3193100"
-],
-[
 0.018,
 "2824738"
+],
+[
+0.016,
+"2817040"
 ]
 ],
 "isme": false,
@@ -4092,16 +4092,16 @@
 ],
 "topE": [
 [
-0.018,
+0.019,
 "3206672"
 ],
 [
 0.013,
-"3193100"
+"2817040"
 ],
 [
-0.013,
-"2817040"
+0.012,
+"2946993"
 ]
 ],
 "isme": false,
@@ -4576,13 +4576,13 @@
 "section": "cross",
 "recid": "3231070",
 "src": "INSPIRE",
-"nref": 84,
+"nref": 99,
 "title": "Classification of Chern-Simons Couplings and Deformed Pull-Backs on D-Branes",
 "authors": [
 "Armin Hatefi",
 "Ehsan Hatefi"
 ],
-"abstract": "We establish a framework for classifying higher-derivative Ramond-Ramond (RR) couplings on Dp-branes, focusing on the complete scattering amplitude of a closed-string RR state, a gauge field, and two transverse scalars. The low-energy expansion reveals infinite massless poles and local interaction terms, surpassing standard Myers and Taylor expansions. We propose a higher-class deformation of the pullback using mixed Chern-Simons transgression operators to address these complexities. Our three conjectures are as follows: 1. For fixed field content and derivative order, effective couplings form a finite-dimensional space under stated equivalences. 2. A family of mixed RR, gauge, and scalar interactions exists at all orders, represented by a finite number of effective even forms. 3. The higher-derivative contact-term sector can be constructed from a finite set of basic tensor structures using polynomials in derivative symbols. We introduce a higher-class pullback operator \\( P_{\\infty} \\) and mixed transgression operators \\( \\mathcal{T}_{\\infty} \\), emphasizing amplitude-derived pole residues and local contact terms as key physical data. This formalism distinguishes admissible tensor structures, presenting characteristic-form aspects as conjectures alongside their validity considerations.",
+"abstract": "We establish a geometric framework for classifying higher-derivative Ramond-Ramond (RR) couplings on Dp-branes, focusing on the complete scattering amplitude of a closed-string RR state, a gauge field, and two transverse scalars. The low-energy expansion reveals infinite massless poles and local interaction terms that are beyond standard Myers and Taylor expansions. We propose a higher-class deformation of the pullback using mixed Chern-Simons transgression operators to address these complexities. We also propose a generalized class Chern character and three conjectures: (i) the finite dimensionality of independent couplings at fixed derivative order, (ii) the representation of all-order mixed RR-gauge-scalar interactions through finitely many effective even forms, and (iii) the generation of higher-derivative contact terms from finitely many primitive tensor structures. Our framework provides a systematic mathematical foundation for reconstructing D-brane effective actions and exploring their underlying geometric and cohomological structures. We also introduce a higher-class pullback operator \\( P_{\\infty} \\) and mixed transgression operators \\( \\mathcal{T}_{\\infty} \\), emphasizing amplitude-derived pole residues and local contact terms as key physical data. This formalism distinguishes admissible tensor structures, presenting characteristic-form aspects as conjectures alongside their validity and their constraints.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -4601,16 +4601,16 @@
 ],
 "topE": [
 [
+0.005,
+"3088651"
+],
+[
 0.004,
 "1362180"
 ],
 [
 0.0,
 "939581"
-],
-[
-0.0,
-"922180"
 ]
 ],
 "isme": false,
