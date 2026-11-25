@@ -214,9 +214,9 @@
 {
 "arxiv": "2611.30799",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 213,
+"recid": "3233342",
+"src": "INSPIRE",
+"nref": 227,
 "title": "Fermionic dark linear seesaw with an anomalous Majoron",
 "authors": [
 "A. Batra",
@@ -234,27 +234,27 @@
 "3094526",
 "2931725",
 "3193100",
-"2623114",
 "2134261",
-"2940264",
+"2623114",
 "2668911",
-"2855372",
+"2940264",
 "2074211",
 "2656261",
+"2855372",
 "2940359",
+"1399202",
+"1362180",
 "1724453",
 "2625199",
-"1362180",
-"1399202",
-"1881670",
 "1667060",
+"1881670",
 "1386494",
 "1501489",
 "1607799"
 ],
 "topR": [
 [
-0.044,
+0.045,
 "1741056"
 ],
 [
@@ -297,11 +297,74 @@
 "score": 51.0
 },
 {
+"arxiv": "2611.31142",
+"section": "new",
+"recid": "3233390",
+"src": "INSPIRE",
+"nref": 78,
+"title": "A proposal for an LHC search for baryon number violation in complementarity with trilepton nucleon decay searches",
+"authors": [
+"Amit Bhoonah",
+"Francis M. Burk",
+"Da Liu",
+"Tong Ou",
+"Deepak Sathyan"
+],
+"abstract": "We investigate the compatibility of existing limits on trilepton nucleon decay by the Super-Kamiokande (Super-K) experiment with Baryon Number Violation (BNV) at the TeV scale and motivate a dedicated search using existing data at the LHC. Working within an effective field theory framework, we derive model-independent constraints on higher-dimensional operators associated with $B - L/3$ conserving texture of BNV. We demonstrate that existing Super-K limits on loop-level trilepton nucleon decay provide significantly stronger constraints compared to tree-level charm-baryon decays induced by these operators. These constraints translate into bounds of $O(1-30)$ TeV on the BNV scale, leaving open the possibility of an LHC search for $B - L/3$ type BNV. Motivated by this complementarity, we investigate the collider phenomenology of a representative UV completion featuring an $s$-channel diquark resonance that decays into a leptoquark--dilepton pair, producing a distinctive final state containing an anti-top quark, two charged anti-leptons, and missing transverse energy. Our results indicate that, although same-sign dilepton searches by ATLAS and CMS already place indirect constraints on this model, a dedicated analysis based on the selection cuts we develop significantly extends the reach for our chosen benchmarks. In particular, using only Run 2 data, we demonstrate complementary reach to limits on trilepton nucleon decay searches set by the Super-K experiment and to the projected reach of Hyper-Kamiokande. The selection cuts are applicable beyond our representative model.",
+"citR": [],
+"citE": [
+"2053590",
+"2817040"
+],
+"topR": [
+[
+0.031,
+"1615477"
+],
+[
+0.028,
+"2690106"
+],
+[
+0.024,
+"1854224"
+]
+],
+"topE": [
+[
+0.315,
+"3188391"
+],
+[
+0.306,
+"3157653"
+],
+[
+0.143,
+"1861353"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"collider phenomenology"
+],
+"watch": [],
+"parts": [
+0.48,
+0.1,
+0.9,
+0.0,
+0.31
+],
+"score": 36.5
+},
+{
 "arxiv": "2611.30638",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 135,
+"recid": "3233321",
+"src": "INSPIRE",
+"nref": 140,
 "title": "Towards a Global CE$ν$NS Picture",
 "authors": [
 "Heerak Banerjee",
@@ -330,15 +393,15 @@
 ],
 "topE": [
 [
-0.236,
+0.235,
 "2085162"
 ],
 [
-0.178,
+0.172,
 "2513697"
 ],
 [
-0.152,
+0.147,
 "2762109"
 ]
 ],
@@ -353,70 +416,7 @@
 0.0,
 0.0
 ],
-"score": 36.4
-},
-{
-"arxiv": "2611.31142",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 78,
-"title": "A proposal for an LHC search for baryon number violation in complementarity with trilepton nucleon decay searches",
-"authors": [
-"Amit Bhoonah",
-"Francis M. Burk",
-"Da Liu",
-"Tong Ou",
-"Deepak Sathyan"
-],
-"abstract": "We investigate the compatibility of existing limits on trilepton nucleon decay by the Super-Kamiokande (Super-K) experiment with Baryon Number Violation (BNV) at the TeV scale and motivate a dedicated search using existing data at the LHC. Working within an effective field theory framework, we derive model-independent constraints on higher-dimensional operators associated with $B - L/3$ conserving texture of BNV. We demonstrate that existing Super-K limits on loop-level trilepton nucleon decay provide significantly stronger constraints compared to tree-level charm-baryon decays induced by these operators. These constraints translate into bounds of $O(1-30)$ TeV on the BNV scale, leaving open the possibility of an LHC search for $B - L/3$ type BNV. Motivated by this complementarity, we investigate the collider phenomenology of a representative UV completion featuring an $s$-channel diquark resonance that decays into a leptoquark--dilepton pair, producing a distinctive final state containing an anti-top quark, two charged anti-leptons, and missing transverse energy. Our results indicate that, although same-sign dilepton searches by ATLAS and CMS already place indirect constraints on this model, a dedicated analysis based on the selection cuts we develop significantly extends the reach for our chosen benchmarks. In particular, using only Run 2 data, we demonstrate complementary reach to limits on trilepton nucleon decay searches set by the Super-K experiment and to the projected reach of Hyper-Kamiokande. The selection cuts are applicable beyond our representative model.",
-"citR": [],
-"citE": [
-"2053590",
-"2817040"
-],
-"topR": [
-[
-0.032,
-"1615477"
-],
-[
-0.028,
-"2690106"
-],
-[
-0.024,
-"1854224"
-]
-],
-"topE": [
-[
-0.309,
-"3157653"
-],
-[
-0.308,
-"3188391"
-],
-[
-0.144,
-"1861353"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"collider phenomenology"
-],
-"watch": [],
-"parts": [
-0.48,
-0.1,
-0.88,
-0.0,
-0.31
-],
-"score": 36.2
+"score": 36.3
 },
 {
 "arxiv": "2611.28214",
@@ -664,9 +664,9 @@
 {
 "arxiv": "2611.30780",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 50,
+"recid": "3233338",
+"src": "INSPIRE",
+"nref": 51,
 "title": "Light on GeV-scale seesaw",
 "authors": [
 "Enrico Bertuzzo",
@@ -694,16 +694,16 @@
 ],
 "topE": [
 [
-0.147,
+0.157,
 "2671727"
 ],
 [
-0.141,
+0.148,
 "3073459"
 ],
 [
-0.086,
-"3092811"
+0.087,
+"2760060"
 ]
 ],
 "isme": false,
@@ -714,19 +714,19 @@
 "watch": [],
 "parts": [
 0.45,
-0.13,
-0.42,
+0.12,
+0.45,
 0.0,
 0.25
 ],
-"score": 28.4
+"score": 28.8
 },
 {
 "arxiv": "2611.24241",
 "section": "replacement",
 "recid": "3230948",
 "src": "INSPIRE",
-"nref": 53,
+"nref": 54,
 "title": "Search for Heavy Charged Higgs Bosons in Boosted Top and Bottom Quark Final States at a 1.4 TeV Future Lepton Collider",
 "authors": [
 "Majid Hashemi"
@@ -743,7 +743,7 @@
 "1116165"
 ],
 [
-0.048,
+0.047,
 "468209"
 ],
 [
@@ -753,11 +753,11 @@
 ],
 "topE": [
 [
-0.105,
+0.104,
 "1224299"
 ],
 [
-0.095,
+0.094,
 "1923685"
 ],
 [
@@ -771,12 +771,12 @@
 "watch": [],
 "parts": [
 0.48,
-0.16,
+0.15,
 0.3,
 0.0,
 0.06
 ],
-"score": 26.7
+"score": 26.6
 },
 {
 "arxiv": "2608.29259",
@@ -933,29 +933,29 @@
 ],
 "topR": [
 [
-0.021,
+0.02,
 "1708009"
 ],
 [
-0.013,
+0.012,
 "599285"
 ],
 [
-0.011,
+0.01,
 "1746620"
 ]
 ],
 "topE": [
 [
-0.113,
+0.112,
 "2890702"
 ],
 [
-0.101,
+0.1,
 "2085162"
 ],
 [
-0.101,
+0.1,
 "2909343"
 ]
 ],
@@ -970,7 +970,7 @@
 0.0,
 0.0
 ],
-"score": 23.6
+"score": 23.5
 },
 {
 "arxiv": "2611.28199",
@@ -1038,8 +1038,8 @@
 {
 "arxiv": "2611.30764",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3233341",
+"src": "INSPIRE",
 "nref": 116,
 "title": "Fate of Vainshtein Screening for UV/IR Mixing with a $P(X)$ Higgs Classicalizer",
 "authors": [
@@ -1091,67 +1091,6 @@
 0.0
 ],
 "score": 19.7
-},
-{
-"arxiv": "2611.31130",
-"section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 74,
-"title": "The Sensitivity of Gamma-Ray Searches for Dark Matter Annihilation in Milky Way Dwarf Galaxies: the LSST Era and Beyond",
-"authors": [
-"Ilumi Chavez",
-"Aditya Ghosh",
-"Chris Kelso",
-"Dan Hooper",
-"Alex Drlica-Wagner",
-"Ethan O. Nadler"
-],
-"abstract": "We forecast the sensitivity of gamma-ray searches to dark matter annihilation in Milky Way satellite dwarf galaxies using BabyBison, a Monte Carlo pipeline combining cosmological satellite simulations and observational selection functions with a joint likelihood analysis of gamma-ray data. Although LSST is expected to substantially expand the catalog of known satellite galaxies, we find that these discoveries are likely to produce only modest improvements in the resulting dark matter annihilation constraints, typically below 20\\%. Much more substantial gains are possible, however, in relatively rare realizations that contain yet-to-be-discovered satellites with large $J$-factors. These results reinforce the fact that indirect detection analyses using the population of dwarf galaxies are typically driven in large part by a small number of high-$J$-factor systems rather than by the total satellite count. We present projections for the sensitivity of Fermi-LAT and the proposed Advanced Particle-astrophysics Telescope (APT) to dark matter annihilation, finding that a complete census of the Milky Way dwarf sample could enable such instruments to probe dark matter with masses up to the TeV scale. We also investigate the dark matter discovery potential of these instruments and project their ability to measure the properties of an annihilating dark matter particle.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.099,
-"1421624"
-],
-[
-0.018,
-"1119599"
-],
-[
-0.014,
-"2855387"
-]
-],
-"topE": [
-[
-0.176,
-"2674992"
-],
-[
-0.176,
-"2634487"
-],
-[
-0.107,
-"1312198"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [
-"indirect detection"
-],
-"watch": [],
-"parts": [
-0.0,
-0.26,
-0.5,
-0.0,
-0.29
-],
-"score": 18.1
 },
 {
 "arxiv": "2608.18949",
@@ -1217,11 +1156,72 @@
 "score": 18.1
 },
 {
+"arxiv": "2611.31130",
+"section": "cross",
+"recid": "3233360",
+"src": "INSPIRE",
+"nref": 83,
+"title": "The Sensitivity of Gamma-Ray Searches for Dark Matter Annihilation in Milky Way Dwarf Galaxies: the LSST Era and Beyond",
+"authors": [
+"Ilumi Chavez",
+"Aditya Ghosh",
+"Chris Kelso",
+"Dan Hooper",
+"Alex Drlica-Wagner",
+"Ethan O. Nadler"
+],
+"abstract": "We forecast the sensitivity of gamma-ray searches to dark matter annihilation in Milky Way satellite dwarf galaxies using BabyBison, a Monte Carlo pipeline combining cosmological satellite simulations and observational selection functions with a joint likelihood analysis of gamma-ray data. Although LSST is expected to substantially expand the catalog of known satellite galaxies, we find that these discoveries are likely to produce only modest improvements in the resulting dark matter annihilation constraints, typically below 20\\%. Much more substantial gains are possible, however, in relatively rare realizations that contain yet-to-be-discovered satellites with large $J$-factors. These results reinforce the fact that indirect detection analyses using the population of dwarf galaxies are typically driven in large part by a small number of high-$J$-factor systems rather than by the total satellite count. We present projections for the sensitivity of Fermi-LAT and the proposed Advanced Particle-astrophysics Telescope (APT) to dark matter annihilation, finding that a complete census of the Milky Way dwarf sample could enable such instruments to probe dark matter with masses up to the TeV scale. We also investigate the dark matter discovery potential of these instruments and project their ability to measure the properties of an annihilating dark matter particle.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.098,
+"1421624"
+],
+[
+0.018,
+"1119599"
+],
+[
+0.014,
+"2855387"
+]
+],
+"topE": [
+[
+0.174,
+"2674992"
+],
+[
+0.174,
+"2634487"
+],
+[
+0.106,
+"1312198"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [
+"indirect detection"
+],
+"watch": [],
+"parts": [
+0.0,
+0.25,
+0.5,
+0.0,
+0.29
+],
+"score": 17.9
+},
+{
 "arxiv": "2611.30877",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 41,
+"recid": "3233334",
+"src": "INSPIRE",
+"nref": 42,
 "title": "Unbinned Likelihoods for Probability Densities with Poles",
 "authors": [
 "Méril Reboud",
@@ -1249,15 +1249,15 @@
 ],
 "topE": [
 [
-0.032,
+0.035,
 "2963992"
 ],
 [
-0.031,
+0.033,
 "3206672"
 ],
 [
-0.03,
+0.033,
 "1710056"
 ]
 ],
@@ -1268,11 +1268,11 @@
 "parts": [
 0.45,
 0.0,
-0.09,
+0.1,
 0.0,
 0.0
 ],
-"score": 17.2
+"score": 17.3
 },
 {
 "arxiv": "2607.04679",
@@ -1689,7 +1689,7 @@
 "section": "replacement",
 "recid": "3220170",
 "src": "INSPIRE",
-"nref": 61,
+"nref": 62,
 "title": "Inelastic Kinetic Decoupling in WIMP Leptogenesis: A Minimal $Z_4$ Model",
 "authors": [
 "An Liu",
@@ -1704,7 +1704,7 @@
 "2859009"
 ],
 [
-0.02,
+0.019,
 "2855387"
 ],
 [
@@ -1714,15 +1714,15 @@
 ],
 "topE": [
 [
-0.081,
+0.08,
 "2628411"
 ],
 [
-0.081,
+0.08,
 "3070028"
 ],
 [
-0.079,
+0.078,
 "2851262"
 ]
 ],
@@ -1735,12 +1735,12 @@
 "watch": [],
 "parts": [
 0.0,
-0.12,
+0.11,
 0.23,
 0.0,
 0.45
 ],
-"score": 11.5
+"score": 11.4
 },
 {
 "arxiv": "2307.07578",
@@ -2089,63 +2089,6 @@
 "score": 8.5
 },
 {
-"arxiv": "2511.22949",
-"section": "replacement",
-"recid": "3087412",
-"src": "INSPIRE",
-"nref": 60,
-"title": "Solving the Domain Wall Problem: Primordial Magnetic Fields as a Dynamical Solution",
-"authors": [
-"Zizhuo Zhao",
-"Yuefeng Di",
-"Ligong Bian",
-"Jing Shu"
-],
-"abstract": "To prevent overclosing the Universe, stable domain walls must decay-a problem typically addressed by breaking the Peccei-Quinn symmetry with a bias term. In this Letter, we present a novel mechanism in which a helical primordial magnetic field provides a spatially inhomogeneous Chern-Simons source that drives the axion field. We validate this mechanism through three-dimensional lattice simulations of the evolving domain-wall network, demonstrating its efficacy in inducing decay. Our quantitative analysis reveals that the correlation length of the primordial magnetic field is a crucial determinant of the decay rate of the network and the properties of the emitted axions and gravitational waves. In particular, the axion emitted from the decaying domain-wall network can contribute to the dark matter abundance, and the associated gravitational-wave signal lies in the frequency range probed by pulsar timing array experiments.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.05,
-"1607572"
-],
-[
-0.013,
-"1663960"
-],
-[
-0.008,
-"796080"
-]
-],
-"topE": [
-[
-0.083,
-"2860403"
-],
-[
-0.068,
-"2736974"
-],
-[
-0.067,
-"3085923"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.13,
-0.24,
-0.0,
-0.07
-],
-"score": 8.2
-},
-{
 "arxiv": "2610.27346",
 "section": "replacement",
 "recid": "3216856",
@@ -2373,6 +2316,63 @@
 "score": 7.4
 },
 {
+"arxiv": "2511.22949",
+"section": "replacement",
+"recid": "3232885",
+"src": "INSPIRE",
+"nref": 92,
+"title": "Solving the Domain Wall Problem: Primordial Magnetic Fields as a Dynamical Solution",
+"authors": [
+"Zizhuo Zhao",
+"Yuefeng Di",
+"Ligong Bian",
+"Jing Shu"
+],
+"abstract": "To prevent overclosing the Universe, stable domain walls must decay-a problem typically addressed by breaking the Peccei-Quinn symmetry with a bias term. In this Letter, we present a novel mechanism in which a helical primordial magnetic field provides a spatially inhomogeneous Chern-Simons source that drives the axion field. We validate this mechanism through three-dimensional lattice simulations of the evolving domain-wall network, demonstrating its efficacy in inducing decay. Our quantitative analysis reveals that the correlation length of the primordial magnetic field is a crucial determinant of the decay rate of the network and the properties of the emitted axions and gravitational waves. In particular, the axion emitted from the decaying domain-wall network can contribute to the dark matter abundance, and the associated gravitational-wave signal lies in the frequency range probed by pulsar timing array experiments.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.04,
+"1607572"
+],
+[
+0.011,
+"1663960"
+],
+[
+0.007,
+"796080"
+]
+],
+"topE": [
+[
+0.066,
+"2860403"
+],
+[
+0.062,
+"2039562"
+],
+[
+0.06,
+"2736974"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.1,
+0.19,
+0.0,
+0.07
+],
+"score": 6.7
+},
+{
 "arxiv": "2606.16754",
 "section": "replacement",
 "recid": "3168717",
@@ -2433,6 +2433,62 @@
 0.0
 ],
 "score": 6.6
+},
+{
+"arxiv": "2611.31011",
+"section": "new",
+"recid": "3233213",
+"src": "INSPIRE",
+"nref": 65,
+"title": "Lorentz symmetry in self-supervised representation learning",
+"authors": [
+"Andreas Hermansen",
+"Tobias Golling",
+"Slava Voloshynovskiy"
+],
+"abstract": "Self-supervised learning (SSL) and explicit physical inductive biases have driven major advances in jet tagging, yet they are typically pursued along separate tracks. In this work, we unify both paradigms by integrating the Lorentz-equivariant Geometric Algebra Transformer slim (L-GATr-slim) architecture with the LeJEPA framework for representation learning. Pre-training on 100 million jets from the JetClass dataset, we optimize towards a latent space, which is invariant across physics-motivated jet augmentations. We demonstrate that enforcing Lorentz symmetry in the latent space is critical for representation quality and that this can be achieved either architecturally or learned via kinematic augmentations. With a standard non-invariant Transformer backbone, LeJEPA outperforms established autoregressive, masked particle modelling, and self-distillation baselines in linear- and MLP-probe accuracy, with L-GATr-slim providing further complementary gains. Across downstream benchmarks, our pre-trained models consistently outperform baselines trained from scratch or through different pre-training objectives.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.029,
+"1455793"
+],
+[
+0.029,
+"1627633"
+],
+[
+0.019,
+"1615477"
+]
+],
+"topE": [
+[
+0.069,
+"2893828"
+],
+[
+0.047,
+"3187354"
+],
+[
+0.044,
+"2829800"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.09,
+0.2,
+0.0,
+0.0
+],
+"score": 5.8
 },
 {
 "arxiv": "2611.29122",
@@ -2653,62 +2709,6 @@
 0.0,
 0.0,
 0.25,
-0.0,
-0.0
-],
-"score": 3.7
-},
-{
-"arxiv": "2611.31011",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 61,
-"title": "Lorentz symmetry in self-supervised representation learning",
-"authors": [
-"Andreas Hermansen",
-"Tobias Golling",
-"Slava Voloshynovskiy"
-],
-"abstract": "Self-supervised learning (SSL) and explicit physical inductive biases have driven major advances in jet tagging, yet they are typically pursued along separate tracks. In this work, we unify both paradigms by integrating the Lorentz-equivariant Geometric Algebra Transformer slim (L-GATr-slim) architecture with the LeJEPA framework for representation learning. Pre-training on 100 million jets from the JetClass dataset, we optimize towards a latent space, which is invariant across physics-motivated jet augmentations. We demonstrate that enforcing Lorentz symmetry in the latent space is critical for representation quality and that this can be achieved either architecturally or learned via kinematic augmentations. With a standard non-invariant Transformer backbone, LeJEPA outperforms established autoregressive, masked particle modelling, and self-distillation baselines in linear- and MLP-probe accuracy, with L-GATr-slim providing further complementary gains. Across downstream benchmarks, our pre-trained models consistently outperform baselines trained from scratch or through different pre-training objectives.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.017,
-"1455793"
-],
-[
-0.012,
-"1615477"
-],
-[
-0.01,
-"1627633"
-]
-],
-"topE": [
-[
-0.051,
-"2893828"
-],
-[
-0.041,
-"2829800"
-],
-[
-0.032,
-"3187354"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.05,
-0.15,
 0.0,
 0.0
 ],
@@ -3397,9 +3397,9 @@
 {
 "arxiv": "2611.30712",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 27,
+"recid": "3233337",
+"src": "INSPIRE",
+"nref": 26,
 "title": "Exact analytic solutions for the $n=1$ chameleon field in planar systems with an arbitrary number of uniform layers",
 "authors": [
 "Chad Briddon",
@@ -3424,15 +3424,15 @@
 ],
 "topE": [
 [
-0.061,
+0.052,
 "3174071"
 ],
 [
-0.018,
+0.016,
 "2931725"
 ],
 [
-0.012,
+0.01,
 "2940283"
 ]
 ],
@@ -3443,11 +3443,11 @@
 "parts": [
 0.0,
 0.0,
-0.17,
+0.15,
 0.0,
 0.0
 ],
-"score": 2.6
+"score": 2.2
 },
 {
 "arxiv": "2611.28513",
@@ -3564,8 +3564,8 @@
 {
 "arxiv": "2611.31107",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
+"recid": "3233380",
+"src": "INSPIRE",
 "nref": 36,
 "title": "Electromagnetic Memory as a Collider Observable",
 "authors": [
@@ -3793,9 +3793,9 @@
 {
 "arxiv": "2611.31080",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 53,
+"recid": "3233388",
+"src": "INSPIRE",
+"nref": 52,
 "title": "Kaon-pair production with NNLO effects",
 "authors": [
 "Yizhou Fang",
@@ -3829,8 +3829,8 @@
 "813721"
 ],
 [
-0.024,
-"2788812"
+0.019,
+"2163299"
 ]
 ],
 "isme": false,
@@ -3840,7 +3840,7 @@
 "parts": [
 0.0,
 0.0,
-0.1,
+0.11,
 0.0,
 0.0
 ],
@@ -4138,7 +4138,7 @@
 "section": "replacement",
 "recid": "2929331",
 "src": "INSPIRE",
-"nref": 107,
+"nref": 110,
 "title": "Local-equilibrium theory of neutrino oscillations",
 "authors": [
 "Lucas Johns",
@@ -4299,6 +4299,60 @@
 "score": 1.2
 },
 {
+"arxiv": "2611.31050",
+"section": "cross",
+"recid": "3233253",
+"src": "INSPIRE",
+"nref": 54,
+"title": "Gradient formula from the sphere for perturbative RG flows near critical dimensions",
+"authors": [
+"Marten Reehorst"
+],
+"abstract": "We study the gradient property of perturbative renormalisation group flows in $d=d_c-\\varepsilon$, with a potential and a metric regular at $\\varepsilon=0$ up to logarithms of gauge couplings. We state properties of the renormalised functional with local couplings on the sphere $S^d$: finiteness, a local Weyl anomaly, the Ward identity of a conformal Killing vector, rotation properties and statements on the free theory. From them we derive a Ward identity without anomaly for a combination of the functional and its anomaly. Its first variation is a gradient formula whose symmetric metric contains the two-point function on the sphere and whose potential at fixed points is, in an extended form of the properties, proportional to the sphere free energy $\\tilde F$ up to a constant. Sources of relevant operators enter through their Weyl variation, and in a scheme which we construct the gradient formula persists, with a nondegenerate metric if a matrix of the free theory is invertible. For multiscalar $φ^4$ theory and for scalars and Dirac fermions with Yukawa and quartic couplings in $d=4-\\varepsilon$, for sextic scalars in $d=3-\\varepsilon$ and for cubic scalars in $d=6-\\varepsilon$, we derive all these properties from a finiteness hypothesis. The gradient formula then holds to all orders for the beta function defined on the sphere. For interacting gauge theories the properties remain assumptions.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.02,
+"3213801"
+],
+[
+0.0,
+"939581"
+],
+[
+0.0,
+"922180"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.06,
+0.0,
+0.0
+],
+"score": 0.9
+},
+{
 "arxiv": "2607.00771",
 "section": "replacement",
 "recid": "3176262",
@@ -4357,7 +4411,7 @@
 "section": "replacement",
 "recid": "3217346",
 "src": "INSPIRE",
-"nref": 43,
+"nref": 44,
 "title": "Production of the weakly bound $T_{cc}^+$ state combining the coalescence model with its mass spectrum",
 "authors": [
 "Ao Wang",
@@ -4393,62 +4447,6 @@
 [
 0.015,
 "2817040"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.06,
-0.0,
-0.0
-],
-"score": 0.9
-},
-{
-"arxiv": "2608.08972",
-"section": "replacement",
-"recid": "3189177",
-"src": "INSPIRE",
-"nref": 51,
-"title": "Matrix Multiverses Meet Multiple Mythologies",
-"authors": [
-"Sidan A",
-"Tom Banks",
-"Willy Fischler"
-],
-"abstract": "We present a model in which asymptotically de Sitter universes of various types, and de Sitter (dS) radii $R_n$, live in the interiors of black holes in a maximally entropic flat $p = ρ$ Friedmann-Robertson-Walker universe. These dS universes clearly have many quantum states. We argue that they decay and equilibrate with the maximal entropy universe on time scales of order $α_n R_n {\\rm ln} (R_n /δ_n)$, where $α_n$ are model-dependent dimensionless constants and $δ_n$ are the initial distances between the shell, satisfying the Israel junction conditions, and the dS horizon. These are time-scales as viewed by a detector following a trajectory far from the would-be cosmological horizon. These times are all exponentially shorter than dS recurrence times, which have no meaning in this model. It is impossible for a detector inside one of the dS universes to determine whether it is actually part of such a structure. This model could be used as the basis for claiming that certain constants of nature or cosmological initial conditions were chosen to have mathematically unnatural values because other values could not lead to any form of intelligent life.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.02,
-"2743646"
-],
-[
-0.007,
-"707996"
-],
-[
-0.005,
-"2736974"
 ]
 ],
 "isme": false,
@@ -4577,60 +4575,6 @@
 "score": 0.8
 },
 {
-"arxiv": "2611.31050",
-"section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 53,
-"title": "Gradient formula from the sphere for perturbative RG flows near critical dimensions",
-"authors": [
-"Marten Reehorst"
-],
-"abstract": "We study the gradient property of perturbative renormalisation group flows in $d=d_c-\\varepsilon$, with a potential and a metric regular at $\\varepsilon=0$ up to logarithms of gauge couplings. We state properties of the renormalised functional with local couplings on the sphere $S^d$: finiteness, a local Weyl anomaly, the Ward identity of a conformal Killing vector, rotation properties and statements on the free theory. From them we derive a Ward identity without anomaly for a combination of the functional and its anomaly. Its first variation is a gradient formula whose symmetric metric contains the two-point function on the sphere and whose potential at fixed points is, in an extended form of the properties, proportional to the sphere free energy $\\tilde F$ up to a constant. Sources of relevant operators enter through their Weyl variation, and in a scheme which we construct the gradient formula persists, with a nondegenerate metric if a matrix of the free theory is invertible. For multiscalar $φ^4$ theory and for scalars and Dirac fermions with Yukawa and quartic couplings in $d=4-\\varepsilon$, for sextic scalars in $d=3-\\varepsilon$ and for cubic scalars in $d=6-\\varepsilon$, we derive all these properties from a finiteness hypothesis. The gradient formula then holds to all orders for the beta function defined on the sphere. For interacting gauge theories the properties remain assumptions.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.02,
-"3213801"
-],
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.06,
-0.0,
-0.0
-],
-"score": 0.8
-},
-{
 "arxiv": "2604.09732",
 "section": "replacement",
 "recid": "3144005",
@@ -4748,6 +4692,62 @@
 "score": 0.8
 },
 {
+"arxiv": "2608.08972",
+"section": "replacement",
+"recid": "3189177",
+"src": "INSPIRE",
+"nref": 54,
+"title": "Matrix Multiverses Meet Multiple Mythologies",
+"authors": [
+"Sidan A",
+"Tom Banks",
+"Willy Fischler"
+],
+"abstract": "We present a model in which asymptotically de Sitter universes of various types, and de Sitter (dS) radii $R_n$, live in the interiors of black holes in a maximally entropic flat $p = ρ$ Friedmann-Robertson-Walker universe. These dS universes clearly have many quantum states. We argue that they decay and equilibrate with the maximal entropy universe on time scales of order $α_n R_n {\\rm ln} (R_n /δ_n)$, where $α_n$ are model-dependent dimensionless constants and $δ_n$ are the initial distances between the shell, satisfying the Israel junction conditions, and the dS horizon. These are time-scales as viewed by a detector following a trajectory far from the would-be cosmological horizon. These times are all exponentially shorter than dS recurrence times, which have no meaning in this model. It is impossible for a detector inside one of the dS universes to determine whether it is actually part of such a structure. This model could be used as the basis for claiming that certain constants of nature or cosmological initial conditions were chosen to have mathematically unnatural values because other values could not lead to any form of intelligent life.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.019,
+"2743646"
+],
+[
+0.006,
+"707996"
+],
+[
+0.005,
+"2736974"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.06,
+0.0,
+0.0
+],
+"score": 0.8
+},
+{
 "arxiv": "2611.28323",
 "section": "new",
 "recid": "3232199",
@@ -4804,9 +4804,9 @@
 {
 "arxiv": "2611.30755",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 74,
+"recid": "3233345",
+"src": "INSPIRE",
+"nref": 75,
 "title": "A general formalism for electromagnetic production of two mesons on the nucleon",
 "authors": [
 "Reddy Malik Priandika",
@@ -4860,9 +4860,9 @@
 {
 "arxiv": "2611.30966",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 46,
+"recid": "3233383",
+"src": "INSPIRE",
+"nref": 47,
 "title": "Diffractive Photoproduction of High $p_T$ Photons in Ultraperipheral Collisions at the LHC",
 "authors": [
 "João V. Bulhões",
@@ -4913,21 +4913,17 @@
 "score": 0.7
 },
 {
-"arxiv": "2611.31168",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 171,
-"title": "New analytic constraints for the soft anomalous dimension bootstrap at three loops",
+"arxiv": "2603.09732",
+"section": "replacement",
+"recid": "3128057",
+"src": "INSPIRE",
+"nref": 37,
+"title": "Event-by-Event Multiplicity Cumulants as Probes of Partonic Energy Loss and Phase Structure in Au+Au Collisions within a Modified HIJING Model",
 "authors": [
-"Einan Gardi",
-"Luke Lippstreu",
-"Andrew J. McLeod",
-"Laura Walsh",
-"Zehao Zhu",
-"Enrico Zunino"
+"Y. A. Rusak",
+"L. F. Babichev"
 ],
-"abstract": "The soft anomalous dimension governs the universal long-distance singularities of gauge theory amplitudes. It exhibits a highly constrained analytic structure and has been shown to be amenable to bootstrap methods. In this paper we revisit the relation between unitarity cuts and sequential discontinuities of Feynman integrals and use it to derive new constraints on the soft anomalous dimension. At three loops, we show that certain sequential discontinuities in non-overlapping two-particle channels vanish for every web contributing to the quadrupole function that correlates four coloured partons. These constraints hold for arbitrary parton masses, and we explicitly verify them for the known massless and one-mass cases. We then demonstrate their constraining power by substantially strengthening the massless bootstrap and carrying out the first bootstrap construction of the one-mass quadrupole function. The new constraints are largely complementary to those arising from the absence of unphysical branch points, symmetries, and collinear and Regge limits. With their help, we determine each quadrupole function within the assumed function space up to a single coefficient, which we fix by matching to existing diagrammatic results. These results open the way to bootstrapping the three-loop soft anomalous dimension for amplitudes with several massive partons.",
+"abstract": "Event-by-event fluctuations of charged hadron multiplicity, net-proton, and net-electric charge are investigated in central Au+Au collisions at $\\sqrt{s_{NN}} =$ 20-200 GeV using a modified HIJING Monte Carlo generator. The model incorporates QCD-inspired partonic energy-loss formalisms in hot (quark--gluon plasma) and cold media, reducing reliance on the default HIJING energy-loss parameter. At energies above 100 GeV/nucleon, multiplicity and net-charge fluctuations show sensitivity to the assumed medium properties, while net-proton results provide an additional comparison with available STAR measurements. By introducing a probabilistic distribution for a first-order phase transition, we find within the present modified-HIJING framework that multiplicity cumulant ratios ($σ^2/M$ and $Sσ$) show a pronounced non-linear response to the adopted phase-allocation ansatz near the selected binodal energy, whereas net-charge and net-proton fluctuations remain relatively insensitive. Furthermore, expanding the kinematic acceptance enhances the sensitivity of multiplicity fluctuations to the selected transition region in the present phenomenological ansatz.",
 "citR": [],
 "citE": [],
 "topR": [
@@ -4946,16 +4942,16 @@
 ],
 "topE": [
 [
-0.015,
-"1494411"
+0.016,
+"2807770"
 ],
 [
-0.014,
-"3206672"
+0.0,
+"939581"
 ],
 [
-0.014,
-"3084425"
+0.0,
+"922180"
 ]
 ],
 "isme": false,
@@ -5198,6 +5194,65 @@
 "score": 0.6
 },
 {
+"arxiv": "2611.31168",
+"section": "new",
+"recid": "3233392",
+"src": "INSPIRE",
+"nref": 172,
+"title": "New analytic constraints for the soft anomalous dimension bootstrap at three loops",
+"authors": [
+"Einan Gardi",
+"Luke Lippstreu",
+"Andrew J. McLeod",
+"Laura Walsh",
+"Zehao Zhu",
+"Enrico Zunino"
+],
+"abstract": "The soft anomalous dimension governs the universal long-distance singularities of gauge theory amplitudes. It exhibits a highly constrained analytic structure and has been shown to be amenable to bootstrap methods. In this paper we revisit the relation between unitarity cuts and sequential discontinuities of Feynman integrals and use it to derive new constraints on the soft anomalous dimension. At three loops, we show that certain sequential discontinuities in non-overlapping two-particle channels vanish for every web contributing to the quadrupole function that correlates four coloured partons. These constraints hold for arbitrary parton masses, and we explicitly verify them for the known massless and one-mass cases. We then demonstrate their constraining power by substantially strengthening the massless bootstrap and carrying out the first bootstrap construction of the one-mass quadrupole function. The new constraints are largely complementary to those arising from the absence of unphysical branch points, symmetries, and collinear and Regge limits. With their help, we determine each quadrupole function within the assumed function space up to a single coefficient, which we fix by matching to existing diagrammatic results. These results open the way to bootstrapping the three-loop soft anomalous dimension for amplitudes with several massive partons.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.015,
+"1494411"
+],
+[
+0.014,
+"3206672"
+],
+[
+0.014,
+"3084425"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.04,
+0.0,
+0.0
+],
+"score": 0.6
+},
+{
 "arxiv": "2611.29670",
 "section": "cross",
 "recid": "3232329",
@@ -5313,7 +5368,7 @@
 "section": "replacement",
 "recid": "3228789",
 "src": "INSPIRE",
-"nref": 77,
+"nref": 98,
 "title": "RG evolution of the $B$-meson LCDA and radiative jet function at three loops",
 "authors": [
 "Ze Long Liu",
@@ -5339,70 +5394,16 @@
 ],
 "topE": [
 [
-0.015,
+0.013,
+"2817040"
+],
+[
+0.013,
+"1494411"
+],
+[
+0.013,
 "2163299"
-],
-[
-0.013,
-"1127719"
-],
-[
-0.013,
-"1923685"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.04,
-0.0,
-0.0
-],
-"score": 0.6
-},
-{
-"arxiv": "2610.10921",
-"section": "replacement",
-"recid": "3212856",
-"src": "INSPIRE",
-"nref": 84,
-"title": "Massive de Sitter Correlators as Finite Mellin-Barnes Integrals",
-"authors": [
-"Amara McCune"
-],
-"abstract": "Using the Mellin-Barnes representation of de Sitter propagators, we reduce tree-level heavy-particle exchange to finite integrals that converge at physical kinematics on mass-independent contours, and one-loop diagrams to the same integrand times a flat-space momentum factor. We compute the complete one-loop triangle at general masses, with its collider signal in closed form to all orders in the squeezed-limit expansion, and give the triple-exchange bispectrum at arbitrary heavy masses as a double series that converges at every physical shape. The loop reduction also applies at strong mixing.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.013,
-"2743646"
-],
-[
-0.003,
-"2736974"
-],
-[
-0.003,
-"2051195"
 ]
 ],
 "isme": false,
@@ -5587,6 +5588,62 @@
 "score": 0.5
 },
 {
+"arxiv": "2611.30475",
+"section": "new",
+"recid": "3233291",
+"src": "INSPIRE",
+"nref": 7,
+"title": "Pion scattering in finite volume within the Inverse Amplitude Method: Extension to moving frames",
+"authors": [
+"Julián A. Sánchez",
+"Raquel Molina",
+"Ángel Gómez Nicola"
+],
+"abstract": "We study the leading exponentially suppressed finite-volume corrections to $ππ$ scattering near threshold in moving frames. Using the one-loop Inverse Amplitude Method (IAM), we compute the $I=0$ and $I=2$ amplitudes in a box with total momentum $\\vec P=2π\\vec d/L$, including the left-hand cut and the $t$-, $u$-channel and tadpole contributions neglected in Lüscher's quantization condition. We derive the resulting correction to the near-threshold energy levels and measure its size relative to the Lüscher term. We find that it becomes comparable to the latter for $m_πL\\lesssim 1.5$--$1.7$ at rest, and that it is larger in moving frames, reaching $m_πL\\lesssim 2.8$ for $\\vec d=[002]$. The corrections become negligible only for $m_πL\\gtrsim 5$.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.012,
+"1127719"
+],
+[
+0.008,
+"1710056"
+],
+[
+0.007,
+"2817040"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.04,
+0.0,
+0.0
+],
+"score": 0.5
+},
+{
 "arxiv": "2611.28206",
 "section": "cross",
 "recid": "3232106",
@@ -5641,11 +5698,67 @@
 "score": 0.5
 },
 {
-"arxiv": "2611.31214",
+"arxiv": "2611.30429",
 "section": "cross",
 "recid": "",
 "src": "arXiv source",
-"nref": 154,
+"nref": 87,
+"title": "Revealing Nuclear Shape through Identified-Hadron Flow Decorrelations",
+"authors": [
+"Hadi Mehrabpour",
+"Abhisek Saha",
+"Li Yan"
+],
+"abstract": "Relativistic nuclear collisions encode nuclear shape in collective flow, yet the potential of identified hadrons to disentangle deformation modes remains largely unexplored. Using event-by-event viscous hydrodynamics coupled to hadronic transport, we investigate momentum-dependent elliptic-flow decorrelations of pions, kaons, and protons in central $^{238}$U+$^{238}$U collisions at 193 GeV and $^{20}$Ne+$^{20}$Ne collisions at 5.36 TeV. The identified species exhibit distinct momentum- and deformation-dependent responses, with nuclear-shape information persisting in their relative correlations even when individual deformation effects are weak. We introduce crossing coordinates $(P_{\\rm cross},R_{\\rm cross})$, defined by the intersection of pion-kaon and pion-proton flow-factorization ratios. Variations of quadrupole deformation and triaxiality generate distinct trajectories in the crossing plane, offering complementary constraints on both nuclear-shape parameters. The corresponding behavior persists in higher-moment correlations, while an energy comparison in Ne+Ne reveals the influence of collision dynamics. Our findings establish identified-particle flow decorrelations as a complementary approach to probing and constraining intrinsic nuclear geometry.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.011,
+"2771314"
+],
+[
+0.01,
+"2085162"
+],
+[
+0.004,
+"2890702"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.03,
+0.0,
+0.0
+],
+"score": 0.5
+},
+{
+"arxiv": "2611.31214",
+"section": "cross",
+"recid": "3233394",
+"src": "INSPIRE",
+"nref": 156,
 "title": "Massive de Sitter correlators at one loop",
 "authors": [
 "Amara McCune"
@@ -5679,6 +5792,60 @@
 [
 0.0,
 "922180"
+]
+],
+"isme": false,
+"coauthors": [],
+"topics": [],
+"watch": [],
+"parts": [
+0.0,
+0.0,
+0.03,
+0.0,
+0.0
+],
+"score": 0.5
+},
+{
+"arxiv": "2610.10921",
+"section": "replacement",
+"recid": "3212856",
+"src": "INSPIRE",
+"nref": 99,
+"title": "Massive de Sitter Correlators as Finite Mellin-Barnes Integrals",
+"authors": [
+"Amara McCune"
+],
+"abstract": "Using the Mellin-Barnes representation of de Sitter propagators, we reduce tree-level heavy-particle exchange to finite integrals that converge at physical kinematics on mass-independent contours, and one-loop diagrams to the same integrand times a flat-space momentum factor. We compute the complete one-loop triangle at general masses, with its collider signal in closed form to all orders in the squeezed-limit expansion, and give the triple-exchange bispectrum at arbitrary heavy masses as a double series that converges at every physical shape. The loop reduction also applies at strong mixing.",
+"citR": [],
+"citE": [],
+"topR": [
+[
+0.0,
+"926166"
+],
+[
+0.0,
+"922002"
+],
+[
+0.0,
+"860906"
+]
+],
+"topE": [
+[
+0.012,
+"2743646"
+],
+[
+0.003,
+"2736974"
+],
+[
+0.003,
+"2051195"
 ]
 ],
 "isme": false,
@@ -5806,8 +5973,8 @@
 {
 "arxiv": "2611.30535",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
+"recid": "3233294",
+"src": "INSPIRE",
 "nref": 46,
 "title": "Chiral crossover responses in a magnetic field: Finite-$μ_5$ matching in the NJL model",
 "authors": [
@@ -5913,67 +6080,11 @@
 "score": 0.4
 },
 {
-"arxiv": "2611.30475",
-"section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 8,
-"title": "Pion scattering in finite volume within the Inverse Amplitude Method: Extension to moving frames",
-"authors": [
-"Julián A. Sánchez",
-"Raquel Molina",
-"Ángel Gómez Nicola"
-],
-"abstract": "We study the leading exponentially suppressed finite-volume corrections to $ππ$ scattering near threshold in moving frames. Using the one-loop Inverse Amplitude Method (IAM), we compute the $I=0$ and $I=2$ amplitudes in a box with total momentum $\\vec P=2π\\vec d/L$, including the left-hand cut and the $t$-, $u$-channel and tadpole contributions neglected in Lüscher's quantization condition. We derive the resulting correction to the near-threshold energy levels and measure its size relative to the Lüscher term. We find that it becomes comparable to the latter for $m_πL\\lesssim 1.5$--$1.7$ at rest, and that it is larger in moving frames, reaching $m_πL\\lesssim 2.8$ for $\\vec d=[002]$. The corrections become negligible only for $m_πL\\gtrsim 5$.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.006,
-"2817040"
-],
-[
-0.004,
-"3193100"
-],
-[
-0.0,
-"939581"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.02,
-0.0,
-0.0
-],
-"score": 0.3
-},
-{
 "arxiv": "2611.30698",
 "section": "new",
-"recid": "",
-"src": "arXiv source",
-"nref": 72,
+"recid": "3233335",
+"src": "INSPIRE",
+"nref": 76,
 "title": "Construction of a conserved energy-momentum tensor of the Skyrmion coupled to additional dynamical degrees in the large-$N_c$ expansion",
 "authors": [
 "Mitsuru Tanaka",
@@ -6025,67 +6136,11 @@
 "score": 0.3
 },
 {
-"arxiv": "2611.30429",
-"section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 87,
-"title": "Revealing Nuclear Shape through Identified-Hadron Flow Decorrelations",
-"authors": [
-"Hadi Mehrabpour",
-"Abhisek Saha",
-"Li Yan"
-],
-"abstract": "Relativistic nuclear collisions encode nuclear shape in collective flow, yet the potential of identified hadrons to disentangle deformation modes remains largely unexplored. Using event-by-event viscous hydrodynamics coupled to hadronic transport, we investigate momentum-dependent elliptic-flow decorrelations of pions, kaons, and protons in central $^{238}$U+$^{238}$U collisions at 193 GeV and $^{20}$Ne+$^{20}$Ne collisions at 5.36 TeV. The identified species exhibit distinct momentum- and deformation-dependent responses, with nuclear-shape information persisting in their relative correlations even when individual deformation effects are weak. We introduce crossing coordinates $(P_{\\rm cross},R_{\\rm cross})$, defined by the intersection of pion-kaon and pion-proton flow-factorization ratios. Variations of quadrupole deformation and triaxiality generate distinct trajectories in the crossing plane, offering complementary constraints on both nuclear-shape parameters. The corresponding behavior persists in higher-moment correlations, while an energy comparison in Ne+Ne reveals the influence of collision dynamics. Our findings establish identified-particle flow decorrelations as a complementary approach to probing and constraining intrinsic nuclear geometry.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.006,
-"2771314"
-],
-[
-0.001,
-"2817040"
-],
-[
-0.001,
-"3193100"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.02,
-0.0,
-0.0
-],
-"score": 0.3
-},
-{
 "arxiv": "2611.30762",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
-"nref": 105,
+"recid": "3233350",
+"src": "INSPIRE",
+"nref": 114,
 "title": "Conservative tidal effects to third post-Minkowskian order in scalar-tensor theories",
 "authors": [
 "Zhengwen Liu",
@@ -6527,8 +6582,8 @@
 {
 "arxiv": "2611.31040",
 "section": "cross",
-"recid": "",
-"src": "arXiv source",
+"recid": "3233371",
+"src": "INSPIRE",
 "nref": 51,
 "title": "Finite Temperature Isoscalar Instabilities and Moat Regimes in Relativistic Nuclear Matter",
 "authors": [
@@ -6537,61 +6592,6 @@
 "Gastão Krein"
 ],
 "abstract": "We study the finite-temperature isoscalar collective response of symmetric nuclear matter in three relativistic mean-field descriptions: the linear Walecka model, its nonlinear extension, and the quark-meson coupling (QMC) model. The Walecka models are formulated in terms of nucle- onic degrees of freedom, whereas QMC incorporates quark degrees of freedom confined inside the nucleon. These models differ in their treatment of scalar interactions at finite density, affecting instability boundaries. Focusing on the coupled scalar-vector channel, we track how the boundaries of homogeneous instabilities evolve with temperature. In all three models, we find a nonmonotonic momentum dependence of the static response, characterized by a minimum at finite momentum, a moat regime that selects a preferred length scale for density fluctuations. Our results show that this moat structure is robust against thermal effects across these relativistic nuclear matter models, providing motivation for future studies of inhomogeneous phases in hot and dense astrophysical matter.",
-"citR": [],
-"citE": [],
-"topR": [
-[
-0.0,
-"926166"
-],
-[
-0.0,
-"922002"
-],
-[
-0.0,
-"860906"
-]
-],
-"topE": [
-[
-0.0,
-"939581"
-],
-[
-0.0,
-"922180"
-],
-[
-0.0,
-"914987"
-]
-],
-"isme": false,
-"coauthors": [],
-"topics": [],
-"watch": [],
-"parts": [
-0.0,
-0.0,
-0.0,
-0.0,
-0.0
-],
-"score": 0.0
-},
-{
-"arxiv": "2603.09732",
-"section": "replacement",
-"recid": "3128057",
-"src": "INSPIRE",
-"nref": 27,
-"title": "Event-by-Event Multiplicity Cumulants as Probes of Partonic Energy Loss and Phase Structure in Au+Au Collisions within a Modified HIJING Model",
-"authors": [
-"Y. A. Rusak",
-"L. F. Babichev"
-],
-"abstract": "Event-by-event fluctuations of charged hadron multiplicity, net-proton, and net-electric charge are investigated in central Au+Au collisions at $\\sqrt{s_{NN}} =$ 20-200 GeV using a modified HIJING Monte Carlo generator. The model incorporates QCD-inspired partonic energy-loss formalisms in hot (quark--gluon plasma) and cold media, reducing reliance on the default HIJING energy-loss parameter. At energies above 100 GeV/nucleon, multiplicity and net-charge fluctuations show sensitivity to the assumed medium properties, while net-proton results provide an additional comparison with available STAR measurements. By introducing a probabilistic distribution for a first-order phase transition, we find within the present modified-HIJING framework that multiplicity cumulant ratios ($σ^2/M$ and $Sσ$) show a pronounced non-linear response to the adopted phase-allocation ansatz near the selected binodal energy, whereas net-charge and net-proton fluctuations remain relatively insensitive. Furthermore, expanding the kinematic acceptance enhances the sensitivity of multiplicity fluctuations to the selected transition region in the present phenomenological ansatz.",
 "citR": [],
 "citE": [],
 "topR": [
