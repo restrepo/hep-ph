@@ -191,7 +191,7 @@
 "section": "replacement",
 "recid": "3128102",
 "src": "INSPIRE",
-"nref": 132,
+"nref": 135,
 "title": "Dark matter in classically conformal theories: WIMP and supercooling",
 "authors": [
 "Ke-Pan Xie",
@@ -205,11 +205,11 @@
 ],
 "topR": [
 [
-0.026,
+0.025,
 "1854224"
 ],
 [
-0.017,
+0.016,
 "1755250"
 ],
 [
@@ -219,16 +219,16 @@
 ],
 "topE": [
 [
-0.086,
-"1963411"
-],
-[
-0.083,
+0.079,
 "2807770"
 ],
 [
-0.08,
-"2684223"
+0.075,
+"2892286"
+],
+[
+0.072,
+"1963411"
 ]
 ],
 "isme": false,
@@ -238,11 +238,11 @@
 "parts": [
 0.48,
 0.08,
-0.24,
+0.23,
 0.0,
 0.07
 ],
-"score": 23.7
+"score": 23.3
 },
 {
 "arxiv": "2611.34525",
@@ -839,7 +839,7 @@
 "section": "replacement",
 "recid": "3202299",
 "src": "INSPIRE",
-"nref": 221,
+"nref": 217,
 "title": "Mathematical inverse problem for the world data inference of the parton distribution functions of the proton",
 "authors": [
 "Henri Hänninen"
@@ -852,7 +852,7 @@
 ],
 "topR": [
 [
-0.012,
+0.011,
 "530816"
 ],
 [
@@ -860,22 +860,22 @@
 "1397629"
 ],
 [
-0.006,
+0.005,
 "2690106"
 ]
 ],
 "topE": [
 [
-0.065,
+0.063,
 "2946993"
 ],
 [
-0.059,
+0.057,
 "2824738"
 ],
 [
-0.034,
-"2102705"
+0.036,
+"2817040"
 ]
 ],
 "isme": false,
@@ -885,11 +885,11 @@
 "parts": [
 0.11,
 0.03,
-0.19,
+0.18,
 0.0,
 0.0
 ],
-"score": 7.8
+"score": 7.7
 },
 {
 "arxiv": "2611.34439",
@@ -2089,7 +2089,7 @@
 "section": "replacement",
 "recid": "3138461",
 "src": "INSPIRE",
-"nref": 172,
+"nref": 160,
 "title": "Light-by-light scattering: asymptotic expansions, Coulomb resummation and NLO corrections",
 "authors": [
 "Ajjath A H",
@@ -2136,7 +2136,7 @@
 "parts": [
 0.06,
 0.01,
-0.07,
+0.06,
 0.0,
 0.0
 ],

@@ -14,8 +14,8 @@
 "abstract": "We study a real neutral scalar $X$ with a single flavour-off-diagonal coupling $h_{eμ}=h_{μe}\\equiv h$. The coupling induces associated production, $e^+e^-\\to e^\\pmμ^\\mp X$, and the decay $X\\to e^\\pmμ^\\mp$. The resulting four-lepton final state separates into the charge-balanced channel $e^+e^-μ^+μ^-$ and the same-sign same-flavour channels $e^\\pm e^\\pmμ^\\mpμ^\\mp$. The charge-balanced channel receives a large prompt continuum background, while the same-sign category has a small estimated background under our benchmark assumptions. We analyse the two channels at FCC-ee for $\\sqrt{s}=240~\\mathrm{GeV}$ and $\\mathcal{L}=10.8~\\mathrm{ab}^{-1}$, including a detector simulation. The collider sensitivities are compared with the one-coupling constraints from the electron and muon magnetic moments, muonium--antimuonium conversion, and LEP dilepton data. At $m_X=146~\\mathrm{GeV}$, motivated by the largest excess in the CMS $eμ$ resonance search, the expected 95\\% CL reach of the charge-balanced channel, including a 1\\% background uncertainty, is $|h|\\simeq 1.0 \\times 10^{-2}$, while the same-sign channel reaches $|h|\\simeq 1.7 \\times 10^{-3}$, compared with the cesium-based electron-$g-2$ bound $|h|<1.46\\times10^{-2}$. Both channels thus probe couplings below the present bound. The two signal rates are equal before selection; the difference in reach follows from the different backgrounds.",
 "citR": [],
 "citE": [
-"3193100",
 "2068399",
+"3193100",
 "1493855",
 "902365"
 ],
